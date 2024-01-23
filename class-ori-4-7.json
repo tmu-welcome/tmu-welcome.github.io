@@ -1,0 +1,258 @@
+{
+	"mapwidth": "660",
+	"mapheight": "490",
+	"defaultstyle": "light",
+	"styles": [
+		{
+			"class": "light",
+			"hover": {
+				"fill": "#f4f4f4"
+			},
+			"active": {
+				"fill": "#fff"
+			}
+		},
+		{
+			"class": "dark",
+			"hover": {
+				"fill": "#666"
+			},
+			"active": {
+				"fill": "#555"
+			}
+		}
+	],
+	"levels": [
+		{
+			"id": "4/7_1-kenpuku",
+			"title": "4/7 1F 10時00分～",
+			"map": "maps/class-ori/4-7-1-kenpuku.svg",
+			"minimap": "maps/class-ori/4-7-1-kenpuku.jpg",
+			"locations": [
+				{
+					"id": "4-7-kenpuku_room101",
+					"description": "101",
+					"about": "1号館1階101",
+					"title": "看護学科71",
+					"category": "健康福祉学部",
+					"x": "0.1287",
+					"y": "0.4181"
+				},
+				{
+					"id": "4-7-kenpuku_room102",
+					"description": "102",
+					"about": "1号館1階102",
+					"title": "看護学科72",
+					"category": "健康福祉学部",
+					"x": "0.1221",
+					"y": "0.2167"
+				},
+				{
+					"id": "4-7-kenpuku_room103",
+					"description": "103",
+					"about": "1号館1階103",
+					"title": "理学療法学科73",
+					"category": "健康福祉学部",
+					"x": "0.2184",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-7-kenpuku_room104",
+					"description": "104",
+					"about": "1号館1階104",
+					"title": "作業療法学科74",
+					"category": "健康福祉学部",
+					"x": "0.3148",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-7-kenpuku_room105",
+					"description": "105",
+					"about": "1号館1階105",
+					"title": "放射線学科75",
+					"category": "健康福祉学部",
+					"x": "0.4161",
+					"y": "0.2189"
+				}
+			]
+		},
+		{
+			"id": "4/7_1-SD",
+			"title": "4/7 1F 13時00分～",
+			"map": "maps/class-ori/4-7-1-SD.svg",
+			"minimap": "maps/class-ori/4-7-1-SD.jpg",
+			"locations": [
+				{
+					"id": "4-7-SD_room101",
+					"description": "101",
+					"about": "1号館1階101",
+					"title": "インダストリアルアート学科65",
+					"category": "システムデザイン学部",
+					"x": "0.1287",
+					"y": "0.4181"
+				},
+				{
+					"id": "4-7-SD_room102",
+					"description": "102",
+					"about": "1号館1階102",
+					"title": "情報科学科61",
+					"category": "システムデザイン学部",
+					"x": "0.1221",
+					"y": "0.2167"
+				},
+				{
+					"id": "4-7-SD_room103",
+					"description": "103",
+					"about": "1号館1階103",
+					"title": "電子情報システム工学科67",
+					"category": "システムデザイン学部",
+					"x": "0.2184",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-7-SD_room104",
+					"description": "104",
+					"about": "1号館1階104",
+					"title": "電子情報システム工学科62",
+					"category": "システムデザイン学部",
+					"x": "0.3148",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-7-SD_room105",
+					"description": "105",
+					"about": "1号館1階105",
+					"title": "機械システム工学科68",
+					"category": "システムデザイン学部",
+					"x": "0.4161",
+					"y": "0.2189"
+				},
+				{
+					"id": "4-7-SD_room107",
+					"description": "107",
+					"about": "1号館1階107",
+					"title": "機械システム工学科63",
+					"category": "システムデザイン学部",
+					"x": "0.4294",
+					"y": "0.3957"
+				},
+				{
+					"id": "4-7-SD_room109",
+					"description": "109",
+					"about": "1号館1階109",
+					"title": "航空宇宙システム工学科64",
+					"category": "システムデザイン学部",
+					"x": "0.3164",
+					"y": "0.4315"
+				}
+			]
+		},
+		{
+			"id": "4/7-2-ri",
+			"title": "4/7 2F 13時00分～",
+			"map": "maps/class-ori/4-7-2-ri.svg",
+			"minimap": "maps/class-ori/4-7-2-ri.jpg",
+			"locations": [
+				{
+					"id": "4-7-ri_room201",
+					"description": "201",
+					"about": "1号館2階201",
+					"title": "数理科学科41",
+					"category": "理学部",
+					"x": "0.1308",
+					"y": "0.4085"
+				},
+				{
+					"id": "4-7-ri_room202",
+					"description": "202",
+					"about": "1号館2階202",
+					"title": "物理学科42",
+					"category": "理学部",
+					"x": "0.1355",
+					"y": "0.2159"
+				},
+				{
+					"id": "4-7-ri_room203",
+					"description": "203",
+					"about": "1号館2階203",
+					"title": "化学科43",
+					"category": "理学部",
+					"x": "0.2227",
+					"y": "0.1752"
+				},
+				{
+					"id": "4-7-ri_room204",
+					"description": "204",
+					"about": "1号館2階204",
+					"title": "生命科学科44",
+					"category": "理学部",
+					"x": "0.3203",
+					"y": "0.1893"
+				}
+			]
+		},
+		{
+			"id": "4/7_1-toshikan",
+			"title": "4/7 1F 16時00分～",
+			"map": "maps/class-ori/4-7-1-toshikan.svg",
+			"minimap": "maps/class-ori/4-7-1-toshikan.jpg",
+			"show": "true",
+			"locations": [
+				{
+					"id": "4-7-toshikan_room101",
+					"description": "101",
+					"about": "1号館1階101",
+					"title": "地理環境学科51",
+					"category": "都市環境学部",
+					"x": "0.1287",
+					"y": "0.4181"
+				},
+				{
+					"id": "4-7-toshikan_room102",
+					"description": "102",
+					"about": "1号館1階102",
+					"title": "都市基盤環境学科52",
+					"category": "都市環境学部",
+					"x": "0.1221",
+					"y": "0.2167"
+				},
+				{
+					"id": "4-7-toshikan_room103",
+					"description": "103",
+					"about": "1号館1階103",
+					"title": "建築学科53",
+					"category": "理学部",
+					"x": "0.2184",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-7-toshikan_room104",
+					"description": "104",
+					"about": "1号館1階104",
+					"title": "環環境応用科学科54",
+					"category": "都市環境学部",
+					"x": "0.3148",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-7-toshikan_room105",
+					"description": "105",
+					"about": "1号館1階105",
+					"title": "観光科学科55",
+					"category": "都市環境学部",
+					"x": "0.4161",
+					"y": "0.2189"
+				},
+				{
+					"id": "4-7-toshikan_room107",
+					"description": "107",
+					"about": "1号館1階107",
+					"title": "都市政策科学科56",
+					"category": "都市環境学部",
+					"x": "0.4294",
+					"y": "0.3957"
+				}
+			]
+		}
+	]
+}

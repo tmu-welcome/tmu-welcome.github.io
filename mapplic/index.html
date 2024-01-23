@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- Meta -->
+		<meta charset="utf-8">
+		<title>Mapplic - Custom Interactive Map Plugin - Mall Example</title>
+
+		<!-- Viewport for Responsivity -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/png" href="favicon.png"/>
+
+		<meta name="description" content="Map of a shopping mall, an example of using Mapplic, a premium custom interactive map plugin to display custom image or vector (SVG) maps. Touchscreen kiosk map compatible.">
+
+		<!-- Stylesheets -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
+		<link rel="stylesheet" type="text/css" href="fontawesome/css/all.min.css">
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<link rel="stylesheet" type="text/css" href="mapplic/mapplic.css">
+	</head>
+	<body>
+		<div id="wrap">
+
+			<!-- Site header -->
+			<header id="header">
+				<div class="inner">
+					<nav>
+						<ul id="main-menu">
+							<li><a href="#" class="usage">Usage</a></li>
+							<li><a href="https://www.mapplic.com/plugin/docs/" target="_blank">Documentation</a></li>
+							<li><a href="https://1.envato.market/R5Nv" target="_blank">Contact</a></li>
+							<li><a href="https://1.envato.market/3eqn" target="_blank" class="button">Purchase<span>$32</span></a></li>
+						</ul>
+					</nav>
+
+					<a id="logo" href="./"></a>
+
+					<h1>User friendly <strong>Interactive Maps</strong> for any purpose</h1>
+
+					<div class="clear"></div>
+				</div>
+			</header>
+
+			<!-- Site content -->
+			<div id="content">
+				<section id="map-section" class="inner over">
+					<div class="editor-window">
+						<div class="editor-body">
+							<code>
+								{<br>
+								&nbsp;&nbsp;&nbsp;"id": "newlandmark",<br>
+								&nbsp;&nbsp;&nbsp;"title": "New Landmark",<br>
+								&nbsp;&nbsp;&nbsp;"description": "Creating a new landmark is that easy!",<br>
+								&nbsp;&nbsp;&nbsp;"x": "<span class="mapplic-coordinates-x">0.0000</span>",<br>
+								&nbsp;&nbsp;&nbsp;"y": "<span class="mapplic-coordinates-y">0.0000</span>",<br>
+								&nbsp;&nbsp;&nbsp;...<br>
+								}
+							</code>
+						</div>
+					</div>
+
+					<div class="map-container">
+						<div id="mapplic"></div> <!-- Map -->
+					</div>
+
+					<ul id="examples">
+						<li class="active"><a href="./">Mall Map</a></li>
+						<li><a href="apartment.html">Apartment</a></li>
+						<li><a href="lots.html">Lots</a></li>
+						<li><a href="world.html">World</a></li>
+						<li><a href="usa.html">United States</a></li>
+						<li><a href="world-us.html">World + US</a></li>
+						<li><a href="continents.html">Continents</a></li>
+						<li><a href="europe.html">Europe</a></li>
+						<li><a href="canada.html">Canada</a></li>
+						<li><a href="australia.html">Australia</a></li>
+						<li><a href="france.html">France</a></li>
+						<li><a href="germany.html">Germany</a></li>
+						<li><a href="italy.html">Italy</a></li>
+						<li><a href="uk.html">United Kingdom</a></li>
+						<li><a href="netherlands.html">Netherlands</a></li>
+						<li><a href="switzerland.html">Switzerland</a></li>
+						<li><a href="russia.html">Russia</a></li>
+						<li><a href="china.html">China</a></li>
+						<li><a href="brazil.html">Brazil</a></li>
+					</ul>
+
+					<div class="desc">
+						<h2><b>Shopping Mall</b> Map</h2>
+						<p>This is a demo map created with <b>Mapplic jQuery</b> plugin, using three svg files (one for each floor).</p>
+						<ul>
+							<li><p>Search <b>Highlight</b> active <span class="new">NEW in 6.0</span></p></li>
+							<li><p><b>Sidebar</b>, <b>Search</b> and other features of the plugin are enabled</p></li>
+							<li><p>More than one group can be assigned to any location</p></li>
+							<li><p><b>Multi-floor</b> feature is active</p></li>
+							<li><p>Responsive and touch optimized plugin</p></li>
+						</ul>
+						<p>Functionalities showcased on this page are supported out of the box, similar maps can be created with custom map data (groups, locations) and using any vector design as base map.<br><i>The above example is included in the download package</i>.</p>
+					</div>
+				</section>
+
+				<section class="gray">
+					<div class="inner">
+						<a id="wordpress" href="https://www.mapplic.com/" target="_blank"><img src="images/wp-logo.svg" alt="WordPress"><strong>WordPress</strong> version available!</a>
+					</div>
+				</section>
+
+			</div>
+
+			<!-- Site footer -->
+			<footer id="footer" class="dark">
+				<div class="inner">
+					<div class="container">
+						<div class="one-half">
+							<a href="./"><img src="images/logo-light.svg"></a>
+						</div>
+						<div class="one-half">
+							<h2>All-in-one <b>Mapping Tool</b></h2>
+							<p>Mapplic is the perfect choice for creating user friendly maps of any purpose: building, facility, site plan, location, world, country, region - you name it! </p>						
+						</div>
+					</div>
+				
+					<p class="copyright">Copyright &copy; 2021 <a href="https://1.envato.market/R5Nv">sekler</a>. All rights reserved.</p>
+				</div>
+			</footer>
+		</div>
+
+		<!-- Scripts -->
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
+		<script type="text/javascript" src="js/script.js"></script>
+		<script type="text/javascript" src="js/csvparser.js"></script> <!-- Required for CSV Support -->
+		<script type="text/javascript" src="mapplic/mapplic.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				var css = '.mapplic-filtered svg [id^=landmark] > * {opacity: 1 !important; }';
+
+				var map = $('#mapplic').mapplic({
+					source: 'mall.json',
+					customcss: css,
+					sidebar: true,
+					sidebartoggle: true,
+					alphabetic: true,
+					height: 560,
+					developer: true,
+					searchdescription: true,
+					searcheverywhere: true,
+					animations: true,
+					minimap: true,
+					marker: 'hidden',
+					fillcolor: false,
+					fullscreen: false,
+					
+					thumbholder: true,
+					maxscale: 3
+				});
+			});
+		</script>
+	</body>
+</html>

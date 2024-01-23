@@ -1,0 +1,178 @@
+{
+	"mapwidth": "660",
+	"mapheight": "490",
+	"defaultstyle": "light",
+	"styles": [
+		{
+			"class": "light",
+			"hover": {
+				"fill": "#f4f4f4"
+			},
+			"active": {
+				"fill": "#fff"
+			}
+		},
+		{
+			"class": "dark",
+			"hover": {
+				"fill": "#666"
+			},
+			"active": {
+				"fill": "#555"
+			}
+		}
+	],
+	"levels": [
+		{
+			"id": "4/6-1",
+			"title": "4/6 1F 15時30分～",
+			"map": "maps/class-ori/4-6-1.svg",
+			"minimap": "maps/class-ori/4-6-1.jpg",
+			"locations": [
+				{
+					"id": "4-6_room101",
+					"description": "101",
+					"about": "1号館1階101",
+					"title": "法学科21",
+					"category": "法学部",
+					"x": "0.1287",
+					"y": "0.4181"
+				},
+				{
+					"id": "4-6_room102",
+					"description": "102",
+					"about": "1号館1階102",
+					"title": "法学科22",
+					"category": "法学部",
+					"x": "0.1221",
+					"y": "0.2167"
+				},
+				{
+					"id": "4-6_room103",
+					"description": "103",
+					"about": "1号館1階103",
+					"title": "法学科23",
+					"category": "法学部",
+					"x": "0.2184",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-6_room104",
+					"description": "104",
+					"about": "1号館1階104",
+					"title": "法学科24",
+					"category": "法学部",
+					"x": "0.3148",
+					"y": "0.1831"
+				},
+				{
+					"id": "4-6_room105",
+					"description": "105",
+					"about": "1号館1階105",
+					"title": "法学科25",
+					"category": "法学部",
+					"x": "0.4161",
+					"y": "0.2189"
+				},
+				{
+					"id": "4-6_room107",
+					"description": "107",
+					"about": "1号館1階107",
+					"title": "人文学科14",
+					"category": "人文社会学部",
+					"x": "0.4294",
+					"y": "0.3957"
+				},
+				{
+					"id": "4-6_room109",
+					"description": "109",
+					"about": "1号館1階109",
+					"title": "人文学科15",
+					"category": "人文社会学部",
+					"x": "0.3164",
+					"y": "0.4315"
+				}
+			]
+		},
+		{
+			"id": "4/6_1-2",
+			"title": "4/6 2F 15時30分～",
+			"map": "maps/class-ori/4-6-2.svg",
+			"minimap": "maps/class-ori/4-6-2.jpg",
+			"locations": [
+				{
+					"id": "4-6_room201",
+					"description": "201",
+					"about": "1号館2階201",
+					"title": "経済経営学科31",
+					"category": "経済経営学部",
+					"x": "0.1308",
+					"y": "0.4085"
+				},
+				{
+					"id": "4-6_room202",
+					"description": "202",
+					"about": "1号館2階202",
+					"title": "経済経営学部32",
+					"category": "経済経営学部",
+					"x": "0.1355",
+					"y": "0.2159"
+				},
+				{
+					"id": "4-6_room203",
+					"description": "203",
+					"about": "1号館2階203",
+					"title": "経済経営学科33",
+					"category": "経済経営学部",
+					"x": "0.2227",
+					"y": "0.1752"
+				},
+				{
+					"id": "4-6_room204",
+					"description": "204",
+					"about": "1号館2階204",
+					"title": "経済経営学科34",
+					"category": "経済経営学部",
+					"x": "0.3203",
+					"y": "0.1893"
+				},
+				{
+					"id": "4-6_room205",
+					"description": "205",
+					"about": "1号館2階205",
+					"title": "経済経営学科35",
+					"category": "経済経営学部",
+					"x": "0.4157",
+					"y": "0.2128"
+				},
+				{
+					"id": "4-6_room206",
+					"description": "206",
+					"about": "1号館2階206",
+					"title": "人間社会学科11",
+					"category": "人文社会学部",
+					"x": "0.5099",
+					"y": "0.2159"
+				},
+				{
+					"id": "4-6_room208",
+					"description": "208",
+					"about": "1号館2階208",
+					"title": "人間社会学科12",
+					"category": "人文社会学部",
+					"x": "0.4355",
+					"y": "0.4148"
+				},
+				{
+					"id": "4-6_room209",
+					"description": "209",
+					"about": "1号館2階209",
+					"title": "人間社会学科13",
+					"category": "人文社会学部",
+					"x": "0.3192",
+					"y": "0.4367"
+				}
+			]
+		}
+	]
+}

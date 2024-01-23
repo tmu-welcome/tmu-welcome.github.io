@@ -1,0 +1,109 @@
+{
+	"mapwidth": "1000",
+	"mapheight": "500",
+	"defaultstyle": "light",
+	"styles": [
+		{
+			"class": "light",
+			"hover": { "fill": "#f4f4f4" },
+			"active": { "fill": "#fff" }
+		},
+		{
+			"class": "dark",
+			"hover": { "fill": "#666" },
+			"active": { "fill": "#555" }
+		}
+	],
+	"categories": [
+		{
+			"id": "使用可能教室",
+			"title": "利用可能教室",
+			"toggle": "true",
+			"color": "#b091b7"
+		}
+	],
+	"levels": [
+		{
+			"id": "floor-1-1",
+			"title": "floor-1-1",
+			"map": "mapplic/maps/1-1map.svg",
+			"minimap": "mapplic/maps/1-1map.jpg",
+			"show": "true",
+			"locations": [
+				{
+					"id": "room101",
+					"title": "101",
+					"about": "1号館1階101",
+					"description": "小教室",
+					"category": "使用可能教室",
+					"pin": "hidden",
+					"x": "0.2981",
+					"y": "0.4256"
+				},
+				{
+					"id": "room102",
+					"title": "102",
+					"about": "1号館1階102",
+					"description": "小教室",
+					"category": "使用可能教室",
+					"x": "0.2981",
+					"y": "0.2534"
+				},
+				{
+					"id":"room103",
+					"title":"103",
+					"about":"1号館1階103",
+					"description":"小教室",
+					"category":"使用可能教室",
+					"x":"0.3485",
+					"y":"0.2263"
+				},
+				{
+					"id":"room104",
+					"title":"104",
+					"about":"1号館1階104",
+					"description":"小教室",
+					"category":"使用可能教室",
+					"x":"0.4039",
+					"y":"0.2263"
+				},
+				{
+					"id":"room105",
+					"title":"105",
+					"about":"1号館1階105",
+					"description":"小教室",
+					"category":"使用可能教室",
+					"x":"0.4555",
+					"y":"0.2534"
+				},
+				{
+					"id":"room109",
+					"title":"109",
+					"about":"1号館1階109",
+					"description":"小教室",
+					"category":"使用可能教室",
+					"x":"0.4039",
+					"y":"0.4330"
+				},
+				{
+					"id":"room110",
+					"title":"110",
+					"about":"1号館1階110",
+					"description":"大教室",
+					"category":"使用可能教室",
+					"x":"0.6262",
+					"y":"0.2163"
+				},
+				{
+					"id":"room120",
+					"title":"120",
+					"about":"1号館1階120",
+					"description":"大教室",
+					"category":"使用可能教室",
+					"x":"0.6959",
+					"y":"0.5451"
+				}
+			]
+		}
+	]
+}

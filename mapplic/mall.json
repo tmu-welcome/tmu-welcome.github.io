@@ -1,0 +1,833 @@
+{
+	"mapwidth": "660",
+	"mapheight": "490",
+	"defaultstyle": "light",
+	"styles": [
+		{
+			"class": "light",
+			"hover": { "fill": "#f4f4f4" },
+			"active": { "fill": "#fff" }
+		},
+		{
+			"class": "dark",
+			"hover": { "fill": "#666" },
+			"active": { "fill": "#555" }
+		}
+	],
+	"categories": [
+		{
+			"id": "使用可能教室",
+			"title": "利用可能教室",
+			"toggle": "true",
+			"color": "#b091b7"
+		}
+	],
+	"levels": [
+		{
+			"id": "floor-1-1-first",
+			"title": "1号館1階前半",
+			"map": "../maps/1-1map-first.svg",
+			"minimap": "../maps/1-1map-first.jpg",
+			"show": "true",
+			"locations": [
+				{
+					"id": "room101f",
+					"title": "101",
+					"about": "1号館1階101",
+					"description": "das Lied",
+					"category": "音楽系",
+					"x": "0.1270",
+					"y": "0.4188"
+				},
+				{
+					"id": "room102f",
+					"title": "102",
+					"about": "1号館1階102",
+					"description": "デモンストレーションルーム",
+					"category": "デモンストレーションルーム",
+					"x": "0.1270",
+					"y": "0.2217"
+				},
+				{
+					"id":"room103f",
+					"title":"103",
+					"about":"1号館1階103",
+					"description":"サークル紹介本部",
+					"category":"サークル紹介本部",
+					"x":"0.2195",
+					"y":"0.1781"
+				},
+				{
+					"id":"room104f",
+					"title":"104",
+					"about":"1号館1階104",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3151",
+					"y":"0.1781"
+				},
+				{
+					"id":"room105f",
+					"title":"105",
+					"about":"1号館1階105",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.4136",
+					"y":"0.2217"
+				},
+				{
+					"id":"room109f",
+					"title":"109",
+					"about":"1号館1階109",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3151",
+					"y":"0.4226"
+				},
+				{
+					"id":"room110f",
+					"title":"110",
+					"about":"1号館1階110",
+					"description":"児童文化研究会<br>生協学生委員会つむぎ",
+					"category":"ボランティア, 個性的な活動",
+					"x":"0.7147",
+					"y":"0.1724"
+				},
+				{
+					"id":"room120f",
+					"title":"120",
+					"about":"1号館1階120",
+					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
+					"category":"個性的な活動, 運動系, モノづくり",
+					"x":"0.8497",
+					"y":"0.5950"
+				}
+			]
+		},
+		{
+			"id": "floor-1-2-first",
+			"title": "1号館2階前半",
+			"map": "../maps/1-2map-first.svg",
+			"minimap": "../maps/1-2map-first.jpg",
+			"locations": [
+				{
+					"id":"room210f",
+					"title":"210",
+					"about":"1号館2階210",
+					"description":"硬式庭球部<br>バドミントン部",
+					"category":"運動系",
+					"x":"0.7239",
+					"y":"0.1750"
+				},
+				{
+					"id":"room220f",
+					"title":"220",
+					"about":"1号館2階220",
+					"description":"劇団時計<br>Dolce",
+					"category":"文化系, 音楽系",
+					"x":"0.8547",
+					"y":"0.3782"
+				},
+				{
+					"id":"room230f",
+					"title":"230",
+					"about":"1号館2階230",
+					"description":"skyhand<br>星泳会<br>B類サッカー部<br>B類バスケットボール部",
+					"category":"運動系",
+					"x":"0.8547",
+					"y":"0.5619"
+				},
+				{
+					"id":"room240f",
+					"title":"240",
+					"about":"1号館2階240",
+					"description":"ESS<br>J-Boy",
+					"category":"文化系, 個性的な活動",
+					"x":"0.8547",
+					"y":"0.7330"
+				}
+			]
+		},
+		{
+			"id":"floor-7-1-first",
+			"title":"7号館1階前半",
+			"map":"../maps/7-1map-first.svg",
+			"minimap":"../maps/7-1map-first.jpg",
+			"locations":[
+				{
+					"id":"studio101f",
+					"title":"101",
+					"about":"7号館1階101",
+					"description":"競技ダンス部",
+					"category":"運動系",
+					"x":"0.9025",
+					"y":"0.4793"
+				},
+				{
+					"id":"music103f",
+					"title":"103",
+					"about":"7号館1階103",
+					"description":"Revolver",
+					"category":"文化系",
+					"x":"0.8561",
+					"y":"0.6861"
+				},
+				{
+					"id":"music104f",
+					"title":"104",
+					"about":"7号館1階104",
+					"description":"アイリッシュ音楽研究会",
+					"category":"音楽系",
+					"x":"0.7374",
+					"y":"0.7188"
+				},
+				{
+					"id":"music106f",
+					"title":"106",
+					"about":"7号館1階106",
+					"description":"unplugged",
+					"category":"音楽系",
+					"x":"0.7112",
+					"y":"0.6303"
+				}
+			]
+		},
+		{
+			"id":"floor-7-2-first",
+			"title":"7号館2階前半",
+			"map":"../maps/7-2map-first.svg",
+			"minimap":"../maps/7-2map-first.jpg",
+			"locations":[
+				{
+					"id":"wa211f",
+					"title":"211",
+					"about":"7号館2階211",
+					"description":"茶道研究会",
+					"category":"文化系",
+					"x":"0.8152",
+					"y":"0.6080"
+				},
+				{
+					"id":"wa212f",
+					"title":"212",
+					"about":"7号館2階212",
+					"description":"茶道研究会",
+					"category":"文化系",
+					"x":"0.7621",
+					"y":"0.6080"
+				},
+				{
+					"id":"wa213f",
+					"title":"213",
+					"about":"7号館2階213",
+					"description":"将棋部",
+					"category":"文化系",
+					"x":"0.6975",
+					"y":"0.6080"
+				},
+				{
+					"id":"wa215f",
+					"title":"215",
+					"about":"7号館2階215",
+					"description":"将棋部",
+					"category":"文化系",
+					"x":"0.6192",
+					"y":"0.6080"
+				},
+				{
+					"id":"room216f",
+					"title":"216",
+					"about":"7号館2階216",
+					"description":"写真部",
+					"category":"文化系",
+					"x":"0.5288",
+					"y":"0.6080"
+				},
+				{
+					"id":"room218f",
+					"title":"218",
+					"about":"7号館2階218",
+					"description":"人力飛行機研究会MaPPL",
+					"category":"モノづくり",
+					"x":"0.4253",
+					"y":"0.6080"
+				},
+				{
+					"id":"room221f",
+					"title":"221",
+					"about":"7号館2階221",
+					"description":"Closeup Music Circle",
+					"category":"文化系",
+					"x":"0.8152",
+					"y":"0.4025"
+				},
+				{
+					"id":"room222f",
+					"title":"222",
+					"about":"7号館2階222",
+					"description":"美術部",
+					"category":"文化系",
+					"x":"0.7621",
+					"y":"0.4025"
+				},
+				{
+					"id":"room223f",
+					"title":"223",
+					"about":"7号館2階223",
+					"description":"ボードゲーム研究会",
+					"category":"文化系",
+					"x":"0.7121",
+					"y":"0.4025"
+				},
+				{
+					"id":"room224f",
+					"title":"224",
+					"about":"7号館2階224",
+					"description":"キャプス5",
+					"category":"文化系",
+					"x":"0.6602",
+					"y":"0.4025"
+				},
+				{
+					"id":"room225f",
+					"title":"225",
+					"about":"7号館2階225",
+					"description":"応援団",
+					"category":"運動系",
+					"x":"0.6082",
+					"y":"0.4025"
+				},
+				{
+					"id":"room226f",
+					"title":"226",
+					"about":"7号館2階226",
+					"description":"いきもの！サークル東京",
+					"category":"個性的な活動",
+					"x":"0.5542",
+					"y":"0.4025"
+				},
+				{
+					"id":"room227f",
+					"title":"227",
+					"about":"7号館2階227",
+					"description":"推理小説研究会",
+					"category":"文化系",
+					"x":"0.5022",
+					"y":"0.4025"
+				},
+				{
+					"id":"room228f",
+					"title":"228",
+					"about":"7号館2階228",
+					"description":"ワンダーフォーゲル部",
+					"category":"運動系",
+					"x":"0.4476",
+					"y":"0.4025"
+				},
+				{
+					"id":"room229f",
+					"title":"229",
+					"about":"7号館2階229",
+					"description":"鉄道研究会",
+					"category":"文化系",
+					"x":"0.3991",
+					"y":"0.4025"
+				},
+				{
+					"id":"room7-230f",
+					"title":"230",
+					"about":"7号館2階230",
+					"description":"環境サークルnature",
+					"category":"文化系",
+					"x":"0.3244",
+					"y":"0.4025"
+				}
+			]
+		},
+		{
+			"id":"infome-first",
+			"title":"インフォメーションギャラリー前半",
+			"map":"../maps/infome-first.svg",
+			"minimap":"../infome-first.jpg",
+			"locations":[
+				{
+					"id":"no1",
+					"title":"テントNo.1",
+					"about":"インフォメーションギャラリーテントNo.1",
+					"description":"応援団",
+					"category":"運動系",
+					"x":"0.8954",
+					"y":"0.4302"
+				},
+				{
+					"id":"no2",
+					"title":"テントNo.2",
+					"about":"インフォメーションギャラリーテントNo.2",
+					"description":"水泳部",
+					"category":"運動系",
+					"x":"0.5328",
+					"y":"0.4209"
+				},
+				{
+					"id":"no3",
+					"title":"テントNo.3",
+					"about":"インフォメーションギャラリーテントNo.3",
+					"description":"ソフトテニス部",
+					"category":"運動系",
+					"x":"0.3606",
+					"y":"0.4209"
+				},
+				{
+					"id":"no4",
+					"title":"テントNo.4",
+					"about":"インフォメーションギャラリーテントNo.4",
+					"description":"アイスホッケー部",
+					"category":"運動系",
+					"x":"0.1879",
+					"y":"0.4209"
+				},
+				{
+					"id":"no5",
+					"title":"テントNo.5",
+					"about":"インフォメーションギャラリーテントNo.5",
+					"description":"山岳部",
+					"category":"運動系",
+					"x":"0.8954",
+					"y":"0.6152"
+				},
+				{
+					"id":"no6",
+					"title":"テントNo.6",
+					"about":"インフォメーションギャラリーテントNo.6",
+					"description":"フライングディスク部",
+					"category":"運動系",
+					"x":"0.5328",
+					"y":"0.6377"
+				},
+				{
+					"id":"no7",
+					"title":"テントNo.7",
+					"about":"インフォメーションギャラリーテントNo.7",
+					"description":"ラグビー部",
+					"category":"運動系",
+					"x":"0.3606",
+					"y":"0.6377"
+				},
+				{
+					"id":"no8",
+					"title":"テントNo.8",
+					"about":"インフォメーションギャラリーテントNo.8",
+					"description":"体操部",
+					"category":"運動系",
+					"x":"0.1879",
+					"y":"0.6377"
+				}
+			]
+		},
+		{
+			"id":"gakuhall-first",
+			"title":"学生ホール前半",
+			"map":"../maps/gakuhall-first.svg",
+			"minimap":"../maps/gakuhall-first.jpg",
+			"locations":[
+				{
+					
+				}
+			]
+		},
+		{
+			"id": "floor-1-1-second",
+			"title": "1号館1階後半",
+			"map": "../maps/1-1map-second.svg",
+			"minimap": "../maps/1-1map-second.jpg",
+			"locations": [
+				{
+					"id": "room101f",
+					"title": "101",
+					"about": "1号館1階101",
+					"description": "das Lied",
+					"category": "音楽系",
+					"x": "0.1955",
+					"y": "0.4303"
+				},
+				{
+					"id": "room102f",
+					"title": "102",
+					"about": "1号館1階102",
+					"description": "デモンストレーションルーム",
+					"category": "デモンストレーションルーム",
+					"x": "0.1955",
+					"y": "0.2625"
+				},
+				{
+					"id":"room103f",
+					"title":"103",
+					"about":"1号館1階103",
+					"description":"サークル紹介本部",
+					"category":"サークル紹介本部",
+					"x":"0.2711",
+					"y":"0.2339"
+				},
+				{
+					"id":"room104f",
+					"title":"104",
+					"about":"1号館1階104",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3493",
+					"y":"0.2339"
+				},
+				{
+					"id":"room105f",
+					"title":"105",
+					"about":"1号館1階105",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.4301",
+					"y":"0.2625"
+				},
+				{
+					"id":"room109f",
+					"title":"109",
+					"about":"1号館1階109",
+					"description":"デモンストレーションルーム",
+					"category":"デモンストレーションルーム",
+					"x":"0.3493",
+					"y":"0.4392"
+				},
+				{
+					"id":"room110f",
+					"title":"110",
+					"about":"1号館1階110",
+					"description":"児童文化研究会<br>生協学生委員会つむぎ",
+					"category":"ボランティア, 個性的な活動",
+					"x":"0.6807",
+					"y":"0.2214"
+				},
+				{
+					"id":"room120f",
+					"title":"120",
+					"about":"1号館1階120",
+					"description":"学術探検会<br>弓道部<br>CORE<br>女子バスケットボール部",
+					"category":"個性的な活動, 運動系, モノづくり",
+					"x":"0.7841",
+					"y":"0.5731"
+				}
+			]
+		},
+		{
+			"id": "floor-1-2-second",
+			"title": "1号館2階後半",
+			"map": "../maps/1-2map-second.svg",
+			"minimap": "../maps/1-2map-second.jpg",
+			"locations": [
+				{
+					"id":"room210f",
+					"title":"210",
+					"about":"1号館2階210",
+					"description":"硬式庭球部<br>バドミントン部",
+					"category":"運動系",
+					"x":"0.6793",
+					"y":"0.2357"
+				},
+				{
+					"id":"room220f",
+					"title":"220",
+					"about":"1号館2階220",
+					"description":"劇団時計<br>Dolce",
+					"category":"文化系, 音楽系",
+					"x":"0.7894",
+					"y":"0.3982"
+				},
+				{
+					"id":"room230f",
+					"title":"230",
+					"about":"1号館2階230",
+					"description":"skyhand<br>星泳会<br>B類サッカー部<br>B類バスケットボール部",
+					"category":"運動系",
+					"x":"0.7894",
+					"y":"0.5499"
+				},
+				{
+					"id":"room240f",
+					"title":"240",
+					"about":"1号館2階240",
+					"description":"ESS<br>J-Boy",
+					"category":"文化系, 個性的な活動",
+					"x":"0.7894",
+					"y":"0.6946"
+				}
+			]
+		},
+		{
+			"id":"floor-7-1-second",
+			"title":"7号館1階後半",
+			"map":"../maps/7-1map-second.svg",
+			"minimap":"../maps/7-1map-second.jpg",
+			"locations":[
+				{
+
+				}
+			]
+		},
+		{
+			"id":"floor-7-2-second",
+			"title":"7号館2階後半",
+			"map":"../maps/7-2map-second.svg",
+			"minimap":"../maps/7-2map-second.jpg",
+			"locations":[
+				{
+
+				}
+			]
+		},
+		{
+			"id":"infome-second",
+			"title":"インフォメーションギャラリー後半",
+			"map":"../maps/infome-second.svg",
+			"minimap":"../infome-second.jpg",
+			"locations":[
+				{
+
+				}
+			]
+		},
+		{
+			"id":"gakuhall-second",
+			"title":"学生ホール後半",
+			"map":"../maps/gakuhall-second.svg",
+			"minimap":"../maps/gakuhall-second.jpg",
+			"locations":[
+				{
+					
+				}
+			]
+		},
+		{
+			"id":"hall",
+			"title":"講堂",
+			"map":"../maps/hall2023.svg",
+			"minimap":"../maps/hall2023.jpg",
+			"locations":[
+				{
+
+				}
+			]
+		},
+		{
+			"id": "ground-floor",
+			"title": "Ground Floor",
+			"map": "mapplic/maps/mall/mall-ground.svg",
+			"minimap": "mapplic/maps/mall/mall-ground-mini.jpg",
+			"locations": [
+				{
+					"id": "nordstrom",
+					"title": "Nordstrom",
+					"about": "Lorem ipsum dolor sit amet.",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion,dep",
+					"style": "dark",
+					"x": "0.7856",
+					"y": "0.2023",
+					"zoom": "2"
+				},
+				{
+					"id": "macys",
+					"title": "Macy's",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "dep",
+					"x": "0.2021",
+					"y": "0.5847",
+					"zoom": "2"
+				},
+				{
+					"id": "jcpenney",
+					"title": "JCPenney",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "dep",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.6651",
+					"y": "0.6734",
+					"zoom": "2"
+				},
+				{
+					"id": "walgreens",
+					"title": "Walgreens",
+					"about": "Lorem ipsum",
+					"description": "At the corner of Happy & Healthy",
+					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
+					"category": "health",
+					"x": "0.4611",
+					"y": "0.5426"
+				},
+				{
+					"id": "sephora",
+					"title": "Sephora",
+					"about": "Lorem ipsum",
+					"description": "<p>Makeup, fragrance, skincare</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"image": "https://source.unsplash.com/v113g-WnhTI/400x150",
+					"category": "health",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.7504",
+					"y": "0.5211"
+				},
+				{
+					"id": "geox",
+					"title": "Geox",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.3947",
+					"y": "0.5544"
+				},
+				{
+					"id": "hnm",
+					"title": "H&M",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"x": "0.6445",
+					"y": "0.4478"
+				},
+				{
+					"id": "adidas",
+					"title": "Adidas",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"x": "0.3688",
+					"y": "0.3909"
+				},
+				{
+					"id": "massimodutti",
+					"title": "Massimo Dutti",
+					"about": "Lorem ipsum",
+					"description": "<p>Some people think design means how it looks. But of course, if you dig deeper, it's really how it works.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"x": "0.6243",
+					"y": "0.2655"
+				},
+				{
+					"id": "starbucks",
+					"title": "Starbucks",
+					"about": "Lorem ipsum",
+					"description": "<p>Enjoy today and every day with our creamy non-dairy beverage options.</p><strong>7:30 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"image": "https://source.unsplash.com/n-HtQS7IgU4/400x150",
+					"link": "https://www.mapplic.com/",
+					"category": "food",
+					"x": "0.5431",
+					"y": "0.5240"
+				},
+				{
+					"id": "zara",
+					"title": "Zara",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.4785",
+					"y": "0.2873"
+				}
+			]
+		},
+		{
+			"id": "first-floor",
+			"title": "First Floor",
+			"map": "mapplic/maps/mall/mall-first.svg",
+			"minimap": "mapplic/maps/mall/mall-first-mini.jpg",
+			"locations": [
+				{
+					"id": "applebees",
+					"title": "Applebee's",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>10:00 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"image": "https://source.unsplash.com/fDzQTTDI7bs/400x150",
+					"category": "food",
+					"style": "dark",
+					"x": "0.7536",
+					"y": "0.2196"
+				},
+				{
+					"id": "kfc",
+					"title": "KFC",
+					"about": "Lorem ipsum",
+					"description": "Kentucky Fried Chicken",
+					"category": "food",
+					"x": "0.7488",
+					"y": "0.4997"
+				},
+				{
+					"id": "mcdonalds",
+					"title": "McDonald's",
+					"about": "Lorem ipsum",
+					"description": "Additional information",
+					"category": "food",
+					"link": "https://1.envato.market/R5Nv",
+					"x": "0.7374",
+					"y": "0.3918"
+				},
+				{
+					"id": "pizzahut",
+					"title": "Pizza Hut",
+					"about": "Lorem ipsum",
+					"description": "Make it great",
+					"category": "food",
+					"x": "0.7092",
+					"y": "0.5232"
+				},
+				{
+					"id": "subway",
+					"title": "Subway",
+					"about": "Lorem ipsum",
+					"description": "Eat fresh.",
+					"category": "food",
+					"x": "0.6278",
+					"y": "0.2731"
+				},
+				{
+					"id": "cvs",
+					"title": "CVS Pharmacy",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>7:30 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "health",
+					"link": "https://1.envato.market/R5Nv",
+					"thumbnail": "CVS",
+					"x": "0.5104",
+					"y": "0.2471"
+				},
+				{
+					"id": "pullnbear",
+					"title": "Pull & Bear",
+					"about": "Lorem ipsum",
+					"description": "<p>Recognizing the need is the primary condition for design.</p><strong>7:30 - 22:00</strong> <small>(Monday - Sunday)</small>",
+					"category": "fashion",
+					"thumbnail": "PB",
+					"x": "0.4846",
+					"y": "0.2946"
+				},
+				{
+					"id": "amc",
+					"title": "AMC Theatres",
+					"about": "Lorem ipsum",
+					"description": "Additional information",
+					"category": "others",
+					"style": "dark",
+					"thumbnail": "AMC",
+					"x": "0.6671",
+					"y": "0.6851"
+				},
+				{
+					"id": "atnt",
+					"title": "AT&T",
+					"about": "Lorem ipsum",
+					"description": "Additional information",
+					"category": "others",
+					"x": "0.3750",
+					"y": "0.5391"
+				}
+			]
+		}
+	]
+}

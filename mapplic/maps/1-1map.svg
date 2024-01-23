@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="floor-1-1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="800px"
+	 height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
+<g id="背景">
+	<polyline id="base" fill="#DCDDDD" points="68.82,50.98 728.51,50.98 728.51,541.79 68.82,541.79 	"/>
+</g>
+<g id="男性用トイレ">
+	<polyline fill="#54C3F1" stroke="#283331" stroke-miterlimit="10" points="461.36,174.45 479.72,174.45 479.72,84.65 461.36,84.65 
+		461.36,174.45 	"/>
+	<polyline fill="#54C3F1" stroke="#283331" stroke-miterlimit="10" points="453.7,458.12 453.7,481.59 469.01,481.59 469.01,458.12 
+		453.7,458.12 	"/>
+</g>
+<g id="女性用トイレ">
+	<polyline fill="#F19899" stroke="#283331" stroke-miterlimit="10" points="443.7,190.01 461.36,190.01 461.36,84.65 443.7,84.65 
+		443.7,190.01 	"/>
+	<rect x="469.01" y="458.12" fill="#F19899" stroke="#283331" stroke-miterlimit="10" width="13.78" height="23.47"/>
+</g>
+<g id="使用不可能教室等">
+	<rect x="316.35" y="210.67" fill="#929292" stroke="#283331" stroke-miterlimit="10" width="82.31" height="56.12"/>
+	<rect x="380.03" y="113.47" fill="#929292" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="581.26,440.77 636.67,440.77 636.67,419.76 
+		581.26,419.76 581.26,440.77 	"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="636.67,440.77 691.46,440.77 691.46,419.76 
+		636.67,419.76 636.67,440.77 	"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="590.88,254.04 691.46,254.04 691.46,224.32 
+		604.21,224.32 590.88,237.65 590.88,254.04 	"/>
+	<path fill="#929292" stroke="#283331" stroke-miterlimit="10" d="M453.7,440.77"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="284.52,440.77 475.9,440.77 475.9,368.22 284.52,368.22 
+		284.52,440.77 	"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="475.9,440.77 554.75,440.77 554.75,382.51 475.9,382.51 
+		475.9,440.77 	"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="284.52,459.14 284.52,481.59 338.91,481.59 
+		338.91,459.14 284.52,459.14 	"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="189.01,368.22 90.24,368.22 90.24,500.32 189.01,500.32 
+		189.01,368.22 	"/>
+	<polyline fill="#929292" stroke="#283331" stroke-miterlimit="10" points="482.79,458.12 691.46,458.12 691.46,481.59 
+		482.79,481.59 482.79,458.12 	"/>
+</g>
+<g id="廊下">
+	<polygon fill="#B5B5B6" stroke="#283331" stroke-miterlimit="10" points="461.36,190.01 461.36,174.45 640.44,174.45 
+		640.44,158.63 623.89,158.63 623.89,84.65 706.26,84.65 706.26,168.32 689.93,168.32 689.93,174.45 657.51,210.67 657.51,224.32 
+		604.21,224.32 590.88,237.65 590.88,254.04 581.26,254.04 581.26,440.77 691.46,440.77 691.46,458.12 453.7,458.12 453.7,481.59 
+		338.91,481.59 338.91,459.14 284.52,459.14 284.52,440.77 554.75,440.77 554.75,247.41 569.52,224.32 569.52,199.38 560.75,190.61 
+			"/>
+	<polygon fill="#B5B5B6" stroke="#283331" stroke-miterlimit="10" points="130.57,210.67 130.57,192.51 189.01,192.51 
+		189.01,174.45 316.35,174.45 316.35,190.01 560.75,190.61 564.96,194.82 549.62,210.67 316.35,210.67 316.35,224.32 189.01,224.32 
+		189.01,210.67 	"/>
+	<polygon fill="#C9CACA" stroke="#283331" stroke-miterlimit="10" points="189.01,224.32 189.01,462.22 284.52,462.22 
+		284.52,434.55 220.85,434.55 220.85,224.32 	"/>
+	<g id="矢印">
+		<path fill="#040000" d="M682.35,199.13l-0.44-5.53l-1.91,2.24l-11.19-9.55l-1.27,1.49l11.19,9.55l-1.91,2.24L682.35,199.13z"/>
+		<path fill="#040000" d="M666.86,185.89l0.44,5.53l1.91-2.24l11.19,9.55l1.27-1.49l-11.19-9.55l1.91-2.24L666.86,185.89z"/>
+	</g>
+	<g id="矢印_00000134937419308838802610000009769381300552030892_">
+		<path fill="#040000" d="M488.01,200.19l4-3.84l-2.94-0.06l0.29-14.71l-1.96-0.04l-0.29,14.71l-2.94-0.06L488.01,200.19z"/>
+		<path fill="#040000" d="M488.42,179.82l-4,3.84l2.94,0.06l-0.29,14.71l1.96,0.04l0.29-14.71l2.94,0.06L488.42,179.82z"/>
+	</g>
+	<g id="矢印_00000089547999596805312620000005646081296873351065_">
+		<path fill="#040000" d="M558.74,212.84l3.84,4l0.06-2.94l14.71,0.29l0.04-1.96l-14.71-0.29l0.06-2.94L558.74,212.84z"/>
+		<path fill="#040000" d="M579.11,213.25l-3.84-4l-0.06,2.94l-14.71-0.29l-0.04,1.96l14.71,0.29l-0.06,2.94L579.11,213.25z"/>
+	</g>
+	<g id="矢印_00000010301110797190231830000006225067417576872322_">
+		<path fill="#040000" d="M274.33,449.75l3.84,4l0.06-2.94l14.71,0.29l0.04-1.96l-14.71-0.29l0.06-2.94L274.33,449.75z"/>
+		<path fill="#040000" d="M294.71,450.16l-3.84-4l-0.06,2.94l-14.71-0.29l-0.04,1.96l14.71,0.29l-0.06,2.94L294.71,450.16z"/>
+	</g>
+	<g id="矢印_00000066496020673229244030000017942215145490140800_">
+		<path fill="#040000" d="M348.39,471.4l-4,3.84l2.94,0.06l-0.29,14.71l1.96,0.04l0.29-14.71l2.94,0.06L348.39,471.4z"/>
+		<path fill="#040000" d="M347.99,491.78l4-3.84l-2.94-0.06l0.29-14.71l-1.96-0.04l-0.29,14.71l-2.94-0.06L347.99,491.78z"/>
+	</g>
+	<g id="矢印_00000018936676516264414140000004745433329520281257_">
+		<path fill="#040000" d="M438.09,470.54l-4,3.84l2.94,0.06l-0.29,14.71l1.96,0.04l0.29-14.71l2.94,0.06L438.09,470.54z"/>
+		<path fill="#040000" d="M437.69,490.91l4-3.84l-2.94-0.06l0.29-14.71l-1.96-0.04l-0.29,14.71l-2.94-0.06L437.69,490.91z"/>
+	</g>
+	<g id="矢印_00000109711705936234250260000001251509936744652986_">
+		<path fill="#040000" d="M682.35,449.63l3.84,4l0.06-2.94l14.71,0.29l0.04-1.96l-14.71-0.29l0.06-2.94L682.35,449.63z"/>
+		<path fill="#040000" d="M702.73,450.03l-3.84-4l-0.06,2.94l-14.71-0.29l-0.04,1.96l14.71,0.29l-0.06,2.94L702.73,450.03z"/>
+	</g>
+</g>
+<g id="トイレマーク">
+	<g>
+		<path fill="#FFFFFF" d="M474.99,465.43c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21s-3.21,1.44-3.21,3.21
+			S473.21,465.43,474.99,465.43z"/>
+		<path fill="#FFFFFF" d="M463.03,465.43c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21c-1.77,0-3.21,1.44-3.21,3.21
+			S461.26,465.43,463.03,465.43z"/>
+		<path fill="#FFFFFF" d="M479.86,477.89l-4.4-10.36c-0.08-0.19-0.26-0.31-0.47-0.31c-0.2,0-0.39,0.12-0.47,0.31l-4.4,10.36
+			c-0.27,0.62-0.2,1.34,0.17,1.91c0.37,0.57,1.01,0.91,1.69,0.91h3.01H478c0.68,0,1.31-0.34,1.69-0.91
+			C480.06,479.23,480.12,478.51,479.86,477.89z"/>
+		<path fill="#FFFFFF" d="M466.04,467.21h-3.01h-3.01c-0.68,0-1.31,0.34-1.69,0.91c-0.37,0.57-0.44,1.28-0.17,1.91l4.4,10.36
+			c0.08,0.19,0.26,0.31,0.47,0.31s0.39-0.12,0.47-0.31l4.4-10.36c0.27-0.62,0.2-1.34-0.17-1.91
+			C467.35,467.56,466.72,467.21,466.04,467.21z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M467.69,125.12c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21c-1.77,0-3.21,1.44-3.21,3.21
+			S465.91,125.12,467.69,125.12z"/>
+		<path fill="#FFFFFF" d="M455.73,125.12c1.77,0,3.21-1.44,3.21-3.21s-1.44-3.21-3.21-3.21c-1.77,0-3.21,1.44-3.21,3.21
+			S453.96,125.12,455.73,125.12z"/>
+		<path fill="#FFFFFF" d="M472.56,137.58l-4.4-10.36c-0.08-0.19-0.26-0.31-0.47-0.31c-0.2,0-0.39,0.12-0.47,0.31l-4.4,10.36
+			c-0.27,0.62-0.2,1.34,0.17,1.91c0.37,0.57,1.01,0.91,1.69,0.91h3.01h3.01c0.68,0,1.31-0.34,1.69-0.91
+			C472.76,138.92,472.82,138.21,472.56,137.58z"/>
+		<path fill="#FFFFFF" d="M458.74,126.91h-3.01h-3.01c-0.68,0-1.31,0.34-1.69,0.91c-0.37,0.57-0.44,1.28-0.17,1.91l4.4,10.36
+			c0.08,0.19,0.26,0.31,0.47,0.31c0.2,0,0.39-0.12,0.47-0.31l4.4-10.36c0.27-0.62,0.2-1.34-0.17-1.91S459.42,126.91,458.74,126.91z"
+			/>
+	</g>
+</g>
+<g id="階段">
+	<g>
+		<polygon fill="#5C5A5A" points="623.89,103.08 637.15,97.88 637.15,84.92 623.89,84.92 		"/>
+		<polyline fill="none" stroke="#283331" stroke-miterlimit="10" points="637.15,116.03 637.15,84.92 623.89,84.92 623.89,116.47 		
+			"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="623.89" y1="103.08" x2="637.15" y2="103.08"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="623.89" y1="105.45" x2="637.15" y2="105.45"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="623.89" y1="107.83" x2="637.15" y2="107.83"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="623.89" y1="110.2" x2="637.15" y2="110.2"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="623.89" y1="112.57" x2="637.15" y2="112.57"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="623.89" y1="114.95" x2="637.15" y2="114.95"/>
+	</g>
+	<g>
+		<polygon fill="#5C5A5A" points="207.96,480.38 221.23,475.18 221.23,462.22 207.96,462.22 		"/>
+		<polyline fill="none" stroke="#283331" stroke-miterlimit="10" points="221.23,493.32 221.23,462.22 207.96,462.22 207.96,493.77 
+					"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="207.96" y1="480.38" x2="221.23" y2="480.38"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="207.96" y1="482.75" x2="221.23" y2="482.75"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="207.96" y1="485.13" x2="221.23" y2="485.13"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="207.96" y1="487.5" x2="221.23" y2="487.5"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="207.96" y1="489.87" x2="221.23" y2="489.87"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="207.96" y1="492.24" x2="221.23" y2="492.24"/>
+	</g>
+	<g>
+		<polygon fill="#5C5A5A" points="234.38,201.64 239.58,214.9 252.54,214.9 252.54,201.64 		"/>
+		<polyline fill="none" stroke="#283331" stroke-miterlimit="10" points="221.43,214.9 252.54,214.9 252.54,201.64 220.99,201.64 		
+			"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="234.38" y1="201.64" x2="234.38" y2="214.9"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="232.01" y1="201.64" x2="232.01" y2="214.9"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="229.63" y1="201.64" x2="229.63" y2="214.9"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="227.26" y1="201.64" x2="227.26" y2="214.9"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="224.89" y1="201.64" x2="224.89" y2="214.9"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="222.52" y1="201.64" x2="222.52" y2="214.9"/>
+	</g>
+	<g>
+		<polygon fill="#5C5A5A" points="719.52,455.73 706.26,460.93 706.26,473.89 719.52,473.89 		"/>
+		<polyline fill="none" stroke="#283331" stroke-miterlimit="10" points="706.26,442.79 706.26,473.89 719.52,473.89 719.52,442.35 
+					"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="719.52" y1="455.73" x2="706.26" y2="455.73"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="719.52" y1="453.36" x2="706.26" y2="453.36"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="719.52" y1="450.99" x2="706.26" y2="450.99"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="719.52" y1="448.61" x2="706.26" y2="448.61"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="719.52" y1="446.24" x2="706.26" y2="446.24"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="719.52" y1="443.87" x2="706.26" y2="443.87"/>
+	</g>
+	<g>
+		<polygon fill="#5C5A5A" points="408.51,471.69 401.57,468.89 396.46,474.03 401.34,478.89 		"/>
+		<polyline fill="none" stroke="#283331" stroke-miterlimit="10" points="408.72,461.7 396.46,474.03 401.34,478.89 413.78,466.38 
+					"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="408.51" y1="471.69" x2="403.62" y2="466.83"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="409.44" y1="470.75" x2="404.55" y2="465.89"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="410.38" y1="469.81" x2="405.49" y2="464.95"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="411.31" y1="468.87" x2="406.42" y2="464.01"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="412.25" y1="467.93" x2="407.36" y2="463.07"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="413.18" y1="466.99" x2="408.29" y2="462.13"/>
+	</g>
+	<g>
+		<polygon fill="#5C5A5A" points="554.75,364.35 541.49,369.55 541.49,382.51 554.75,382.51 		"/>
+		<polyline fill="none" stroke="#283331" stroke-miterlimit="10" points="541.49,351.41 541.49,382.51 554.75,382.51 554.75,350.96 
+					"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="554.75" y1="364.35" x2="541.49" y2="364.35"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="554.75" y1="361.98" x2="541.49" y2="361.98"/>
+		<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="554.75" y1="359.6" x2="541.49" y2="359.6"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="554.75" y1="357.23" x2="541.49" y2="357.23"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="554.75" y1="354.86" x2="541.49" y2="354.86"/>
+		
+			<line fill="none" stroke="#283331" stroke-width="0.25" stroke-miterlimit="10" x1="554.75" y1="352.49" x2="541.49" y2="352.49"/>
+	</g>
+</g>
+<g id="MLOC-available">
+	<rect id="room109" x="252.68" y="224.32" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="68.45"/>
+	<rect id="room110" x="479.72" y="84.65" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="144.16" height="89.8"/>
+	<rect id="room102" x="130.57" y="113.47" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="79.04"/>
+	<rect id="room101" x="130.57" y="210.67" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" width="58.44" height="82.1"/>
+	<rect id="room103" x="189.01" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
+	<rect id="room104" x="252.68" y="97.92" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
+	<rect id="room105" x="316.35" y="113.47" fill="#AADDF7" stroke="#283331" stroke-miterlimit="10" width="63.67" height="76.53"/>
+	<polyline id="room120" fill="#AEDEF8" stroke="#283331" stroke-miterlimit="10" points="581.26,254.04 691.46,254.04 
+		691.46,419.76 581.26,419.76 581.26,254.04 	"/>
+</g>
+<g id="MNOINT-words">
+	<text transform="matrix(1 0 0 1 482.7858 97.9156)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">110</text>
+	<text transform="matrix(1 0 0 1 304.6162 411.6412)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="15px">学生サポートセンター</text>
+	<text id="EV" transform="matrix(1 0 0 1 623.9057 171.7054)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">EV</text>
+	<text transform="matrix(1 0 0 1 583.2321 266.7931)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">120</text>
+	<text transform="matrix(1 0 0 1 113.8084 440.7731)"><tspan x="0" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">A</tspan><tspan x="15.68" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px" letter-spacing="5">V</tspan><tspan x="35.82" y="0" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">棟</tspan></text>
+	<text transform="matrix(1 0 0 1 316.3548 125.1245)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">105</text>
+	<text transform="matrix(1 0 0 1 252.6839 109.6945)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">104</text>
+	<text transform="matrix(1 0 0 1 252.6836 234.6176)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">109</text>
+	<text transform="matrix(1 0 0 1 130.5679 222.1758)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">101</text>
+	<text transform="matrix(1 0 0 1 130.5676 125.2684)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">102</text>
+	<text transform="matrix(1 0 0 1 189.0127 109.8382)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">103</text>
+	<text transform="matrix(1 0 0 1 317.7346 222.1754)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">107</text>
+	<text transform="matrix(1 0 0 1 380.2087 125.1244)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="12px">106</text>
+	<text transform="matrix(1 0 0 1 398.4082 307)" font-family="'HiraginoSans-W5-83pv-RKSJ-H'" font-size="20px">中庭</text>
+</g>
+</svg>
