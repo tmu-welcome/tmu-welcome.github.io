@@ -2476,8 +2476,8 @@ input::-moz-focus-inner {
   background-image: url(../images/icons/social/icon-twitter.svg);
 }
 
-.header__social .ss-scrapbox a::after {
-  background-image: url(../images/icons/social/scrapbox.svg);
+.header__social .ss-notion a::after {
+  background-image: url(../images/icons/social/notion.svg);
 }
 
 .header__social .ss-github a::after {
