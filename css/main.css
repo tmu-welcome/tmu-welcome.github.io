@@ -3742,11 +3742,19 @@ body.search-is-visible {
     background-color: #525252;
 }
 .ccl_grid{
-    filter: drop-shadow(0 0 10px rgba(0,0,0,0.1))
+    filter: drop-shadow(0 0 10px rgba(0,0,0,0.1));
+    border-radius: 5px;
+    
 }
 
 .ccl_grid_item{
     padding: 2rem 3rem;
     background-color: #ffffff;
     
+}
+.ccl_grid_upper{
+    border-radius: 10px 10px 0px 0px;
+}
+.ccl_grid_lower{
+    border-radius: 0px 0px 10px 10px;
 }
