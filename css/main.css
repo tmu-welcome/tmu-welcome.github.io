@@ -1655,6 +1655,7 @@ input::-moz-focus-inner {
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
+  filter: drop-shadow(0 0 1.5px rgba(0,0,0,0.6));
 }
 
 .slick-slider .slick-dots li button:hover,
@@ -2480,7 +2481,7 @@ input::-moz-focus-inner {
 
 
 .header__social .ss-twitter a::after {
-  background-image: url(../images/icons/social/icon-twitter.svg);
+  background-image: url(../images/icons/social/icon-x.svg);
 }
 
 .header__social .ss-notion a::after {
@@ -3682,6 +3683,10 @@ body.search-is-visible {
 }
 .ccl_grid_wrapper{
     
+}
+.ccl_img_single{
+    line-height: 0px;
+    display: block;
 }
 .ccl_grid_contact_wrapper{
     display:flex;
