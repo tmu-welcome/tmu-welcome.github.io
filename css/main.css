@@ -1117,6 +1117,14 @@ input::-moz-focus-inner {
   padding: 0;
 }
 
+.ccl_grid_item{
+    
+}
+
+
+.ccl_tags{
+    margin-top: 1rem;
+}
 
 
 /* =================================================================== 
@@ -1647,6 +1655,7 @@ input::-moz-focus-inner {
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
+  filter: drop-shadow(0 0 1.5px rgba(0,0,0,0.6));
 }
 
 .slick-slider .slick-dots li button:hover,
@@ -1789,7 +1798,6 @@ input::-moz-focus-inner {
   font-weight: 400;
   font-size: 1.5rem;
   line-height: 2rem;
-  letter-spacing: 1.2px;
   margin-bottom: 3.2rem;
 }
 
@@ -2473,7 +2481,7 @@ input::-moz-focus-inner {
 
 
 .header__social .ss-twitter a::after {
-  background-image: url(../images/icons/social/icon-twitter.svg);
+  background-image: url(../images/icons/social/icon-x.svg);
 }
 
 .header__social .ss-notion a::after {
@@ -3355,7 +3363,7 @@ body.search-is-visible {
  * ## post tags
  * ------------------------------------------------------------------- */
 .entry__tags {
-  margin-top: 6rem;
+  margin-top: 1rem;
   font-family: "Heebo", sans-serif;
 }
 
@@ -3664,3 +3672,94 @@ body.search-is-visible {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+/* overloads */
+
+.ccl_tags_wrapper{
+    margin-bottom: 0rem !important;
+}
+.ccl_tags{
+    margin-bottom: 0rem !important;
+}
+.ccl_grid_wrapper{
+    
+}
+.ccl_img_single{
+    line-height: 0px;
+    display: block;
+}
+.ccl_grid_contact_wrapper{
+    display:flex;
+    width:100%;
+    background-color:#ffffff;
+    flex-basis: auto;
+    flex-direction: row;
+}
+.ccl_contact_item{
+    height:8rem;
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 1rem;
+    background-color: aqua;
+}
+.ccl_contact_item p{
+    font-size: 1.3rem;
+    padding: 0;
+    margin: 0;
+    color:#fff;
+    filter: drop-shadow(0 0 3px rgba(0,0,0,.5));
+}
+.ccl_contact_item img{
+    height:3rem;
+}
+.ccl_contact_insta{
+    background: rgb(250,191,90);
+    background: -moz-linear-gradient(45deg, rgba(250,191,90,1) 0%, rgba(233,63,94,1) 50%, rgba(160,49,190,1) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(250,191,90,1) 0%, rgba(233,63,94,1) 50%, rgba(160,49,190,1) 100%);
+    background: linear-gradient(45deg, rgba(250,191,90,1) 0%, rgba(233,63,94,1) 50%, rgba(160,49,190,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fabf5a",endColorstr="#a031be",GradientType=1);
+}
+.ccl_contact_x{
+    background-color: #000000;
+}
+.ccl_contact_line{
+    background-color:#06c755;
+}
+.ccl_contact_openchat{
+    background: rgb(17,208,201);
+    background: -moz-linear-gradient(135deg, rgba(17,208,201,1) 0%, rgba(17,215,123,1) 50%, rgba(6,199,85,1) 100%);
+    background: -webkit-linear-gradient(135deg, rgba(17,208,201,1) 0%, rgba(17,215,123,1) 50%, rgba(6,199,85,1) 100%);
+    background: linear-gradient(135deg, rgba(17,208,201,1) 0%, rgba(17,215,123,1) 50%, rgba(6,199,85,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#11d0c9",endColorstr="#06c755",GradientType=1);
+}
+.ccl_contact_youtube{
+    background-color: #FF0000;
+}
+.ccl_contact_web{
+    background-color: #4060a4;
+}
+.ccl_contact_mail{
+    flex-direction: column;
+    background-color: #525252;
+}
+.ccl_grid{
+    filter: drop-shadow(0 0 10px rgba(0,0,0,0.1));
+    border-radius: 5px;
+    
+}
+
+.ccl_grid_item{
+    padding: 2rem 3rem;
+    background-color: #ffffff;
+    
+}
+.ccl_grid_upper{
+    border-radius: 10px 10px 0px 0px;
+}
+.ccl_grid_lower{
+    border-radius: 0px 0px 10px 10px;
+}
