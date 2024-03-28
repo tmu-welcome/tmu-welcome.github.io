@@ -3763,6 +3763,3 @@ body.search-is-visible {
 .ccl_grid_lower{
     border-radius: 0px 0px 10px 10px;
 }
-*{
-    z-index: -2;
-}
