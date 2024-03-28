@@ -28,7 +28,6 @@
     <link rel="stylesheet" href="css/base.css">
     <link rel="stylesheet" href="css/vendor.css">
     <link rel="stylesheet" href="css/main.css?20240310">
-    <link rel="stylesheet" type="text/css" href="mapplic/css/mapplic.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
 
     <!-- script
@@ -74,8 +73,7 @@
                 <div class="header__search">
 
                     <script async src="https://cse.google.com/cse.js?cx=d3175ee9a4be34170"></script>
-                    <form role="search" method="get" class="header__search-form" id="cse-search-box"
-                        action="https://shinkan.tmuzc.org/search">
+                    <form role="search" method="get" class="header__search-form" id="cse-search-box" action="https://shinkan.tmuzc.org/search">
                         <input type="hidden" name="cx" value="d3175ee9a4be34170" />
                         <label>
                             <span class="hide-content">Search for:</span>
@@ -176,10 +174,8 @@
                     <ul>
                         <li><a href="#outline">概要</a></li>
                         <li><a href="#participate">参加方法</a> </li>
-                        <li><a href="#prev_inf">感染対策へのご協力のお願い</a></li>
-                        <li><a href="#diet">飲食について</a></li>
+                        <li><a href="#qr">QRチェックインへのご協力をお願いします！（予定）</a></li>
                         <li><a href="#map">サークル紹介参加団体案内図</a></li>
-                        <li><a href="#online">オンライン会場について</a></li>
                     </ul>
 
                     <h2 id="outline">概要</h2>
@@ -204,17 +200,19 @@
                         開催時間に南大沢キャンパスに足を運ぶだけです。申請などは不要で入退場も自由です。
                     </p>
 
-                    <h2 id="prev_inf">QRチェックインへのご協力をお願いします！（予定）</h2>
+                    <h2 id="qr">QRチェックインへのご協力をお願いします！（予定）</h2>
                     <p>
                         各ブースにQR読み取り式のチェックインを設置しております。例年千人弱が訪れる本イベントにおいて手動による来場者数計測は難しいため、こちらを読み取っていただきチェックインをお願いします。チェックイン情報は各ブースの来場数把握や時間帯による混雑具合などに使用し、来年以降の実施に活用させていただきます。
                     </p>
 
-                    <h3 id="map">（参考）昨年の部屋割り</h3>
-                    <small>今年度の場所は現在調整中のため、しばらくお待ちください。</small>
-                    <section id="map-section" class="inner over">
-                        <div class="map-container">
-                            <div id="ccl_intro_map"></div> <!-- Map -->
-                        </div>
+                    <h3 id="map">サークル紹介参加団体案内図</h3>
+                        <!-- map modules
+                        ================================================== -->
+                        <script type="module" src="./mapplic.js"></script>
+                        <link rel="stylesheet" href="./mapplic.css">
+                    <mapplic-map data-json="assets/maps/circle_intro/map_ccl_intro.json">
+                    <section id="map-section" style="width: 100%;height:50vh">
+                        
                     </section>
                 </article> <!-- end column large-full entry-->
 
@@ -249,8 +247,5 @@
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
-    <script type="text/javascript" src="mapplic/js/mapplic.js"></script>
-    <script type="text/javascript" src="mapplic/js/jquery.mousewheel.js"></script>
-    <script type="text/javascript" src="mapplic/js/script.js"></script>
 
 </body>

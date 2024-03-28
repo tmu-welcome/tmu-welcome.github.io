@@ -315,10 +315,10 @@ body {
   font-weight: normal;
   line-height: 1;
   word-wrap: break-word;
+  scroll-behavior: smooth;
   -moz-font-smoothing: grayscale;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: none;
 }
 
