@@ -3763,3 +3763,31 @@ body.search-is-visible {
 .ccl_grid_lower{
     border-radius: 0px 0px 10px 10px;
 }
+.info_wrapper{
+    margin: 1rem 0;
+    padding: 2rem;
+    border-style: solid;
+    border-color: rgb(200,200,200);
+}
+.info_header{
+    border-bottom-style: solid;
+    border-bottom-color: rgb(200,200,200);
+    padding-bottom: 1rem;
+}
+.info_header p{
+    margin: 0;
+    padding: 0;
+    color: rgb(30,30,30);
+    font-size: 1.5rem;
+}
+.info_header h3{
+    margin: 0;
+    padding: 1rem 0 0 0;
+    text-align: center;
+}
+.info_body p{
+    padding: 0;
+    margin: 1rem 0 0 0;
+}
+
+
