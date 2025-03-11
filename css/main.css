@@ -96,13 +96,27 @@ body.ss-bg-white {
   background: #ffffff;
 }
 
+/* ------------------------------------------------------------------- 
+ * ## definition of color variable
+ * gradation made by https://mycolor.space/gradient
+ * ------------------------------------------------------------------- */
+ :root {
+  --grad-theme: #4366b0, #9377b1, #c08fb2, #dab0ba, #e8d3d1;
+  /* 今、1にしてあるので、上の変数定義を2や3の中身にしてみると、他の色に変わる。
+    1. 桜→TMU
+  --grad-theme: #4366b0, #9377b1, #c08fb2, #dab0ba, #e8d3d1;
+    2. 桜→橙: 右上のメニューとか検索アイコンが白で見づらいかも
+  --grad-theme: #e8d1db, #ffc6cd, #ffbea8, #ffc277, #ffd142; 
+  */
+  --accent-color: #4366b0; /*#33998a */ /* link の色とか*/
+}
 
 
 /* ------------------------------------------------------------------- 
  * ## links
  * ------------------------------------------------------------------- */
 a:not([class]):not(.header__nav a):not(.entry__pagenav a):not(span a) {
-  color: #4366b0; /*#33998a */
+  color: var(--accent-color);
   text-decoration: underline;
   text-underline-offset: 2px;
   /* transition: all 0.3s ease-in-out; */
@@ -483,7 +497,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #4366b0; /*#33998a */
+  background: var(--accent-color);
   position: absolute;
   left: -16px;
   top: 11px;
@@ -492,7 +506,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #4366b0; /*#33998a */
+  color: var(--accent-color);
 }
 
 dd {
@@ -1009,7 +1023,7 @@ textarea:-webkit-autofill:hover textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #4366b0; /*#33998a */
+  -webkit-text-fill-color: var(--accent-color);
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -1085,8 +1099,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus,
 input[type="reset"].btn--primary:focus,
 input[type="button"].btn--primary:focus {
-  background: #4366b0; /*#33998a */
-  border-color: #4366b0; /*#33998a */
+  background: var(--accent-color);
+  border-color: var(--accent-color);
 }
 
 /* button modifiers
@@ -1278,7 +1292,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #4366b0; /*#33998a */
+  color: var(--accent-color);
 }
 
 .stats-tabs li a em {
@@ -1834,7 +1848,7 @@ input::-moz-focus-inner {
 
 .masonry .entry__meta a:hover,
 .masonry .entry__meta a:focus {
-  color: #4366b0; /*#33998a */
+  color: var(--accent-color);
 }
 
 .masonry .entry__meta-cat a::after {
@@ -2213,7 +2227,7 @@ input::-moz-focus-inner {
   -ms-flex-flow: column nowrap;
   flex-flow: column nowrap;
   width: 300px;
-  background-image: linear-gradient(-30deg, #4366b0, #9377b1, #c08fb2, #dab0ba, #e8d3d1); 
+  background-image: linear-gradient(-30deg, var(--grad-theme));
   padding-top: 6.4rem;
   padding-right: 3.2rem;
   padding-left: 4.4rem;
@@ -2984,7 +2998,7 @@ body.search-is-visible {
   .header__top {
     z-index: 200;
     /* background: #111111; */
-    background-image: linear-gradient(-30deg, #4366b0, #9377b1, #c08fb2, #dab0ba, #e8d3d1);
+    background-image: linear-gradient(-30deg, var(--grad-theme));
     width: 100%;
     height: 78px;
     position: fixed;
@@ -3009,7 +3023,7 @@ body.search-is-visible {
   .header__nav-wrap {
     z-index: 199;
     /* background: #151515; */
-    background-image: linear-gradient(260deg, #4366b0, #9377b1, #c08fb2, #dab0ba, #e8d3d1);
+    background-image: linear-gradient(260deg, var(--grad-theme));
     opacity: 0;
     visibility: hidden;
     position: fixed;
@@ -3492,7 +3506,7 @@ body.search-is-visible {
 
 .entry__nav a:hover span,
 .entry__nav a:focus span {
-  color: #4366b0; /*#33998a */
+  color: var(--accent-color);
 }
 
 .entry__prev,
