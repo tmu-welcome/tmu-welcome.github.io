@@ -4,6 +4,37 @@
         "build": "2026-03-02-11-11-11"
     },
     "circles": {
+        "01_demo":{
+            "circle_name" : "団体名団体名団体名団体名団体名団体名団体名",
+            "catchphrase" : "キャッチコピーキャッチコピーキャッチコピーキャッチコピーキャッチコピー",
+            "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \n\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "images" : [
+                "index-head.jpg",
+                "saren_pict.jpg"
+            ],
+            "links":[
+                {
+                    "type": "twitter",
+                    "label": "X（旧Twitter）",
+                    "uri": "https://twitter.com/xxx"
+                },
+                {
+                    "type": "website",
+                    "label": "Webサイト",
+                    "uri": "https://example.com"
+                }
+            ],
+            "mail": "example★example.com",
+            "tags": [
+                "週1〜2回",
+                "運動系",
+                "兼サー可能",
+                "南大沢キャンパス",
+                "初心者歓迎",
+                "ゆるく楽しむ",
+                "イベント豊富"
+            ]
+        },
         "01_ididid":{
             "circle_name" : "運動サークルTMU",
             "catchphrase" : "オールマイティに運動したい人集まれ！",
@@ -82,12 +113,12 @@
                     "uri": "https://example.com/line"
                 },
                 {
-                    "type": "website",
-                    "label": "Webサイト",
+                    "type": "instagram",
+                    "label": "Instagram",
                     "uri": "https://example.com"
                 }
             ],
-            "mail": "example★example.com",
+            "mail": "",
             "tags": [
                 "週3〜4回",
                 "音楽系",
