@@ -1,939 +1,977 @@
 {
-    "settings": {
-        "mapWidth": 1000,
-        "mapHeight": 800,
-        "maxZoom": 4,
-        "hoverTooltip": true,
-        "sidebar": true,
-        "layerSwitcher": "top-left",
-        "resetButton": "bottom-right",
-        "zoomButtons": "bottom-right",
-        "height": "",
-        "filters": true,
-        "thumbnails": false,
-        "ordered": true,
-        "title": "Residential lots",
-        "csv": "",
-        "sidebarWidth": "30%",
-        "layer": "layer1711595333563",
-        "portrait": "600",
-        "zoom": true,
-        "toggleSidebar": true,
-        "sidebarClosed": false,
-        "primaryColor": "",
-        "portraitMinHeight": "400px",
-        "fullscreen": "bottom-right",
-        "moreText": "",
-        "csvEnabled": false,
-        "rightSidebar": true,
-        "clearText": "",
-        "searchText": "検索",
-        "accessibility": false,
-        "hoverAbout": true,
-        "groupBy": false
-    },
-    "groups": [],
-    "layers": [
-        {
-            "id": "layer1711595026970",
-            "name": "【7号館】2F",
-            "file": "assets/maps/circle_intro/7-2.svg?0420401"
-        },
-        {
-            "id": "layer1711594914498",
-            "name": "【7号館】1F",
-            "file": "assets/maps/circle_intro/7-1.svg?22"
-        },
-        {
-            "id": "layer1711512608657",
-            "name": "【1号館】3F",
-            "file": "assets/maps/circle_intro/1-3.svg?040101"
-        },
-        {
-            "id": "layer1711469981597",
-            "name": "【1号館】2F",
-            "file": "assets/maps/circle_intro/1-2.svg?0401202222"
-        },
-        {
-            "id": "layer1711469944079",
-            "name": "【1号館】1F",
-            "file": "assets/maps/circle_intro/1-1.svg?04040211"
-        },
-        {
-            "id": "layer1711595507509",
-            "name": "【学生ホール】",
-            "file": "assets/maps/circle_intro/gaku_hall.svg"
-        },
-        {
-            "id": "layer1711595333563",
-            "name": "【インフォメ】",
-            "file": "assets/maps/circle_intro/outside.svg?040122"
-        }
-    ],
-    "locations": [
-        {
-            "title": "【1号館】207教室",
-            "id": "_1-207",
-            "coord": [
-                0.472,
-                0.3875
-            ],
-            "zoom": 6.9372,
-            "layer": "layer1711469981597",
-            "about": "ワンダーフォーゲル部"
-        },
-        {
-            "type": "hidden",
-            "id": "_7-101",
-            "coord": [
-                0.7991,
-                0.3941
-            ],
-            "zoom": 3.7209,
-            "layer": "layer1711594914498",
-            "title": "【7号館】101教室（スタジオ）",
-            "about": "FINAL☆FLASH, 管弦楽団, 古典ギター部, 競技ダンス部, 吹奏楽団, Lyla",
-            "desc": "<p>入れ替え制となります</p><p>（晴天時）<br>11:00~ FINAL☆FLASH<br>13:10~ 管弦楽団<br>14:30~ 古典ギター部</p><p>（雨天時）</p><p>11:00~ FINAL☆FLASH<br>12:10~ 競技ダンス部<br>12:40~ Lyla<br>13:20~ 管弦楽団<br>14:10~ 吹奏楽団<br>15:00~ 古典ギター部</p>"
-        },
-        {
-            "title": "【入れ替え制】体育館",
-            "id": "gaku-taiiku",
-            "coord": [
-                0.0916,
-                0.3633
-            ],
-            "zoom": 2.8256,
-            "layer": "layer1711595507509",
-            "desc": "<p>（雨天のみ）入れ替え制となります</p><p>11:00~ WILD BOARS<br>12:20~ 応援団<br>12:50~ BeatRiZe<br>13:30~ フォークソング部+軽音楽部</p>",
-            "about": "競技チアリーディングサークルWILD BOARS, 応援団 女子チアダンス部RITZ・男子チアリーディング部MAXONS, ビートボックスサークルBeatRiZe, フォークソング研究会, 軽音楽部"
-        },
-        {
-            "id": "out-6-110",
-            "coord": [
-                0.9171,
-                0.5
-            ],
-            "zoom": 1.7898,
-            "layer": "layer1711595333563",
-            "title": "【入れ替え制】6号館110教室",
-            "about": "アイリッシュ音楽研究会, エリカ混声合唱団, グリークラブ",
-            "desc": "<p>入れ替え制となります</p><p>11:30~ アイリッシュ音楽研究会<br>11:50~ エリカ混声合唱団<br>12:10~ グリークラブ</p><p>13:30~ アイリッシュ音楽研究会<br>13:50~ エリカ混声合唱団<br>14:10~ グリークラブ</p><p>15:00~ アイリッシュ音楽研究会<br>15:10~ エリカ混声合唱団<br>15:20~ グリークラブ</p>"
-        },
-        {
-            "id": "out-hq",
-            "coord": [
-                0.6834,
-                0.347
-            ],
-            "zoom": 9.0703,
-            "layer": "layer1711595333563",
-            "title": "【本部】講堂前テント",
-            "desc": "<p></p>"
-        },
-        {
-            "id": "gaku-danwa",
-            "coord": [
-                0.5911,
-                0.4412
-            ],
-            "zoom": 5.8082,
-            "layer": "layer1711595507509",
-            "about": "フォークソング研究会",
-            "title": "【学生ホール】談話室"
-        },
-        {
-            "id": "gaku-shisaku",
-            "coord": [
-                0.3063,
-                0.801
-            ],
-            "zoom": 7.6709,
-            "layer": "layer1711595507509",
-            "title": "【学生ホール】資料作成室",
-            "about": "軽音楽部"
-        },
-        {
-            "id": "gaku-seikyo",
-            "title": "【入れ替え制】生協広場",
-            "coord": [
-                0.3477,
-                0.3299
-            ],
-            "zoom": 2,
-            "layer": "layer1711595507509",
-            "desc": "<p>（晴天時のみ）入れ替え制となります</p><p>11:00~ 吹奏楽団<br>12:50~ BeatRiZe<br>13:30~ フォークソング部+軽音楽部</p>",
-            "scale": null,
-            "about": "吹奏楽団, ビートボックスサークルBeatRiZe, フォークソング部+軽音楽部"
-        },
-        {
-            "id": "out-tent-9",
-            "title": "【インフォメ】テント9",
-            "coord": [
-                0.0524,
-                0.7298
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "style": "Available",
-            "about": "ヨット部, 自動車部"
-        },
-        {
-            "id": "out-tent-8",
-            "coord": [
-                0.1751,
-                0.7277
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "title": "【インフォメ】テント8",
-            "about": "水泳部"
-        },
-        {
-            "id": "out-tent-7",
-            "title": "【インフォメ】テント7",
-            "coord": [
-                0.2992,
-                0.728
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "about": "J-Boy"
-        },
-        {
-            "id": "out-tent-6",
-            "coord": [
-                0.4206,
-                0.7285
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "title": "【インフォメ】テント6",
-            "about": "漕艇部, 応援団 女子チアダンス部RITZ・男子チアリーディング部MAXONS"
-        },
-        {
-            "id": "out-tent-5",
-            "coord": [
-                0.0509,
-                0.4958
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "title": "【インフォメ】テント5",
-            "style": "Available",
-            "type": "hidden",
-            "about": "柔道部"
-        },
-        {
-            "id": "out-tent-4",
-            "title": "【インフォメ】テント4",
-            "coord": [
-                0.1738,
-                0.4952
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "style": "Available",
-            "type": "hidden",
-            "about": "学術探検会気球部, ソフトテニス部"
-        },
-        {
-            "id": "out-tent-3",
-            "coord": [
-                0.2977,
-                0.4941
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "title": "【インフォメ】テント3",
-            "about": "米式蹴球部"
-        },
-        {
-            "id": "out-tent-2",
-            "coord": [
-                0.421,
-                0.4958
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "title": "【インフォメ】テント2",
-            "about": "ラグビー部, フライングディスク部 BUTTERFLY"
-        },
-        {
-            "id": "out-tent-1",
-            "coord": [
-                0.5448,
-                0.4924
-            ],
-            "zoom": 4.7438,
-            "layer": "layer1711595333563",
-            "title": "【インフォメ】テント1",
-            "about": "ラグビー部, 準硬式野球部"
-        },
-        {
-            "id": "out-soranome",
-            "coord": [
-                0.7415,
-                0.4972
-            ],
-            "zoom": 2,
-            "layer": "layer1711595333563",
-            "desc": "<p>（晴天時のみ）入れ替え制となります</p><p>11:00~ 競技ダンス部<br>11:40~ 応援団<br>12:20~ WILD BOARS<br>13:00~ 競技ダンス部<br>13:40~ 応援団<br>14:20~ WILD BOARS<br>15:00~ Lyla</p>",
-            "title": "【入れ替え制】空の目門",
-            "about": "競技ダンス部, 応援団 女子チアダンス部RITZ・男子チアリーディング部MAXONS, 競技チアリーディングサークルWILD BOARS, Lyla"
-        },
-        {
-            "id": "out-hall-big",
-            "coord": [
-                0.7531,
-                0.2575
-            ],
-            "zoom": 2,
-            "layer": "layer1711595333563",
-            "desc": "<p></p>",
-            "title": "【工事中】講堂大ホール",
-            "disable": false,
-            "hide": true,
-            "latlon": [
-                0,
-                0
-            ],
-            "style": "Gray-Out"
-        },
-        {
-            "id": "out-hall-small",
-            "coord": [
-                0.7536,
-                0.068
-            ],
-            "zoom": 2,
-            "layer": "layer1711595333563",
-            "desc": "<p></p>",
-            "title": "【工事中】講堂小ホール",
-            "disable": false,
-            "hide": true,
-            "style": "Gray-Out"
-        },
-        {
-            "id": "_7-230",
-            "title": "【7号館】230教室",
-            "coord": [
-                0.2841,
-                0.2671
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "スマん研"
-        },
-        {
-            "id": "_7-229",
-            "title": "【7号館】229教室",
-            "coord": [
-                0.3335,
-                0.2688
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "AR会"
-        },
-        {
-            "id": "_7-228",
-            "title": "【7号館】228教室",
-            "coord": [
-                0.3735,
-                0.2677
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "ビートボックスサークルBeatRiZe"
-        },
-        {
-            "id": "_7-227",
-            "title": "【7号館】227教室",
-            "coord": [
-                0.4121,
-                0.2677
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "めとぽけ"
-        },
-        {
-            "id": "_7-226",
-            "title": "【7号館】226教室",
-            "coord": [
-                0.4535,
-                0.2682
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "マイクロコンピュータ研究会"
-        },
-        {
-            "id": "_7-225",
-            "title": "【7号館】225教室",
-            "coord": [
-                0.494,
-                0.2688
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "東方都立璋"
-        },
-        {
-            "id": "_7-224",
-            "title": "【7号館】224教室",
-            "coord": [
-                0.5335,
-                0.2677
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "都立大子どもまつり実行委員会"
-        },
-        {
-            "id": "_7-223",
-            "title": "【7号館】223教室",
-            "coord": [
-                0.574,
-                0.2688
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "メタバース研究会"
-        },
-        {
-            "id": "_7-222",
-            "title": "【7号館】222教室",
-            "coord": [
-                0.6126,
-                0.2677
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "Close up Magic Circle"
-        },
-        {
-            "id": "_7-221",
-            "title": "【7号館】221教室",
-            "coord": [
-                0.6526,
-                0.2688
-            ],
-            "zoom": 5.4054,
-            "layer": "layer1711595026970",
-            "about": "マンガ研究会"
-        },
-        {
-            "id": "_7-218",
-            "title": "【7号館】218教室",
-            "coord": [
-                0.345,
-                0.4337
-            ],
-            "zoom": 5.1948,
-            "layer": "layer1711595026970",
-            "about": "ボードゲーム研究会"
-        },
-        {
-            "id": "_7-216",
-            "title": "【7号館】216教室",
-            "coord": [
-                0.411,
-                0.4337
-            ],
-            "zoom": 5.1948,
-            "layer": "layer1711595026970",
-            "about": "ダーツサークル Hat Trick"
-        },
-        {
-            "id": "_7-215",
-            "coord": [
-                0.4685,
-                0.4337
-            ],
-            "zoom": 5.1948,
-            "layer": "layer1711595026970",
-            "title": "【7号館】215教室",
-            "about": "茶道研究会"
-        },
-        {
-            "id": "_7-213",
-            "title": "【7号館】213教室",
-            "coord": [
-                0.518,
-                0.4325
-            ],
-            "zoom": 5.1948,
-            "layer": "layer1711595026970",
-            "about": "書道部"
-        },
-        {
-            "id": "_7-212",
-            "coord": [
-                0.563,
-                0.4325
-            ],
-            "zoom": 5.1948,
-            "layer": "layer1711595026970",
-            "title": "【7号館】212教室",
-            "about": "囲碁部"
-        },
-        {
-            "id": "_7-211",
-            "coord": [
-                0.6031,
-                0.4325
-            ],
-            "zoom": 5.1948,
-            "layer": "layer1711595026970",
-            "disable": false,
-            "title": "【7号館】211教室",
-            "style": "Available",
-            "about": "将棋部"
-        },
-        {
-            "id": "_7-106",
-            "title": "【7号館】106教室",
-            "coord": [
-                0.6478,
-                0.578
-            ],
-            "zoom": 6.3291,
-            "layer": "layer1711594914498",
-            "about": "管弦楽団"
-        },
-        {
-            "id": "_7-104",
-            "title": "【7号館】104教室",
-            "coord": [
-                0.689,
-                0.6574
-            ],
-            "zoom": 8.547,
-            "layer": "layer1711594914498",
-            "about": "古典ギター部"
-        },
-        {
-            "id": "_7-103",
-            "title": "【7号館】103教室",
-            "coord": [
-                0.7979,
-                0.6106
-            ],
-            "zoom": 6.4516,
-            "layer": "layer1711594914498",
-            "about": "unplugged"
-        },
-        {
-            "id": "_1-309",
-            "title": "【1号館】309教室",
-            "coord": [
-                0.322,
-                0.4151
-            ],
-            "zoom": 6.0666,
-            "layer": "layer1711512608657",
-            "about": "ファッションショー制作委員会Cap ⁵"
-        },
-        {
-            "id": "_1-310",
-            "title": "【1号館】310教室",
-            "coord": [
-                0.6275,
-                0.1761
-            ],
-            "zoom": 4.283,
-            "layer": "layer1711512608657",
-            "desc": "<p></p>",
-            "about": "大学祭実行委員会"
-        },
-        {
-            "id": "_1-302",
-            "title": "【1号館】302教室",
-            "coord": [
-                0.1564,
-                0.2241
-            ],
-            "zoom": 5.4765,
-            "layer": "layer1711512608657",
-            "about": "美術部"
-        },
-        {
-            "id": "_1-301",
-            "title": "【1号館】301教室",
-            "coord": [
-                0.1576,
-                0.3894
-            ],
-            "zoom": 5.3266,
-            "layer": "layer1711512608657",
-            "about": "フラッシュモブサークルCUBE"
-        },
-        {
-            "id": "_1-303",
-            "title": "【1号館】303教室",
-            "coord": [
-                0.2362,
-                0.1989
-            ],
-            "zoom": 5.6058,
-            "layer": "layer1711512608657",
-            "about": "陸上競技部"
-        },
-        {
-            "id": "_1-304",
-            "title": "【1号館】304教室",
-            "coord": [
-                0.3214,
-                0.1996
-            ],
-            "zoom": 5.6058,
-            "layer": "layer1711512608657",
-            "about": "Revolver"
-        },
-        {
-            "id": "_1-308",
-            "title": "【1号館】308教室",
-            "coord": [
-                0.4075,
-                0.3878
-            ],
-            "zoom": 6.9372,
-            "layer": "layer1711512608657",
-            "about": "アカペラサークル das Lied"
-        },
-        {
-            "id": "_1-208",
-            "title": "【1号館】208教室",
-            "coord": [
-                0.4072,
-                0.389
-            ],
-            "zoom": 6.9372,
-            "layer": "layer1711469981597",
-            "about": "PersimmonT.C"
-        },
-        {
-            "id": "_1-206",
-            "title": "【1号館】206教室",
-            "coord": [
-                0.4932,
-                0.2268
-            ],
-            "zoom": 5.6058,
-            "layer": "layer1711469981597",
-            "about": "映画サークルKINO"
-        },
-        {
-            "id": "_1-209",
-            "title": "【1号館】209教室",
-            "coord": [
-                0.3226,
-                0.4139
-            ],
-            "zoom": 6.0666,
-            "layer": "layer1711469981597",
-            "about": "地理学研究会"
-        },
-        {
-            "id": "_1-210",
-            "title": "【1号館】210教室",
-            "coord": [
-                0.6272,
-                0.1787
-            ],
-            "zoom": 4.283,
-            "layer": "layer1711469981597",
-            "desc": "<p></p>",
-            "about": "パワーリフティング部, 競技ダンス部, 少林寺拳法部, 合氣道部, 空手道部, 山岳部, 弓道部, 剣道部, 航空部"
-        },
-        {
-            "id": "_1-202",
-            "title": "【1号館】202教室",
-            "coord": [
-                0.1564,
-                0.2225
-            ],
-            "zoom": 5.4765,
-            "layer": "layer1711469981597",
-            "about": "Google Developers Student Club TMU"
-        },
-        {
-            "id": "_1-201",
-            "title": "【1号館】201教室",
-            "coord": [
-                0.1573,
-                0.3879
-            ],
-            "zoom": 5.3266,
-            "layer": "layer1711469981597",
-            "about": "ESS (English Speaking Society)"
-        },
-        {
-            "id": "_1-203",
-            "title": "【1号館】203教室",
-            "coord": [
-                0.2377,
-                0.1996
-            ],
-            "zoom": 5.6058,
-            "layer": "layer1711469981597",
-            "about": "DJサークル Metropolis"
-        },
-        {
-            "id": "_1-204",
-            "title": "【1号館】204教室",
-            "coord": [
-                0.322,
-                0.2004
-            ],
-            "zoom": 5.6058,
-            "layer": "layer1711469981597",
-            "about": "鉄道研究会"
-        },
-        {
-            "id": "_1-205",
-            "title": "【1号館】205教室",
-            "coord": [
-                0.4074,
-                0.225
-            ],
-            "zoom": 5.6058,
-            "layer": "layer1711469981597",
-            "about": "クイズ研究会"
-        },
-        {
-            "id": "_1-220",
-            "title": "【1号館】220教室",
-            "coord": [
-                0.7595,
-                0.3733
-            ],
-            "zoom": 5.3191,
-            "layer": "layer1711469981597",
-            "desc": "",
-            "about": "男子バスケットボール部, 男子バレーボール部, 女子バレーボール部, ハンドボール部, バドミントン部, 硬式庭球部, サッカー部, ゴルフ部, 卓球部"
-        },
-        {
-            "id": "_1-240",
-            "title": "【1号館】240教室",
-            "coord": [
-                0.7604,
-                0.6446
-            ],
-            "zoom": 5.3191,
-            "layer": "layer1711469981597",
-            "about": "B類バスケットボール部, B類サッカー部, B類テニス部, アイスホッケー部, 軟式野球部, F.C. UNO, Pluma, 星泳会, Lyla"
-        },
-        {
-            "id": "_1-230",
-            "title": "【1号館】230教室",
-            "coord": [
-                0.7607,
-                0.4891
-            ],
-            "zoom": 4.908,
-            "layer": "layer1711469981597",
-            "about": "競技チアリーディングサークルWILD BOARS, 総合文化交流会 mediaβ, ダイビングサークル D-up!, 学生フォーミュラプロジェクト, ピアノ・室内楽サークル Dolce, いきもの！サークル東京, ラフBALLER, TMU-SFC, 八雲FC",
-            "desc": ""
-        },
-        {
-            "id": "_1-101",
-            "title": "【1号館】101教室",
-            "coord": [
-                0.1578,
-                0.3891
-            ],
-            "zoom": 6.6578,
-            "layer": "layer1711469944079",
-            "type": "hidden",
-            "about": "鳥人間部 T-MIT",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-102",
-            "title": "【1号館】102教室",
-            "coord": [
-                0.1561,
-                0.2257
-            ],
-            "zoom": 6.8446,
-            "layer": "layer1711469944079",
-            "type": "hidden",
-            "about": "三曲会",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-103",
-            "title": "【1号館】103教室",
-            "coord": [
-                0.2351,
-                0.2014
-            ],
-            "zoom": 7.0077,
-            "layer": "layer1711469944079",
-            "about": "ロボコン部TEXNITIS",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-104",
-            "coord": [
-                0.322,
-                0.201
-            ],
-            "zoom": 7.0077,
-            "layer": "layer1711469944079",
-            "title": "【1号館】104教室",
-            "about": "児童文化研究会",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-105",
-            "title": "【1号館】105教室",
-            "coord": [
-                0.407,
-                0.2245
-            ],
-            "zoom": 7.0077,
-            "layer": "layer1711469944079",
-            "about": "Jazz研究会",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-107",
-            "title": "【1号館】107教室",
-            "coord": [
-                0.4061,
-                0.3876
-            ],
-            "zoom": 8.6379,
-            "layer": "layer1711469944079",
-            "about": "人力飛行機研究会MaPPL",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-109",
-            "coord": [
-                0.3223,
-                0.4092
-            ],
-            "zoom": 7.5815,
-            "layer": "layer1711469944079",
-            "title": "【1号館】109教室",
-            "about": "Team\"Lamp\"",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-110",
-            "title": "【1号館】110教室",
-            "coord": [
-                0.6271,
-                0.1772
-            ],
-            "zoom": 5.5675,
-            "layer": "layer1711469944079",
-            "about": "宇宙広報団体 TELSTAR, 生協学生委員会 つむぎ, イベント制作委員会 p!ece, 料理サークル Caesar,  劇団青いバラ, 星の広場の会, スイートピア, 写真部, 文藝部",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "_1-120",
-            "title": "【1号館】120教室",
-            "coord": [
-                0.764,
-                0.4642
-            ],
-            "zoom": 2,
-            "layer": "layer1711469944079",
-            "about": "東日本きずなプロジェクト, シャドウバースサークル, お笑いサークル傾喜者, TMU作曲サークル, FINAL☆FLASH, 司法問題研究会, 学生教育研究会, 世界民謡研究会, 推理小説研究会, ナチュール, テコンドー部, 劇団時計, CORE, A.T.L., aiddy",
-            "group": [
-                "【1号館】"
-            ]
-        },
-        {
-            "id": "def",
-            "group": [
-                "Available"
-            ],
-            "style": "Available",
-            "desc": "<p></p>",
-            "action": "sidebar",
-            "type": "hidden",
-            "hide": false,
-            "title": "【0】 場所名",
-            "about": "展示団体名"
-        }
-    ],
-    "filters": [],
-    "styles": [
-        {
-            "class": "Gray-Out",
-            "svg": true,
-            "marker": true,
-            "base-color": "#828282"
-        },
-        {
-            "class": "Unavailable",
-            "svg": true,
-            "marker": true,
-            "base-color": "#ffffff00"
-        },
-        {
-            "class": "Available",
-            "svg": true,
-            "marker": true,
-            "base-color": "#C0EDF7",
-            "hover-color": "#88abb3",
-            "active-color": "#c1f7d2",
-            "base-stroke": "#282828",
-            "stroke-width": 1
-        }
-    ],
-    "breakpoints": [
-        {
-            "name": "all-screens",
-            "below": 8000
-        },
-        {
-            "name": "Mobile",
-            "below": 480,
-            "portrait": true,
-            "type": "list",
-            "container": 550,
-            "element": null,
-            "column": 1
-        },
-        {
-            "name": "All screens",
-            "below": 8000,
-            "type": "list",
-            "column": 1
-        }
-    ],
-    "routes": [],
-    "samples": [
-        {
-            "id": "def",
-            "title": "Default",
-            "group": [],
-            "style": "Available",
-            "type": "hidden",
-            "thumb": "・"
-        }
-    ]
+	"settings": {
+		"mapWidth": 1000,
+		"mapHeight": 800,
+		"maxZoom": 4,
+		"hoverTooltip": true,
+		"sidebar": true,
+		"layerSwitcher": "top-left",
+		"resetButton": "bottom-right",
+		"zoomButtons": "bottom-right",
+		"filters": true,
+		"thumbnails": false,
+		"ordered": true,
+		"title": "Residential lots",
+		"sidebarWidth": "30%",
+		"layer": "layer_outside",
+		"portrait": "600",
+		"zoom": true,
+		"toggleSidebar": true,
+		"sidebarClosed": false,
+		"portraitMinHeight": "400px",
+		"fullscreen": "bottom-right",
+		"csvEnabled": false,
+		"rightSidebar": true,
+		"searchText": "検索",
+		"accessibility": false,
+		"hoverAbout": true,
+		"groupBy": false,
+		"theme": "light",
+		"primaryColor": "#9dc04c"
+	},
+	"groups": [],
+	"layers": [
+		{
+			"id": "layer_7_2",
+			"name": "【7号館】2F",
+			"file": "assets/maps/circle_intro/7-2.svg?0420401",
+			"switchReset": true
+		},
+		{
+			"id": "layer_7_1",
+			"name": "【7号館】1F",
+			"file": "assets/maps/circle_intro/7-1.svg?22",
+			"switchReset": true
+		},
+		{
+			"id": "layer_1_3",
+			"name": "【1号館】3F",
+			"file": "assets/maps/circle_intro/1-3.svg?040101",
+			"switchReset": true
+		},
+		{
+			"id": "layer_1_2",
+			"name": "【1号館】2F",
+			"file": "assets/maps/circle_intro/1-2.svg?0401202222",
+			"switchReset": true
+		},
+		{
+			"id": "layer_1_1",
+			"name": "【1号館】1F",
+			"file": "assets/maps/circle_intro/1-1.svg?04040211",
+			"switchReset": true
+		},
+		{
+			"id": "layer_gaku_hall",
+			"name": "【学生ホール】",
+			"file": "assets/maps/circle_intro/gaku_hall.svg",
+			"switchReset": true
+		},
+		{
+			"id": "layer_outside",
+			"name": "【インフォメ】",
+			"file": "assets/maps/circle_intro/outside.svg?040122",
+			"switchReset": true
+		}
+	],
+	"locations": [
+		{
+			"title": "【1号館】207教室",
+			"id": "_1-207",
+			"coord": [
+				0.472,
+				0.3875
+			],
+			"zoom": 6.9372,
+			"layer": "layer_1_2",
+			"about": "都立大子どもまつり実行委員会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">私たちが主催している「都立大子どもまつり」や地域のボランティア活動について紹介します。イベント運営に興味のある方や子どもたちと関わりたい方、ぜひお越しください！お会いできるのを楽しみにしています！</span>"
+		},
+		{
+			"type": "hidden",
+			"id": "_7-101",
+			"coord": [
+				0.7991,
+				0.3941
+			],
+			"zoom": 3.7209,
+			"layer": "layer_7_1",
+			"title": "【7号館】101教室（スタジオ）",
+			"about": "古典ギター部",
+			"desc": "<p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">こんにちは！古典ギター部です。私たちは、週3回の活動を通して、約40名でギター合奏を行っています。大学からギターを始めたい人も、音楽経験がない人も大歓迎です。学生ホール306号室で待ってます！</span></p>"
+		},
+		{
+			"id": "out-hq",
+			"coord": [
+				0.6834,
+				0.347
+			],
+			"zoom": 9.0703,
+			"layer": "layer_outside",
+			"title": "【本部】講堂",
+			"desc": "<p></p>"
+		},
+		{
+			"id": "gaku-danwa",
+			"coord": [
+				0.5911,
+				0.4412
+			],
+			"zoom": 5.8082,
+			"layer": "layer_gaku_hall",
+			"about": "フォークソング研究会, 軽音楽部",
+			"title": "【学生ホール】談話室",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">フォークソング研究会<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">東京都立大学フォークソング研究会は軽音楽部と合同で生協前ライブを行います！現役生と新入生の交流の場もありますので、ぜひ一度お越しください！<br></span></span><div><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">---</span></span></div><div><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">軽音楽部<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">東京都立大学軽音楽部はフォークソング研究会と合同で生協前広場にてライブを行います！また、ライブだけでなく新入生との懇談も行いますので、興味があればぜひお越しください！</span></span></span></span></div>"
+		},
+		{
+			"id": "gaku-shisaku",
+			"coord": [
+				0.3063,
+				0.801
+			],
+			"zoom": 7.6709,
+			"layer": "layer_gaku_hall",
+			"title": "【学生ホール】資料作成室",
+			"about": "世界民謡研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">世界民謡研究会というコピーバンドサークルです！初心者、経験者ともに大歓迎！ぜひ遊びにきてください</span>"
+		},
+		{
+			"id": "gaku-seikyo",
+			"title": "生協広場",
+			"coord": [
+				0.3477,
+				0.3299
+			],
+			"zoom": 2,
+			"layer": "layer_gaku_hall",
+			"desc": "<p>（晴天時のみ）入れ替え制となります</p><p>11:00~ BeatRiZe<br>12:30~&nbsp;フォークソング部+軽音楽部<br><br></p>",
+			"scale": null,
+			"about": "ヒューマンビートボックスサークルBeatRiZe, フォークソング部, 軽音楽部",
+			"style": "TimeShifted"
+		},
+		{
+			"id": "out-tent-9",
+			"title": "【インフォメ】テント9",
+			"coord": [
+				0.1749,
+				0.7285
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"style": "Available",
+			"about": "ヨット部, 学術探検会気球部",
+			"desc": "<div>ヨット部<br>お菓子を食べながら楽しくおしゃべりしましょう！</div><div>---</div>学術探検会気球部<br>学術探検会気球部です！私たちは、全国の大学でも数少ない熱気球サークルです！サークル紹介当日は実際にフライトで用いるバスケット(乗るところ)を展示する予定です。ぜひ足を運んでみて下さい！"
+		},
+		{
+			"id": "out-tent-8",
+			"coord": [
+				0.2992,
+				0.727
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"title": "【インフォメ】テント8",
+			"about": "米式蹴球部",
+			"desc": "アメリカンフットボールは究極のスポーツです。ここでしか味わえない楽しさがあります。私たちと一緒にアメリカンフットボールを楽しみましょう！"
+		},
+		{
+			"id": "out-tent-7",
+			"title": "【インフォメ】テント7",
+			"coord": [
+				0.4214,
+				0.7263
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"about": "男子チアリーディング部MAXONS, 応援団女子チアダンス部RITZ",
+			"desc": "男子チアリーディング部MAXONS<br>こんにちは！僕ら男子だけで構成されたチアリーディング部MAXONSです。男子ならではの力強さと迫力、一体感あふれる演技で、観る人すべてを魅了します。ぜひ観に来てください！<div>---</div><div>応援団女子チアダンス部RITZ<br>私たちRITZは、空の目門前ステージでのパフォーマンス披露に加えて、私たちの活動について新入生の皆さんにお話しできる特設ブースも設置します！</div>"
+		},
+		{
+			"id": "out-tent-6",
+			"coord": [
+				0.5436,
+				0.7285
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"title": "【インフォメ】テント6",
+			"about": " 学生フォーミュラプロジェクト Formula TMU, フライングディスク部butterfly",
+			"desc": "学生フォーミュラプロジェクト Formula TMU<br>私たち学生フォーミュラサークルでは、自分たちで1から設計し、製作した出来たてホヤホヤの車両を展示します！大会や日頃の活動の紹介もさせていただきます！知識が無くても大丈夫！ぜひお気軽にお越しください！！<div>---</div><div>フライングディスク部butterfly<br>走って、投げて、つながる。アルティメットは自己審判が特徴の、男女混合で楽しめるチームスポーツです。初心者大歓迎、大学から始めた人がほとんど！</div>"
+		},
+		{
+			"id": "out-tent-5",
+			"coord": [
+				0.0509,
+				0.4958
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"title": "【インフォメ】テント5",
+			"style": "Available",
+			"type": "hidden",
+			"about": "男女混成チアリーディングサークルLuminous, J-Boy",
+			"desc": "男女混成チアリーディングサークルLuminous<br>私たちLuminousは男女混成でチアリーディングをしています。男子の迫力と女子の可愛らしいチアをぜひ楽しんでください。また、今年創設したサークルでもあります。新たなチームを一緒に作り上げませんか？<br><div>---</div><div>J-Boy<br>ツーリングなどを行うバイクサークルです。スライドで活動内容を紹介します！体験コーナーも用意しているので是非！<br><br></div>"
+		},
+		{
+			"id": "out-tent-4",
+			"title": "【インフォメ】テント4",
+			"coord": [
+				0.1738,
+				0.4952
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"style": "Available",
+			"type": "hidden",
+			"about": "水泳部",
+			"action": "switch",
+			"desc": "水泳部・水球部は新入生に向けた紹介、勧誘を目的としたビラ配りを行なっています。また、新入生の履修や新生活などについての相談を受け付けています。"
+		},
+		{
+			"id": "out-tent-3",
+			"coord": [
+				0.2977,
+				0.4941
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"title": "【インフォメ】テント3",
+			"about": "準硬式野球部, パワーリフティング部",
+			"desc": "準硬式野球部<br>楽しみつつ真剣に行う部活それが準硬式野球部です！よろしくお願いします！<br><div>---</div><div>パワーリフティング部<br>パワーリフティング部では、新入生を対象にベンチプレスなどの活動体験を予定しています。力自慢の方や筋トレに興味がある人、新しく何かを始めたい人など大歓迎です！皆さんの参加、待ってます！</div>"
+		},
+		{
+			"id": "out-tent-2",
+			"coord": [
+				0.421,
+				0.4958
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"title": "【インフォメ】テント2",
+			"about": "ラグビー部",
+			"desc": "部活動のことや履修相談まで色々な相談なんでも受け付けています！ラグビーに興味がある人はもちろん、学生生活に不安を感じている人も大歓迎！ぜひ遊びに来てください！"
+		},
+		{
+			"id": "out-tent-1",
+			"coord": [
+				0.5448,
+				0.4924
+			],
+			"zoom": 4.7438,
+			"layer": "layer_outside",
+			"title": "【インフォメ】テント1",
+			"about": "漕艇部, アイスホッケー部",
+			"desc": "<span data-sheets-root=\"1\" style=\"\"><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 10pt;\">漕艇部</span></font><br><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\">都立大漕艇部員は全員初心者から始める部員がほとんどで、皆切磋琢磨して練習していま。サークル紹介では、ボート競技や練習日程について説明します。履修申請の相談なども受け付けてます、ぜひ遊びに来てください！<br></span></font></span><div><span data-sheets-root=\"1\" style=\"\"><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\">---<br></span></font><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">アイスホッケー部<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">東京都立大学体育会アイスホッケー部です！現役部員と直接話せるチャンス。少しでも興味がある人はぜひ遊びに来てください！</span><br><br></span><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\"></span></font></span></div><div><span data-sheets-root=\"1\" style=\"\"><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\"><br></span></font></span></div>"
+		},
+		{
+			"id": "out-soranome",
+			"coord": [
+				0.7415,
+				0.4972
+			],
+			"zoom": 2,
+			"layer": "layer_outside",
+			"desc": "<p>（晴天時のみ）入れ替え制となります</p><p>11:00~ 競技ダンス部<br>11:20~ Luminous<br>11:35~&nbsp;MAXONS+RITZ<br>12:10~ WILD BOARS<br>12:40~ 競技ダンス部<br>13:00~ Luminous<br>13:15~ MAXONS+RITZ<br>13:50~&nbsp;吹奏楽団<br>15:10~ Lyla</p>",
+			"title": "空の目門",
+			"style": "TimeShifted",
+			"about": "競技ダンス部, 男女混成チアリーディングサークルLuminous, 男子チアリーディング部MAXONS, 応援団女子チアダンス部RITZ, 競技チアリーディングサークル WILD BOARS, 吹奏楽団, 都立大KPOPカバーダンスサークル Lyla"
+		},
+		{
+			"id": "out-hall-big",
+			"coord": [
+				0.7531,
+				0.2575
+			],
+			"zoom": 2,
+			"layer": "layer_outside",
+			"desc": "入れ替え制となります<p></p><div>（晴天時）</div><div><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">管弦楽団<br></span></div><div><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">（雨天時）</span></div><div><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">11:00~ BeatRiZe<br></span><span style=\"color: rgb(67, 67, 67); font-family: Roboto, Arial; font-size: 10pt;\">11:20~&nbsp;フォークソング部+軽音楽部<br></span><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">12:30~&nbsp;</span><span style=\"color: rgb(67, 67, 67); font-family: Roboto, Arial; font-size: 13.3333px;\">管弦楽団<br>13:10~ WILD BOARS<br>13:25~&nbsp;</span><span style=\"color: rgb(67, 67, 67); font-family: Roboto, Arial; font-size: 10pt;\">競技ダンス部<br>13:50~ Luminous<br>14:00~ MAXONS+RITZ<br>14:30~&nbsp;</span><span style=\"color: rgb(67, 67, 67); font-family: Roboto, Arial; font-size: 10pt;\">吹奏楽団<br>15:25~ Lyla<br><br></span></div>",
+			"title": "講堂大ホール",
+			"disable": false,
+			"hide": true,
+			"latlon": [
+				0,
+				0
+			],
+			"style": "TimeShifted",
+			"about": "管弦楽団, ヒューマンビートボックスサークルBeatRiZe, フォークソング部, 軽音楽部, 競技チアリーディングサークル WILD BOARS, 競技ダンス部, 男女混成チアリーディングサークルLuminous, 男子チアリーディング部MAXONS, 応援団女子チアダンス部RITZ, 吹奏楽団, 都立大KPOPカバーダンスサークル Lyla"
+		},
+		{
+			"id": "out-hall-small",
+			"coord": [
+				0.7536,
+				0.068
+			],
+			"zoom": 2,
+			"layer": "layer_outside",
+			"desc": "<p></p>",
+			"title": "講堂小ホール",
+			"disable": false,
+			"hide": true,
+			"style": "Gray-Out"
+		},
+		{
+			"id": "_7-230",
+			"title": "【7号館】230教室",
+			"coord": [
+				0.2841,
+				0.2671
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "スマん研",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">東京都立大学スマブラサークル/スマん研の新歓では実際に部員とスマブラ対戦をすることができます。初心者も自信のある方もぜひお越しください！</span>"
+		},
+		{
+			"id": "_7-229",
+			"title": "【7号館】229教室",
+			"coord": [
+				0.3335,
+				0.2688
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "AR会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">こんにちは、AR会です。今回のサークル紹介では、サークルメンバーが作成したゲームを遊んだり、活動内容や大学生活に関する質問ができる場を設ける予定です。ぜひご参加ください。</span>"
+		},
+		{
+			"id": "_7-228",
+			"title": "【7号館】228教室",
+			"coord": [
+				0.3735,
+				0.2677
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "さはらかん",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">さはらかんです。わたし達は、小型模擬人工衛星、通称CanSatを作製し大会に出場しています。ラジコン等の活動体験を行っているので、ぜひ気軽に立ち寄っていってください。プレゼント企画もあります！</span>"
+		},
+		{
+			"id": "_7-227",
+			"title": "【7号館】227教室",
+			"coord": [
+				0.4121,
+				0.2677
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "マイクロコンピュータ研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">マイクロコンピュータ研究会では、サークル内で作成した電子工作の展示や部員で作成した部誌の頒布を予定しております。電子工作やプログラミングに興味がある方はぜひきてください。</span>"
+		},
+		{
+			"id": "_7-226",
+			"title": "【7号館】226教室",
+			"coord": [
+				0.4535,
+				0.2682
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "ヒューマンビートボックスサークルBeatRiZe",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">2024年度に新設された、都立大初のヒューマンビートボックスサークルです！是非気軽に聴きに来てください！</span>"
+		},
+		{
+			"id": "_7-225",
+			"title": "【7号館】225教室",
+			"coord": [
+				0.494,
+				0.2688
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "Closeup Magic Circle",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">東京都立大学で唯一のマジックのサークル！ Closeup Magic Circle（通称CMC）です。もちろん初心者も経験者も大歓迎！私たちとマジックを特技にしませんか？</span>"
+		},
+		{
+			"id": "_7-224",
+			"title": "【7号館】224教室",
+			"coord": [
+				0.5335,
+				0.2677
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "TMU麻雀サークル",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">初心者大歓迎！麻雀体験会を開催します。ルールが分からなくても先輩が丁寧に教えるので安心です。経験者ももちろん歓迎！まずは気軽に遊びに来てください！</span>"
+		},
+		{
+			"id": "_7-223",
+			"title": "【7号館】223教室",
+			"coord": [
+				0.574,
+				0.2688
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "東方都立璋",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">東方project同好会です！知ってる方も、知らない方も、是非お越しください。</span>"
+		},
+		{
+			"id": "_7-222",
+			"title": "【7号館】222教室",
+			"coord": [
+				0.6126,
+				0.2677
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "アイリッシュ音楽研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">ライブ・演技等の発表＋新入生との懇談</span>"
+		},
+		{
+			"id": "_7-221",
+			"title": "【7号館】221教室",
+			"coord": [
+				0.6526,
+				0.2688
+			],
+			"zoom": 5.4054,
+			"layer": "layer_7_2",
+			"about": "都立不死街",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">都立不死街ではフロムソフトウェア作品のプレイ体験とグッズの展示を行います。篝火で待っています！！</span>"
+		},
+		{
+			"id": "_7-218",
+			"title": "【7号館】218教室",
+			"coord": [
+				0.345,
+				0.4337
+			],
+			"zoom": 5.1948,
+			"layer": "layer_7_2",
+			"about": "Hat Trick",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">こんにちは都立大ダーツサークルのHat Trickです🎯🎯🎯ダーツに興味がある方は経験者でも初めての方でも大歓迎です！サークル紹介ではダーツの体験を行なっているのでぜひお越しください！！</span>"
+		},
+		{
+			"id": "_7-216",
+			"title": "【7号館】216教室",
+			"coord": [
+				0.411,
+				0.4337
+			],
+			"zoom": 5.1948,
+			"layer": "layer_7_2",
+			"about": "ボードゲーム研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">ボードゲームやってます！サイコロ運ゲーや反射神経系からロジック系まで、３０分程度楽しめるものを用意してます！少し遊んでいきませんか？</span>"
+		},
+		{
+			"id": "_7-215",
+			"coord": [
+				0.4685,
+				0.4337
+			],
+			"zoom": 5.1948,
+			"layer": "layer_7_2",
+			"title": "【7号館】215教室",
+			"about": "将棋部",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">将棋部は毎週月曜、金曜に集まって皆で将棋を指しています。もしどのような雰囲気か気になる方がいらっしゃいましたら、是非サークル紹介に来てみてください！</span>"
+		},
+		{
+			"id": "_7-213",
+			"title": "【7号館】213教室",
+			"coord": [
+				0.518,
+				0.4325
+			],
+			"zoom": 5.1948,
+			"layer": "layer_7_2",
+			"about": "百人一首サークル",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">こんにちは！東京都立大学百人一首サークルです！百人一首サークルでは百人一首を使った競技かるたの体験や実演を行なっております。美しい競技かるたの世界をのぞいてみませんか？ぜひお越しください！</span>"
+		},
+		{
+			"id": "_7-212",
+			"coord": [
+				0.563,
+				0.4325
+			],
+			"zoom": 5.1948,
+			"layer": "layer_7_2",
+			"title": "【7号館】212教室",
+			"about": "茶道研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">私たちは裏千家茶道を通じてお茶の文化に親しむサークルで、 性別問わず様々な学部の学生が所属しています。茶道経験者の方も未経験の方も大歓迎です！見学、体験お待ちしております！</span>"
+		},
+		{
+			"id": "_7-211",
+			"coord": [
+				0.6031,
+				0.4325
+			],
+			"zoom": 5.1948,
+			"layer": "layer_7_2",
+			"disable": false,
+			"title": "【7号館】211教室",
+			"style": "Available",
+			"about": "茶道研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">私たちは裏千家茶道を通じてお茶の文化に親しむサークルで、 性別問わず様々な学部の学生が所属しています。茶道経験者の方も未経験の方も大歓迎です！見学、体験お待ちしております！</span>"
+		},
+		{
+			"id": "_7-106",
+			"title": "【7号館】106教室",
+			"coord": [
+				0.6478,
+				0.578
+			],
+			"zoom": 6.3291,
+			"layer": "layer_7_1",
+			"about": "ワンダーフォーゲル部",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">こんにちは、ワンダーフォーゲル部です！私たちはサークル紹介にて装備の展示を行います。 現役部員と話せるチャンス！ ワンダーフォーゲルってなあに？そう思ったあなたはぜひ一緒に、通称「ワンゲル」の世界へ！</span>"
+		},
+		{
+			"id": "_7-104",
+			"title": "【7号館】104教室",
+			"coord": [
+				0.689,
+				0.6574
+			],
+			"zoom": 8.547,
+			"layer": "layer_7_1",
+			"style": "Gray-Out"
+		},
+		{
+			"id": "_7-103",
+			"title": "【7号館】103教室",
+			"coord": [
+				0.7979,
+				0.6106
+			],
+			"zoom": 6.4516,
+			"layer": "layer_7_1",
+			"style": "Gray-Out"
+		},
+		{
+			"id": "_1-309",
+			"title": "【1号館】309教室",
+			"coord": [
+				0.322,
+				0.4151
+			],
+			"zoom": 6.0666,
+			"layer": "layer_1_3",
+			"about": "ジャグリングサークルTeam\"Lamp\"",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">こんにちは！ジャグリングサークルTeam\"Lamp\"です！サークル紹介ではジャグリングの体験会を行います。未経験者大歓迎！部員のほとんどが大学からジャグリングを始めました！「一芸、得たくない？」</span>"
+		},
+		{
+			"id": "_1-310",
+			"title": "【1号館】310教室",
+			"coord": [
+				0.6275,
+				0.1761
+			],
+			"zoom": 4.283,
+			"layer": "layer_1_3",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">大学祭実行委員会、通称めぽです！５つの局に分かれて楽しく安全な大学祭を作るために尽力しています。大学祭も遊びも楽しめる1年生大募集中！めぽの相談だけでなく、履修相談、雑談待ってます！！</span><p></p>",
+			"about": "大学祭実行委員会"
+		},
+		{
+			"id": "_1-302",
+			"title": "【1号館】302教室",
+			"coord": [
+				0.1564,
+				0.2241
+			],
+			"zoom": 5.4765,
+			"layer": "layer_1_3",
+			"about": "東京都立大学航空部",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">パソコンとプロジェクターを使いグライダーのシュミレーターでグライダーの操縦体験をしてもらう</span>"
+		},
+		{
+			"id": "_1-301",
+			"title": "【1号館】301教室",
+			"coord": [
+				0.1576,
+				0.3894
+			],
+			"zoom": 5.3266,
+			"layer": "layer_1_3",
+			"about": "美術部",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">美術部は作品制作を中心に空いている時間に自由に活動します🖌️ 学内展示や大学祭に参加。資材使い放題で、ラクガキからデッサン、水彩、油彩、彫刻、陶芸、3Dプリンターまで！初心者も先輩が丁寧にサポート</span>"
+		},
+		{
+			"id": "_1-303",
+			"title": "【1号館】303教室",
+			"coord": [
+				0.2362,
+				0.1989
+			],
+			"zoom": 5.6058,
+			"layer": "layer_1_3",
+			"about": "クイズ研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">クイズ研究会では、早押しクイズの体験と普段の活動の紹介を行います。クイズ初心者の方も大歓迎です。興味のある方はこの機会に是非お越しください！</span>"
+		},
+		{
+			"id": "_1-304",
+			"title": "【1号館】304教室",
+			"coord": [
+				0.3214,
+				0.1996
+			],
+			"zoom": 5.6058,
+			"layer": "layer_1_3",
+			"about": "フラッシュモブサークルCUBE",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">新入生の皆さんこんにちは！！フラッシュモブサークルCUBEではお菓子を食べながらサークル活動の紹介や、履修相談などを行います！色んな学部の先輩たちがいるので是非気軽に遊びに来てください！</span>"
+		},
+		{
+			"id": "_1-308",
+			"title": "【1号館】308教室",
+			"coord": [
+				0.4075,
+				0.3878
+			],
+			"zoom": 6.9372,
+			"layer": "layer_1_3",
+			"about": "ジャズ研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">ジャズ研究会では、みなさんにジャズの生演奏をお届けします。普段の様子や雰囲気がわかると思います。部員とおしゃべりもできるのでぜひ立ち寄ってみてください。</span>"
+		},
+		{
+			"id": "_1-208",
+			"title": "【1号館】208教室",
+			"coord": [
+				0.4072,
+				0.389
+			],
+			"zoom": 6.9372,
+			"layer": "layer_1_2",
+			"about": "Revolver",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">都立大の軽音サークル「Revolver」です！Revolverは都立大で唯一ライブハウスでライブを行う軽音サークルです。初心者、経験者ともに大歓迎です！皆さんに会えるのを待ってます！！SNSも見てね♪</span>"
+		},
+		{
+			"id": "_1-206",
+			"title": "【1号館】206教室",
+			"coord": [
+				0.4932,
+				0.2268
+			],
+			"zoom": 5.6058,
+			"layer": "layer_1_2",
+			"about": "メタバース研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">自分だけのアバターを作ってメタバースへ！当サークルは定期的に制作物をメタバース空間で見せ合う、ゆるやかな創作コミュニティです。今回の企画はアバター制作体験、部員の作品展示です！オンラインでも開催！</span>"
+		},
+		{
+			"id": "_1-209",
+			"title": "【1号館】209教室",
+			"coord": [
+				0.3226,
+				0.4139
+			],
+			"zoom": 6.0666,
+			"layer": "layer_1_2",
+			"about": "地理学研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">地理学研究会では、2025年度に行った活動の紹介とともに、新歓で行う巡検(まち歩き)の予定をご紹介します！地理の観点から、まちのまだ見ぬ魅力を、我々と一緒に見つけていきませんか？</span>"
+		},
+		{
+			"id": "_1-210",
+			"title": "【1号館】210教室",
+			"coord": [
+				0.6272,
+				0.1787
+			],
+			"zoom": 4.283,
+			"layer": "layer_1_2",
+			"desc": "<p>B類サッカー部</p><p>B類サッカー部では、新入生の皆さんとのお話会を開きます！私たちのサークルのことはもちろん、大学生活で不安なことや気になることなど、優しい先輩たちにたくさん聞いちゃいましょう！！\n<br>---</p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">B類テニス部<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">Bテは都立大最大級のテニスサークルで最大週6日活動で、初心者から経験者まで誰でも楽しめる！そしてやっぱりイベントの多さ！一年を通して盛りだくさんの企画があります！ぜひ Bテに来てみてください！<br>---</span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">都立大KPOPカバーダンスサークル Lyla<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">KPOPカバーダンスサークルLylaです！新歓公演では、誰もが一度は聞いたことがあるような有名曲を披露します！ぜひ見に来てください！！<br></span></span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">---</span></span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">B類バスケットボール部<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">B類バスケットボール部です！経験者多めですが、初心者の人も大歓迎です！先輩後輩みんな仲良しで、バスケも遊びもみんなで本気で楽しめるサークルです！<br></span></span></span></span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">---<br></span></span></span></span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">八雲FC<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">南大沢キャンパスで活動するサッカーサークルです！サッカーに興味ある子！ぜひ1度お話聞きに来てください✨プレーヤーもマネージャーも大募集してます！</span></span></p><p><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\">---</span></font></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">skyhand<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">こんにちは！東京都立大学ハンドボールサークルのskyhandです！中央新歓ではビラ配りをさせていただいてます！毎週木曜日に多目的コートで活動してるので皆さんの参加お待ちしてます！<br></span></span><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\"></span></font></p><p><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\">---</span></font></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">Pluma<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">こんにちは！バドミントンサークルPluma(プルーマ)です！私たちは「上達を楽しむ」をモットーに、週1.2回ほど都立大周辺の体育館で活動しています。初心者も経験者も一緒にバドミントンを楽しみましょう！</span></span><font color=\"#434343\" face=\"Roboto, Arial\"><span style=\"font-size: 13.3333px;\"></span></font></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">---</span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">都立大　軟式野球サークル　RaD</span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">こんにちは！都立大軟式野球サークルRaDです。我々は現在、諏訪北公園野球場で週に1回活動をしています。経験者も未経験者も関係なく楽しく野球をしています。興味をもった方はぜひ来てみてください！</span></span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">---</span></span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">T-MölkkU<br><span data-sheets-root=\"1\" style=\"font-size: 10pt;\">こんにちは！私たちはモルックサークルT-MölkkUです！モルックはフィンランド発祥のスポーツで、部員同士、仲良く楽しく活動中!年2回の合宿や学生大会にも参加しています。ぜひ一緒にモルックしませんか？</span></span></span></span></span></span></p><p><span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\"><span data-sheets-root=\"1\" style=\"font-size: 10pt;\"><br></span></span></p>\n<p>\n    \n</p>",
+			"about": "B類サッカー部, B類テニス部, 都立大KPOPカバーダンスサークル Lyla, B類バスケットボール部, 八雲FC, skyhand, Pluma, 都立大　軟式野球サークル　RaD, T-MölkkU"
+		},
+		{
+			"id": "_1-202",
+			"title": "【1号館】202教室",
+			"coord": [
+				0.1564,
+				0.2225
+			],
+			"zoom": 5.4765,
+			"layer": "layer_1_2",
+			"about": "GDSC TMU",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">GDSC TMU(GDGoC)は、Google Developersと連携しながら活動するコミュニティです。ゆるく交流しながら、勉強会やアプリ開発などを行う、ものづくり学生のハブ（交流場所）です。</span>"
+		},
+		{
+			"id": "_1-201",
+			"title": "【1号館】201教室",
+			"coord": [
+				0.1573,
+				0.3879
+			],
+			"zoom": 5.3266,
+			"layer": "layer_1_2",
+			"about": "das Lied",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">皆さん、アカペラ知ってますか？知っている人もそうでない人も一旦私たちの演奏を聴きに来てください！アカペラサークルdas Liedは終日教室にてライブを行っています！ぜひ気軽にのぞきに来てね！</span>"
+		},
+		{
+			"id": "_1-203",
+			"title": "【1号館】203教室",
+			"coord": [
+				0.2377,
+				0.1996
+			],
+			"zoom": 5.6058,
+			"layer": "layer_1_2",
+			"about": "鳥人間部T-MIT",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">鳥人間コンテストで飛ぶ予定の機体の1/8模型を展示します！夏に琵琶湖を飛ぶ『実機』の圧倒的なスケール感をぜひあなたの目で確かめてください！機体制作や鳥人間コンテストについての質問もお待ちしてます！</span>"
+		},
+		{
+			"id": "_1-204",
+			"title": "【1号館】204教室",
+			"coord": [
+				0.322,
+				0.2004
+			],
+			"zoom": 5.6058,
+			"layer": "layer_1_2",
+			"about": "鉄道研究会",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">鉄道研究会では、プラレールやNゲージなど鉄道模型の展示で皆様をお待ちしております！新歓を含めた様々な旅行や内外問わず模型の運転会などを行っております。都立大の鉄道好き、集まれ！</span>"
+		},
+		{
+			"id": "_1-205",
+			"title": "【1号館】205教室",
+			"coord": [
+				0.4074,
+				0.225
+			],
+			"zoom": 5.6058,
+			"layer": "layer_1_2",
+			"about": "陸上競技部",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">活動内容や1年間の流れについて説明します！履修相談や学校生活のことなど気になることは相談に乗ります！気軽に参加してください！</span>"
+		},
+		{
+			"id": "_1-220",
+			"title": "【1号館】220教室",
+			"coord": [
+				0.7595,
+				0.3733
+			],
+			"zoom": 5.3191,
+			"layer": "layer_1_2",
+			"about": "ノベルゲーム研究会, 共同創作サークルfacere, ピアノ・室内楽サークルDolce, ピアノ・室内楽サークルDolce, 東京都立大学バルーンアートサークル   ツイラバ, 東京都立大学書道部",
+			"desc": "<p>ノベルゲーム研究会<br>こんにちは、ノベルゲーム研究会です。本日は皆さんに、ノベルゲームとは、そしてこの研究会は何をしているのかをお伝えできたらよいなと思います。また、会報誌第一号のデータ配布も行いますよ！</p><p>---</p><p>共同創作サークルfacere<br>落ち着いた空間で、ゆっくりと学生生活について話します。これまでの作品や、活動を紹介し、希望者は短編ものがたりを一緒に作りましょう。</p><p>いきもの！サークル東京<br>いきもの！サークル東京は、都立大を拠点として生き物好きの学生が集まるインカレサークルで、生き物と自然の面白さを探究・発信することを活動方針としています。生き物や自然に興味のある方はぜひ来てください！</p><p>---</p><p>ピアノ・室内楽サークルDolce<br>東京都立大学ピアノ室内楽サークルDolceです！ Dolceでは｢音楽をやりたい｣という人たちがたくさん集まっています。ピアノだけではなく多種多様な楽器を弾く人もいて音楽を楽しめる環境となっています。</p><p>---</p><p>東京都立大学バルーンアートサークル   ツイラバ<br>こんにちは🎈私達はバルーンアートをやっている【ツイラバ】です！まだまだ新米サークルで活動は小規模ですが、新入生の皆さんとバルーンアートを楽しくできたらなと思っています！ぜひお立ち寄りください☺️</p><p>---</p><p>東京都立大学書道部<br>書道部は週2回、途中参加・退出自由で活動しています。部員は約20名で、未経験から始めた部員も多く、互いに教え合い楽しく上達できます！兼部しながら自分のペースで練習できるのも魅力です！見学のみも大歓迎！</p>"
+		},
+		{
+			"id": "_1-240",
+			"title": "【1号館】240教室",
+			"coord": [
+				0.7604,
+				0.6446
+			],
+			"zoom": 5.3191,
+			"layer": "layer_1_2",
+			"about": "ラフBALLER, 競技チアリーディングサークル WILD BOARS, PersimmonT.C, 剣道部, テコンドー部, 少林寺拳法部, 競技ダンス部, ドラマサークル, F.C.UNO",
+			"desc": "<p>ラフBALLER<br>こんにちは！ラフBALLERです！私たちは週に1度近隣の中学校の体育館をお借りしてゆるく楽しくバスケットボールをしています。経験の有無を問わずわいわい活動しています。ぜひ新歓にお越しください！</p><p>---</p><p>競技チアリーディングサークル WILD BOARS<br>私たちは競技チアリーディングサークルWILD BOARSです！サークル紹介ではチアリーディングを披露させていただきます！興味をもっていただけたらぜひブースにもお越しください！お待ちしてます！</p><p>---</p><p>PersimmonT.C<br>みんなでテニスしよう！！初心者も経験者も大歓迎！</p><p>---</p><p>剣道部<br>こんにちは、剣道部です。私たちは月、水、木、土曜日に南大沢キャンパスで活動しています。新入部員を大募集です！経験者、初心者、マネージャー、どなたでも大歓迎です！気になる方はぜひ見学にお越しください！</p><p>---</p><p>テコンドー部<br>こんにちは！東京都立大学体育会テコンドー部です！当日は様々な部員が常駐しておりますので、テコンドーに関わらず、履修、学生生活のことなどお気軽に聞きに来てください！</p><p>---</p><p>少林寺拳法部<br>新しいこと初めて始めたい方、少林寺拳法やってみませんか？活動日は月・水・土です！バイトなど個人の予定に合わせて練習に参加できます！現在部員は１８人、初心者がほとんどです！是非体験にお越しください！</p><p>---</p><p>競技ダンス部<br>こんにちは、都立大学競技ダンス部です！ 私たちはサークル紹介当日にデモンストレーションを行います。普段あまり聞かない競技ダンスですが、踊る楽しさや迫力を間近で感じられます。当日お待ちしてます！</p><p>---</p><p>ドラマサークル<br>ドラマサークルです！最近や昔のドラマの話をゆる～くしています。ドラマ・主題歌などにまつわるクイズ大会も企画しています。好きなドラマがある人！　最近ドラマを見ていたという人！　ドラマの話、しませんか？？</p><p>---</p><p>F.C.UNO<br>私たちは東京都立大学の公認フットサルサークル　F.C.UNOです⚽️教室内でのサークル説明や大学内でのビラ配りなどを行っています！また、基本的な新歓の情報は各種SNSで配信しています！！</p>"
+		},
+		{
+			"id": "_1-230",
+			"title": "【1号館】230教室",
+			"coord": [
+				0.7607,
+				0.4891
+			],
+			"zoom": 4.908,
+			"layer": "layer_1_2",
+			"about": "卓球部, 男子バレーボール部, 硬式庭球部, ハンドボール部, 弓道部, 山岳部, バドミントン部, 硬式野球部, 男子バスケットボール部",
+			"desc": "<p>卓球部<br>体育会卓球部です。サークル紹介では、主に新入生の皆さんとの懇談を行います。卓球経験者も未経験者も大歓迎です！少しでも興味のある方はぜひ参加してみてください。たくさんの参加お待ちしてます！</p><p>---</p><p>男子バレーボール部<br>こんにちは！男子バレーボール部です。私達は昨年度目標であった4部昇格を達成し、現在は3部昇格を目標に練習に励んでいます！！BBQや合宿などイベントも沢山あります！興味がある方はぜひ来てみてください！！</p><p>---</p><p>硬式庭球部<br>部員が活動内容や年間スケジュール、部費を含む活動にかかるおおよその費用などを親身に説明します。部活の他にも大学生活や履修のことなど、可能な範囲で精一杯答えます。</p><p>---</p><p>ハンドボール部<br>こんにちは！ハンドボール部です！部員達とお話してみませんか？部活のことや学校生活のことなど、なんでも聞けちゃいます！プレイヤー、マネージャーともに大募集中です！ぜひ、お気軽にお越しください！</p><p>---</p><p>弓道部<br>弓道部はスライドや動画を用いて部活の内容や雰囲気、これからの新歓イベントの予定などを説明していきます。少しでも興味があれば、是非お越しください。</p><p>---</p><p>山岳部<br>こんにちは！山岳部です！当日は活動紹介に加え、実際に山で使用する本格的な登山装備を展示します！山登りについてのいろいろな疑問にも部員がお答えします！！初心者も経験者も、ぜひ来てください！！</p><p>---</p><p>バドミントン部<br>先輩たちが部活動の活動内容についてお話しします！部活動に限らず、履修や部活と実生活の両立の仕方についても相談可能です！経験者も未経験者も全員が楽しく活動できる部活なのでぜひ気軽にお越しください！</p><p>---</p><p>硬式野球部<br>私たちは火・水・金曜日・土曜日に、南大沢キャンパス野球場で活動しています。現在新大学野球連盟の2部に所属しており、一部昇格を目標としています。 弊部には指導者がおらず、学生のみで日々活動しています。</p><p>---</p><p>男子バスケットボール部<br>こんにちは！男子バスケットボール部です！僕たちは、週に4回（月、水、木、土）活動しています！少しでもバスケに興味がある人はぜひ体験に来てください！初心者さんも大歓迎です！マネージャーも大募集！</p>"
+		},
+		{
+			"id": "_1-101",
+			"title": "【1号館】101教室",
+			"coord": [
+				0.1578,
+				0.3891
+			],
+			"zoom": 6.6578,
+			"layer": "layer_1_1",
+			"type": "hidden",
+			"about": "エリカ混声合唱団",
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">エリカ混声合唱団です！当日は合唱の披露と団員との懇親会を実施します。履修など、大学生活に関する相談も可能です。初心者も大歓迎！音楽に興味がある人、歌が好きな人は是非気軽に参加してください！</span>"
+		},
+		{
+			"id": "_1-102",
+			"title": "【1号館】102教室",
+			"coord": [
+				0.1561,
+				0.2257
+			],
+			"zoom": 6.8446,
+			"layer": "layer_1_1",
+			"type": "hidden",
+			"about": "ボランティアサークル　うぃんぐ",
+			"group": [
+				"【1号館】"
+			],
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">うぃんぐは地域で生活するしょうがいしゃの人たちと交流するサークルです。メンバーの中には当事者がいます。一緒にお茶をしながら交流しましょう。</span>"
+		},
+		{
+			"id": "_1-103",
+			"title": "【1号館】103教室",
+			"coord": [
+				0.2351,
+				0.2014
+			],
+			"zoom": 7.0077,
+			"layer": "layer_1_1",
+			"about": "unplugged",
+			"group": [
+				"【1号館】"
+			],
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">弾き語りサークルunplugged ､通称アンプラです！アコースティックギターを中心とした弾き語りライブを行います！アコギだけでなく様々な楽器を使って楽しく演奏しているのでぜひ見に来てください！</span>"
+		},
+		{
+			"id": "_1-104",
+			"coord": [
+				0.322,
+				0.201
+			],
+			"zoom": 7.0077,
+			"layer": "layer_1_1",
+			"title": "【1号館】104教室",
+			"about": "児童文化研究会",
+			"group": [
+				"【1号館】"
+			],
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">こんにちは！じゃりけんこと児童文化研究会です。私達は人形劇を中心に、子ども達と触れ合いながら活動しています。子どもと触れ合いたい方や、大学生活で素敵な仲間を見つけたい方におすすめです！</span>"
+		},
+		{
+			"id": "_1-105",
+			"title": "【1号館】105教室",
+			"coord": [
+				0.407,
+				0.2245
+			],
+			"zoom": 7.0077,
+			"layer": "layer_1_1",
+			"about": "三曲会",
+			"group": [
+				"【1号館】"
+			],
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">三曲会で演奏している、お箏・三味線・尺八という3種類の楽器を実際に触りながら体験していただけます。 体験スペースでは、普段の活動や学校生活について質問することもできますのでお気軽にお越しください！</span>"
+		},
+		{
+			"id": "_1-107",
+			"title": "【1号館】107教室",
+			"coord": [
+				0.4061,
+				0.3876
+			],
+			"zoom": 8.6379,
+			"layer": "layer_1_1",
+			"about": "人力飛行機研究会MaPPL",
+			"group": [
+				"【1号館】"
+			],
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">ちょっとした作業体験や、実際に鳥人間コンテストに出場した機体の部品展示を行っています。部員への相談も大歓迎です！是非、お話ししましょう！！少しでもモノづくりに興味がある方は、お気軽にお越しください～！</span>"
+		},
+		{
+			"id": "_1-109",
+			"coord": [
+				0.3223,
+				0.4092
+			],
+			"zoom": 7.5815,
+			"layer": "layer_1_1",
+			"title": "【1号館】109教室",
+			"about": "ロボコン部TEXNITIS",
+			"group": [
+				"【1号館】"
+			],
+			"desc": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Roboto, Arial; color: rgb(67, 67, 67);\">NHK学生ロボコンに向けて活動しています 設計・回路・プログラミングなどを学び、授業だけでは得られない実践的な知識とスキルを会得しませんか？未経験でも心配無用！ものづくりで輝きたいあなたを歓迎します！</span>"
+		},
+		{
+			"id": "_1-110",
+			"title": "【1号館】110教室",
+			"coord": [
+				0.6271,
+				0.1772
+			],
+			"zoom": 5.5675,
+			"layer": "layer_1_1",
+			"about": "写真部, 星の広場の会, 劇団時計, スイーツサークル, 生協学生委員会 つむぎ, 推理小説研究会, ナチュール, 料理サークルCaesar, 東京都立大学お笑いサークル傾喜者",
+			"desc": "<p>写真部<br>写真部の活動について知ってもらったり、実際に部員が撮った写真を紹介します！写真部に関する質問もそれ以外も受け付けます！気軽に来てください！お待ちしてます～！</p><p>---</p><p>星の広場の会<br>こんにちは星の広場の会です。☆略称は星ひろ!!☆サークル紹介では今年のベストショット集、星を見た場所、星ひろの日々の楽しみ等々、たくさん新入生とお話します!!肩肘張らずにゆるゆるとブースへどうぞ!!</p><p>---</p><p>劇団時計<br>私たち劇団時計の活動について、新入生に紹介しています。演劇経験者はもちろん、未経験の方も大歓迎です。どのサークルに入るか迷っている方は、まずは一度、私たちのお話を聞いてみませんか？</p><p>---</p><p>スイーツサークル<br>私たちスイーツサークルはお話しながらゆるくお菓子を作るサークルです！サークル紹介では活動内容や年間行事の紹介などを行うのでぜひ遊びに来てください！</p><p>---</p><p>生協学生委員会 つむぎ<br>こんにちは！東京都立大学生協学生委員会、通称TMUGI「つむぎ」です！私たちは皆さんのよりよい大学生活を目指し、生協の下で入学準備説明会や懇親会など様々な企画を行っています。ぜひ新歓にお越しください！</p><p>---</p><p>推理小説研究会<br>活動内容の簡単な紹介と部誌の配布を行います｡</p><p>---</p><p>ナチュール<br>まち歩きサークル、ナチュールです！ 毎月のフィールドワークや長期休みの合宿を通して、各地の様々な町や場所への理解を深めています。好きなときに参加できる自由なところが魅力のサークルです！！</p><p>---</p><p>料理サークルCaesar<br>料理サークルCaesarは活動紹介を行います！普段の活動やイベント、年間活動、サークルの雰囲気を紹介。質問や相談も歓迎です！興味がある人は気軽に来てください！</p><p>---</p><p>東京都立大学お笑いサークル傾喜者<br>東京都立大学唯一のお笑いサークルです！週一回の部会や定期ライブ、学祭でのネタ披露や大会出場が主な活動内容です。合宿やm-1の観戦などイベントも行っています。お笑いに興味がある方どなたでも大歓迎です！！</p>"
+		},
+		{
+			"id": "_1-120",
+			"title": "【1号館】120教室",
+			"coord": [
+				0.764,
+				0.4642
+			],
+			"zoom": 2,
+			"layer": "layer_1_1",
+			"about": "女子バレーボール部, A.T.L., TMU-SFC, ポケモンサークル めとぽけ, 囲碁部, 文藝部, studioFLY, 手話サークル ゆびの葉, 東日本きずなプロジェクト, 劇団青いバラ, TMU-DM（デュエマ）サークル, 社会問題探究サークル　aiddy, Challengers of Rocket Engineering, ソフトテニス部",
+			"desc": "<p>女子バレーボール部<br>こんにちは！女子バレーボール部です。少しでもバレーボールに興味がある女子の皆さん、練習などについてはもちろん、大学のことなんでもお菓子を食べながらお話しませんか！？お待ちしてます！</p><p>---</p><p>A.T.L.<br>こんにちは、文芸サークルA.T.Lです！サークル紹介当日は座談会と部誌の配布を行います！</p><p>---</p><p>TMU-SFC<br>私たち化学実験サークルTMU-SFCの活動の紹介です！化学系の履修相談もOKです！</p><p>---</p><p>ポケモンサークル めとぽけ<br>普段は様々なコンテンツのポケモン好きが集まり、対戦や交流などを行なっています！当日は活動についての詳細やポケモンの魅力についてなど、なんでもお答えします！</p><p>---</p><p>囲碁部<br>囲碁部のブースでは、囲碁のルールを覚えることができます。はじめに簡単なルール説明を行い(5分)、ミニ碁盤での実践(10分)を通じて囲碁の遊び方をマスターしてもらいます。お菓子もあります。どうぞお気軽に</p><p>---</p><p>文藝部<br>文藝部は小説を読んだり書いたりするサークルです。短編誌「青衿」や長編誌「ゆえ」を年数回発行し、読書会や短詩会も行います。本好きや創作したい人、大歓迎です！作品への思いを共有してみませんか。</p><p>---</p><p>studioFLY<br>こんにちは！映像.PR制作を行なっているstudioFLYです。サークル紹介では、これまで制作した作品の上映を行いつつ、  サークルメンバーとの交流や、studioFLYについての紹介を行う予定です。</p><p>---</p><p>手話サークル ゆびの葉<br>こんにちは！手話サークルゆびの葉は週に一度オンラインで集まり手話を覚えながら楽しく活動しています！ブースでサークルについての説明や簡単な手話のレクチャーをしているのでぜひお立ち寄りください！</p><p>---</p><p>東日本きずなプロジェクト<br>サークルの年間スケジュールや活動内容をまとめたチラシを配布したり、実際にメンバーから活動内容などについて質問できます！</p><p>---</p><p>劇団青いバラ<br>ミュージカルサークル劇団青いバラです！　2026年度のサークル紹介では、大教室にて新入生との歓談を行います！　皆さんぜひお越しください！</p><p>---</p><p>TMU-DM（デュエマ）サークル<br>都立大のデュエマサークル、TMU-DMです。カジュアル、競技勢問わず定期的に集まって活動しています。初心者、デッキ未所持の方大歓迎！是非、我々と一緒にデュエルしましょう。</p><p>---</p><p>社会問題探究サークル　aiddy<br>aiddyでは社会問題をジブンゴトとして考えることを目的に、防災施設見学やデフリンピックの観戦、ボランティア活動や廃校を活用した合宿などを自分達で計画して楽しく活動しています。入サーお待ちしています！</p><p>---</p><p>Challengers of Rocket Engineering<br>COREは関東圏の大学生が集まり，ハイブリッドロケットの打上げを行っているサークルです．航空宇宙に興味があり，ロケットを自分の手で打ち上げたいという想いを持った学生が多く集まっています．</p><p>---</p><p>ソフトテニス部<br>こんにちは！ソフトテニス部です！週3回、都立大のテニスコートで楽しく活動中！サークル紹介では部活や大学のこと何でも話します。少しでも気になったらぜひ来てください！</p>"
+		},
+		{
+			"id": "def",
+			"group": [
+				"Available"
+			],
+			"style": "Available",
+			"desc": "<p></p>",
+			"action": "sidebar",
+			"type": "hidden",
+			"hide": false,
+			"title": "【0】 場所名",
+			"about": "展示団体名"
+		}
+	],
+	"filters": [],
+	"styles": [
+		{
+			"class": "TimeShifted",
+			"svg": true,
+			"marker": true,
+			"base-color": "#ffb900",
+			"active-color": "#fee685",
+			"hover-color": "#e17100",
+			"base-stroke": "#282828"
+		},
+		{
+			"class": "Gray-Out",
+			"svg": true,
+			"marker": true,
+			"base-color": "#828282",
+			"base-stroke": "#282828"
+		},
+		{
+			"class": "Unavailable",
+			"svg": true,
+			"marker": true,
+			"base-color": "#ffffff00"
+		},
+		{
+			"class": "Available",
+			"svg": true,
+			"marker": true,
+			"base-color": "#9DC04C",
+			"hover-color": "#516524",
+			"active-color": "#c9f563",
+			"base-stroke": "#282828",
+			"stroke-width": 1
+		}
+	],
+	"breakpoints": [
+		{
+			"name": "all-screens",
+			"below": 8000
+		},
+		{
+			"name": "Mobile",
+			"below": 480,
+			"portrait": true,
+			"type": "list",
+			"container": 550,
+			"element": null,
+			"column": 1
+		},
+		{
+			"name": "All screens",
+			"below": 8000,
+			"type": "list",
+			"column": 1
+		}
+	],
+	"routes": [],
+	"samples": [
+		{
+			"id": "def",
+			"title": "Default",
+			"group": [],
+			"style": "Available",
+			"type": "hidden",
+			"thumb": "・"
+		}
+	]
 }
