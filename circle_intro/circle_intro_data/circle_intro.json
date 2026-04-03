@@ -1,0 +1,1567 @@
+{
+  "metadata": {
+    "year": "26",
+    "circle_intro_time_start": "2026-04-04T11:00:00",
+    "circle_intro_time_end": "2026-04-04T16:00:00",
+    "build": "prod_260404"
+  },
+  "participants": [
+    {
+      "participant_id": "26_001",
+      "group_name": "学生フォーミュラプロジェクト Formula TMU",
+      "booth_description": "私たち学生フォーミュラサークルでは、自分たちで1から設計し、製作した出来たてホヤホヤの車両を展示します！大会や日頃の活動の紹介もさせていただきます！知識が無くても大丈夫！ぜひお気軽にお越しください！！",
+      "booth_id": [
+        "out-tent-6"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_002",
+      "group_name": "A.T.L.",
+      "booth_description": "こんにちは、文芸サークルA.T.Lです！サークル紹介当日は座談会と部誌の配布を行います！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "02_jrPp26"
+    },
+    {
+      "participant_id": "26_003",
+      "group_name": "AR会",
+      "booth_description": "こんにちは、AR会です。今回のサークル紹介では、サークルメンバーが作成したゲームを遊んだり、活動内容や大学生活に関する質問ができる場を設ける予定です。ぜひご参加ください。",
+      "booth_id": [
+        "_7-229"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_004",
+      "group_name": "B類サッカー部",
+      "booth_description": "B類サッカー部では、新入生の皆さんとのお話会を開きます！私たちのサークルのことはもちろん、大学生活で不安なことや気になることなど、優しい先輩たちにたくさん聞いちゃいましょう！！",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_005",
+      "group_name": "B類テニス部",
+      "booth_description": "Bテは都立大最大級のテニスサークルで最大週6日活動で、初心者から経験者まで誰でも楽しめる！そしてやっぱりイベントの多さ！一年を通して盛りだくさんの企画があります！ぜひ Bテに来てみてください！",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": "03_JzmL85"
+    },
+    {
+      "participant_id": "26_006",
+      "group_name": "B類バスケットボール部",
+      "booth_description": "B類バスケットボール部です！経験者多めですが、初心者の人も大歓迎です！先輩後輩みんな仲良しで、バスケも遊びもみんなで本気で楽しめるサークルです！",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_007",
+      "group_name": "Challengers of Rocket Engineering",
+      "booth_description": "COREは関東圏の大学生が集まり，ハイブリッドロケットの打上げを行っているサークルです．航空宇宙に興味があり，ロケットを自分の手で打ち上げたいという想いを持った学生が多く集まっています．",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "04_EmoV35"
+    },
+    {
+      "participant_id": "26_008",
+      "group_name": "Closeup Magic Circle",
+      "booth_description": "東京都立大学で唯一のマジックのサークル！ Closeup Magic Circle（通称CMC）です。もちろん初心者も経験者も大歓迎！私たちとマジックを特技にしませんか？",
+      "booth_id": [
+        "_7-225"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_009",
+      "group_name": "das Lied",
+      "booth_description": "皆さん、アカペラ知ってますか？知っている人もそうでない人も一旦私たちの演奏を聴きに来てください！アカペラサークルdas Liedは終日教室にてライブを行っています！ぜひ気軽にのぞきに来てね！",
+      "booth_id": [
+        "_1-201"
+      ],
+      "circle_match_id": "03_dHhW34"
+    },
+    {
+      "participant_id": "26_011",
+      "group_name": "GDSC TMU",
+      "booth_description": "GDSC TMU(GDGoC)は、Google Developersと連携しながら活動するコミュニティです。ゆるく交流しながら、勉強会やアプリ開発などを行う、ものづくり学生のハブ（交流場所）です。",
+      "booth_id": [
+        "_1-202"
+      ],
+      "circle_match_id": "04_lmuO66"
+    },
+    {
+      "participant_id": "26_012",
+      "group_name": "Hat Trick",
+      "booth_description": "こんにちは都立大ダーツサークルのHat Trickです🎯🎯🎯ダーツに興味がある方は経験者でも初めての方でも大歓迎です！サークル紹介ではダーツの体験を行なっているのでぜひお越しください！！",
+      "booth_id": [
+        "_7-218"
+      ],
+      "circle_match_id": "02_TmiR20"
+    },
+    {
+      "participant_id": "26_013",
+      "group_name": "J-Boy",
+      "booth_description": "ツーリングなどを行うバイクサークルです。スライドで活動内容を紹介します！体験コーナーも用意しているので是非！",
+      "booth_id": [
+        "out-tent-5"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_014",
+      "group_name": "PersimmonT.C",
+      "booth_description": "みんなでテニスしよう！！初心者も経験者も大歓迎！",
+      "booth_id": [
+        "_1-240"
+      ],
+      "circle_match_id": "05_vlsk73"
+    },
+    {
+      "participant_id": "26_015",
+      "group_name": "Pluma",
+      "booth_description": "こんにちは！バドミントンサークルPluma(プルーマ)です！私たちは「上達を楽しむ」をモットーに、週1.2回ほど都立大周辺の体育館で活動しています。初心者も経験者も一緒にバドミントンを楽しみましょう！",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_016",
+      "group_name": "Revolver",
+      "booth_description": "都立大の軽音サークル「Revolver」です！Revolverは都立大で唯一ライブハウスでライブを行う軽音サークルです。初心者、経験者ともに大歓迎です！皆さんに会えるのを待ってます！！SNSも見てね♪",
+      "booth_id": [
+        "_1-208"
+      ],
+      "circle_match_id": "02_DnUz87"
+    },
+    {
+      "participant_id": "26_017",
+      "group_name": "skyhand",
+      "booth_description": "こんにちは！東京都立大学ハンドボールサークルのskyhandです！中央新歓ではビラ配りをさせていただいてます！毎週木曜日に多目的コートで活動してるので皆さんの参加お待ちしてます！",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_018",
+      "group_name": "studioFLY",
+      "booth_description": "こんにちは！映像.PR制作を行なっているstudioFLYです。サークル紹介では、これまで制作した作品の上映を行いつつ、  サークルメンバーとの交流や、studioFLYについての紹介を行う予定です。",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "02_wbFg93"
+    },
+    {
+      "participant_id": "26_019",
+      "group_name": "T-MölkkU",
+      "booth_description": "こんにちは！私たちはモルックサークルT-MölkkUです！モルックはフィンランド発祥のスポーツで、部員同士、仲良く楽しく活動中!年2回の合宿や学生大会にも参加しています。ぜひ一緒にモルックしませんか？",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": "05_KiYw71"
+    },
+    {
+      "participant_id": "26_020",
+      "group_name": "TMU-DM（デュエマ）サークル",
+      "booth_description": "都立大のデュエマサークル、TMU-DMです。カジュアル、競技勢問わず定期的に集まって活動しています。初心者、デッキ未所持の方大歓迎！是非、我々と一緒にデュエルしましょう。",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_021",
+      "group_name": "TMU-SFC",
+      "booth_description": "私たち化学実験サークルTMU-SFCの活動の紹介です！化学系の履修相談もOKです！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "02_TXsD54"
+    },
+    {
+      "participant_id": "26_022",
+      "group_name": "TMU麻雀サークル",
+      "booth_description": "初心者大歓迎！麻雀体験会を開催します。ルールが分からなくても先輩が丁寧に教えるので安心です。経験者ももちろん歓迎！まずは気軽に遊びに来てください！",
+      "booth_id": [
+        "_7-224"
+      ],
+      "circle_match_id": "05_pgnL4"
+    },
+    {
+      "participant_id": "26_023",
+      "group_name": "unplugged",
+      "booth_description": "弾き語りサークルunplugged ､通称アンプラです！アコースティックギターを中心とした弾き語りライブを行います！アコギだけでなく様々な楽器を使って楽しく演奏しているのでぜひ見に来てください！",
+      "booth_id": [
+        "_1-103"
+      ],
+      "circle_match_id": "02_CXxs97"
+    },
+    {
+      "participant_id": "26_024",
+      "group_name": "アイスホッケー部",
+      "booth_description": "東京都立大学体育会アイスホッケー部です！現役部員と直接話せるチャンス。少しでも興味がある人はぜひ遊びに来てください！",
+      "booth_id": [
+        "out-tent-1"
+      ],
+      "circle_match_id": "01_VpyQ42"
+    },
+    {
+      "participant_id": "26_025",
+      "group_name": "アイリッシュ音楽研究会",
+      "booth_description": "私たちはアイルランドの伝統音楽を演奏するサークルです。初心者・経験者問わず、楽しく活動しています。ゆるい雰囲気で音楽を始めたい方、新しい音楽に挑戦したい方も大歓迎です！",
+      "booth_id": [
+        "_7-222"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_026",
+      "group_name": "アメリカンフットボール部",
+      "booth_description": "アメリカンフットボール部はサークル紹介でアメリカンフットボールというスポーツのおもしろさについて知ってもらえるようなブースを用意します。たくさんの皆さんのお越しをお待ちしています！！",
+      "booth_id": [
+        "out-tent-8"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_027",
+      "group_name": "いきもの！サークル東京",
+      "booth_description": "いきもの！サークル東京は、都立大を拠点として生き物好きの学生が集まるインカレサークルで、生き物と自然の面白さを探究・発信することを活動方針としています。生き物や自然に興味のある方はぜひ来てください！",
+      "booth_id": [
+        "_1-220"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_028",
+      "group_name": "エリカ混声合唱団",
+      "booth_description": "エリカ混声合唱団です！当日は合唱の披露と団員との懇親会を実施します。履修など、大学生活に関する相談も可能です。初心者も大歓迎！音楽に興味がある人、歌が好きな人は是非気軽に参加してください！",
+      "booth_id": [
+        "_1-101"
+      ],
+      "circle_match_id": "02_SIJS33"
+    },
+    {
+      "participant_id": "26_029",
+      "group_name": "クイズ研究会",
+      "booth_description": "クイズ研究会では、早押しクイズの体験と普段の活動の紹介を行います。クイズ初心者の方も大歓迎です。興味のある方はこの機会に是非お越しください！",
+      "booth_id": [
+        "_1-303"
+      ],
+      "circle_match_id": "02_nwqe37"
+    },
+    {
+      "participant_id": "26_030",
+      "group_name": "グリークラブ",
+      "booth_description": "皆さんのためにアカペラ男声合唱を披露します！私たちグリーならではの重厚な響きを、特等席で存分にご堪能ください！ その他にも大学のこと、履修のこと、合唱のこと...何でもみんなでワイワイ話しましょう！",
+      "booth_id": [
+        "_1-101"
+      ],
+      "circle_match_id": "02_DdGZ24"
+    },
+    {
+      "participant_id": "26_031",
+      "group_name": "さはらかん",
+      "booth_description": "さはらかんです。わたし達は、小型模擬人工衛星、通称CanSatを作製し大会に出場しています。ラジコン等の活動体験を行っているので、ぜひ気軽に立ち寄っていってください。プレゼント企画もあります！",
+      "booth_id": [
+        "_7-228"
+      ],
+      "circle_match_id": "04_krqz65"
+    },
+    {
+      "participant_id": "26_032",
+      "group_name": "ジャグリングサークルTeam\"Lamp\"",
+      "booth_description": "こんにちは！ジャグリングサークルTeam\"Lamp\"です！サークル紹介ではジャグリングの体験会を行います。未経験者大歓迎！部員のほとんどが大学からジャグリングを始めました！「一芸、得たくない？」",
+      "booth_id": [
+        "_1-309"
+      ],
+      "circle_match_id": "02_RZMN12"
+    },
+    {
+      "participant_id": "26_033",
+      "group_name": "ジャズ研究会",
+      "booth_description": "ジャズ研究会では、みなさんにジャズの生演奏をお届けします。普段の様子や雰囲気がわかると思います。部員とおしゃべりもできるのでぜひ立ち寄ってみてください。",
+      "booth_id": [
+        "_1-308"
+      ],
+      "circle_match_id": "02_MlsK97"
+    },
+    {
+      "participant_id": "26_034",
+      "group_name": "スイーツサークル",
+      "booth_description": "私たちスイーツサークルはお話しながらゆるくお菓子を作るサークルです！サークル紹介では活動内容や年間行事の紹介などを行うのでぜひ遊びに来てください！",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "02_YIIe91"
+    },
+    {
+      "participant_id": "26_035",
+      "group_name": "スマん研",
+      "booth_description": "東京都立大学スマブラサークル/スマん研の新歓では実際に部員とスマブラ対戦をすることができます。初心者も自信のある方もぜひお越しください！",
+      "booth_id": [
+        "_7-230"
+      ],
+      "circle_match_id": "02_kwUE95"
+    },
+    {
+      "participant_id": "26_036",
+      "group_name": "ソフトテニス部",
+      "booth_description": "こんにちは！ソフトテニス部です！週3回、都立大のテニスコートで楽しく活動中！サークル紹介では部活や大学のこと何でも話します。少しでも気になったらぜひ来てください！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_037",
+      "group_name": "テコンドー部",
+      "booth_description": "こんにちは！東京都立大学体育会テコンドー部です！当日は様々な部員が常駐しておりますので、テコンドーに関わらず、履修、学生生活のことなどお気軽に聞きに来てください！",
+      "booth_id": [
+        "_1-240"
+      ],
+      "circle_match_id": "01_OzRk16"
+    },
+    {
+      "participant_id": "26_038",
+      "group_name": "ドラマサークル",
+      "booth_description": "ドラマサークルです！最近や昔のドラマの話をゆる～くしています。ドラマ・主題歌などにまつわるクイズ大会も企画しています。好きなドラマがある人！　最近ドラマを見ていたという人！　ドラマの話、しませんか？？",
+      "booth_id": [
+        "_1-240"
+      ],
+      "circle_match_id": "05_IohB10"
+    },
+    {
+      "participant_id": "26_039",
+      "group_name": "ナチュール",
+      "booth_description": "まち歩きサークル、ナチュールです！ 毎月のフィールドワークや長期休みの合宿を通して、各地の様々な町や場所への理解を深めています。好きなときに参加できる自由なところが魅力のサークルです！！",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "02_AwHR47"
+    },
+    {
+      "participant_id": "26_040",
+      "group_name": "ノベルゲーム研究会",
+      "booth_description": "こんにちは、ノベルゲーム研究会です。本日は皆さんに、ノベルゲームとは、そしてこの研究会は何をしているのかをお伝えできたらよいなと思います。また、会報誌第一号のデータ配布も行いますよ！",
+      "booth_id": [
+        "_1-220"
+      ],
+      "circle_match_id": "05_iEJG58"
+    },
+    {
+      "participant_id": "26_041",
+      "group_name": "バドミントン部",
+      "booth_description": "先輩たちが部活動の活動内容についてお話しします！部活動に限らず、履修や部活と実生活の両立の仕方についても相談可能です！経験者も未経験者も全員が楽しく活動できる部活なのでぜひ気軽にお越しください！",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": "01_pBHe18"
+    },
+    {
+      "participant_id": "26_042",
+      "group_name": "パワーリフティング部",
+      "booth_description": "パワーリフティング部では、新入生を対象にベンチプレスなどの活動体験を予定しています。力自慢の方や筋トレに興味がある人、新しく何かを始めたい人など大歓迎です！皆さんの参加、待ってます！",
+      "booth_id": [
+        "out-tent-3"
+      ],
+      "circle_match_id": "01_SRgg53"
+    },
+    {
+      "participant_id": "26_043",
+      "group_name": "ハンドボール部",
+      "booth_description": "こんにちは！ハンドボール部です！部員達とお話してみませんか？部活のことや学校生活のことなど、なんでも聞けちゃいます！プレイヤー、マネージャーともに大募集中です！ぜひ、お気軽にお越しください！",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_044",
+      "group_name": "ピアノ・室内楽サークルDolce",
+      "booth_description": "東京都立大学ピアノ室内楽サークルDolceです！ Dolceでは｢音楽をやりたい｣という人たちがたくさん集まっています。ピアノだけではなく多種多様な楽器を弾く人もいて音楽を楽しめる環境となっています。",
+      "booth_id": [
+        "_1-220"
+      ],
+      "circle_match_id": "02_UhFM40"
+    },
+    {
+      "participant_id": "26_045",
+      "group_name": "ヒューマンビートボックスサークルBeatRiZe",
+      "booth_description": "2024年度に新設された、都立大初のヒューマンビートボックスサークルです！是非気軽に聴きに来てください！",
+      "booth_id": [
+        "gaku-seikyo",
+        "out-hall-big",
+        "_7-226"
+      ],
+      "circle_match_id": "05_KTGm62"
+    },
+    {
+      "participant_id": "26_046",
+      "group_name": "フォークソング研究会",
+      "booth_description": "東京都立大学フォークソング研究会は軽音楽部と合同で生協前ライブを行います！現役生と新入生の交流の場もありますので、ぜひ一度お越しください！",
+      "booth_id": [
+        "gaku-danwa",
+        "gaku-seikyo",
+        "out-hall-big"
+      ],
+      "circle_match_id": "02_Pexo88"
+    },
+    {
+      "participant_id": "26_047",
+      "group_name": "フライングディスク部butterfly",
+      "booth_description": "走って、投げて、つながる。アルティメットは自己審判が特徴の、男女混合で楽しめるチームスポーツです。初心者大歓迎、大学から始めた人がほとんど！",
+      "booth_id": [
+        "out-tent-6"
+      ],
+      "circle_match_id": "01_fPtd57"
+    },
+    {
+      "participant_id": "26_048",
+      "group_name": "フラッシュモブサークルCUBE",
+      "booth_description": "新入生の皆さんこんにちは！！フラッシュモブサークルCUBEではお菓子を食べながらサークル活動の紹介や、履修相談などを行います！色んな学部の先輩たちがいるので是非気軽に遊びに来てください！",
+      "booth_id": [
+        "_1-304"
+      ],
+      "circle_match_id": "02_cUnY60"
+    },
+    {
+      "participant_id": "26_049",
+      "group_name": "ボードゲーム研究会",
+      "booth_description": "ボードゲームやってます！サイコロ運ゲーや反射神経系からロジック系まで、３０分程度楽しめるものを用意してます！少し遊んでいきませんか？",
+      "booth_id": [
+        "_7-216"
+      ],
+      "circle_match_id": "02_syJE21"
+    },
+    {
+      "participant_id": "26_050",
+      "group_name": "ポケモンサークル めとぽけ",
+      "booth_description": "普段は様々なコンテンツのポケモン好きが集まり、対戦や交流などを行なっています！当日は活動についての詳細やポケモンの魅力についてなど、なんでもお答えします！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_051",
+      "group_name": "ボランティアサークル　うぃんぐ",
+      "booth_description": "うぃんぐは地域で生活するしょうがいしゃの人たちと交流するサークルです。メンバーの中には当事者がいます。一緒にお茶をしながら交流しましょう。",
+      "booth_id": [
+        "_1-102"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_052",
+      "group_name": "マイクロコンピュータ研究会",
+      "booth_description": "マイクロコンピュータ研究会では、サークル内で作成した電子工作の展示や部員で作成した部誌の頒布を予定しております。電子工作やプログラミングに興味がある方はぜひきてください。",
+      "booth_id": [
+        "_7-227"
+      ],
+      "circle_match_id": "02_PbwV56"
+    },
+    {
+      "participant_id": "26_053",
+      "group_name": "マンガ研究会",
+      "booth_description": "都立大合格おめでとうございます！マンガ研究会は部誌制作を中心に、絵会や合宿、上映会、食事会など交流イベントも充実したサークルです。創作好きな方大歓迎！",
+      "booth_id": [
+        "_7-216"
+      ],
+      "circle_match_id": "03_KWrS6"
+    },
+    {
+      "participant_id": "26_054",
+      "group_name": "メタバース研究会",
+      "booth_description": "自分だけのアバターを作ってメタバースへ！当サークルは定期的に制作物をメタバース空間で見せ合う、ゆるやかな創作コミュニティです。今回の企画はアバター制作体験、部員の作品展示です！オンラインでも開催！",
+      "booth_id": [
+        "_1-206"
+      ],
+      "circle_match_id": "02_uWUy19"
+    },
+    {
+      "participant_id": "26_055",
+      "group_name": "ヨット部",
+      "booth_description": "お菓子を食べながら楽しくおしゃべりしましょう！",
+      "booth_id": [
+        "out-tent-9"
+      ],
+      "circle_match_id": "01_tBWS2"
+    },
+    {
+      "participant_id": "26_056",
+      "group_name": "ラグビー部",
+      "booth_description": "部活動のことや履修相談まで色々な相談なんでも受け付けています！ラグビーに興味がある人はもちろん、学生生活に不安を感じている人も大歓迎！ぜひ遊びに来てください！",
+      "booth_id": [
+        "out-tent-2"
+      ],
+      "circle_match_id": "01_qpcL15"
+    },
+    {
+      "participant_id": "26_057",
+      "group_name": "ラフBALLER",
+      "booth_description": "こんにちは！ラフBALLERです！私たちは週に1度近隣の中学校の体育館をお借りしてゆるく楽しくバスケットボールをしています。経験の有無を問わずわいわい活動しています。ぜひ新歓にお越しください！",
+      "booth_id": [
+        "_1-240"
+      ],
+      "circle_match_id": "05_iEmT46"
+    },
+    {
+      "participant_id": "26_058",
+      "group_name": "ロボコン部TEXNITIS",
+      "booth_description": "NHK学生ロボコンに向けて活動しています 設計・回路・プログラミングなどを学び、授業だけでは得られない実践的な知識とスキルを会得しませんか？未経験でも心配無用！ものづくりで輝きたいあなたを歓迎します！",
+      "booth_id": [
+        "_1-109"
+      ],
+      "circle_match_id": "04_QWva7"
+    },
+    {
+      "participant_id": "26_059",
+      "group_name": "ワンダーフォーゲル部",
+      "booth_description": "こんにちは、ワンダーフォーゲル部です！私たちはサークル紹介にて装備の展示を行います。 現役部員と話せるチャンス！ ワンダーフォーゲルってなあに？そう思ったあなたはぜひ一緒に、通称「ワンゲル」の世界へ！",
+      "booth_id": [
+        "_7-106"
+      ],
+      "circle_match_id": "01_QumN55"
+    },
+    {
+      "participant_id": "26_060",
+      "group_name": "囲碁部",
+      "booth_description": "囲碁部のブースでは、囲碁のルールを覚えることができます。はじめに簡単なルール説明を行い(5分)、ミニ碁盤での実践(10分)を通じて囲碁の遊び方をマスターしてもらいます。お菓子もあります。どうぞお気軽に",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_061",
+      "group_name": "応援団女子チアダンス部RITZ",
+      "booth_description": "私たちRITZは、空の目門前ステージでのパフォーマンス披露に加えて、私たちの活動について新入生の皆さんにお話しできる特設ブースも設置します！",
+      "booth_id": [
+        "out-tent-7",
+        "out-soranome",
+        "out-hall-big"
+      ],
+      "circle_match_id": "01_cdxk82"
+    },
+    {
+      "participant_id": "26_062",
+      "group_name": "学術探検会気球部",
+      "booth_description": "学術探検会気球部です！私たちは、全国の大学でも数少ない熱気球サークルです！サークル紹介当日は実際にフライトで用いるバスケット(乗るところ)を展示する予定です。ぜひ足を運んでみて下さい！",
+      "booth_id": [
+        "out-tent-9"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_063",
+      "group_name": "管弦楽団",
+      "booth_description": "サークル紹介では楽器体験とアンサンブルコンサートを行います。楽器体験では団員がサポートを行いますので、初心者の方でも安心してご参加いただけます。ぜひお気軽にお越しください！",
+      "booth_id": [
+        "out-hall-big"
+      ],
+      "circle_match_id": "02_yoRR52"
+    },
+    {
+      "participant_id": "26_064",
+      "group_name": "弓道部",
+      "booth_description": "弓道部はスライドや動画を用いて部活の内容や雰囲気、これからの新歓イベントの予定などを説明していきます。少しでも興味があれば、是非お越しください。",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_065",
+      "group_name": "競技ダンス部",
+      "booth_description": "こんにちは、都立大学競技ダンス部です！ 私たちはサークル紹介当日にデモンストレーションを行います。普段あまり聞かない競技ダンスですが、踊る楽しさや迫力を間近で感じられます。当日お待ちしてます！",
+      "booth_id": [
+        "out-soranome",
+        "out-hall-big",
+        "_1-240"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_066",
+      "group_name": "競技チアリーディングサークル WILD BOARS",
+      "booth_description": "私たちは競技チアリーディングサークルWILD BOARSです！サークル紹介ではチアリーディングを披露させていただきます！興味をもっていただけたらぜひブースにもお越しください！お待ちしてます！",
+      "booth_id": [
+        "out-soranome",
+        "out-hall-big",
+        "_1-240"
+      ],
+      "circle_match_id": "02_EMlF89"
+    },
+    {
+      "participant_id": "26_067",
+      "group_name": "共同創作サークルfacere",
+      "booth_description": "落ち着いた空間で、ゆっくりと学生生活について話します。これまでの作品や、活動を紹介し、希望者は短編ものがたりを一緒に作りましょう。",
+      "booth_id": [
+        "_1-220"
+      ],
+      "circle_match_id": "05_SWVy81"
+    },
+    {
+      "participant_id": "26_068",
+      "group_name": "軽音楽部",
+      "booth_description": "東京都立大学軽音楽部はフォークソング研究会と合同で生協前広場にてライブを行います！また、ライブだけでなく新入生との懇談も行いますので、興味があればぜひお越しください！",
+      "booth_id": [
+        "gaku-danwa",
+        "gaku-seikyo",
+        "out-hall-big"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_069",
+      "group_name": "劇団時計",
+      "booth_description": "私たち劇団時計の活動について、新入生に紹介しています。演劇経験者はもちろん、未経験の方も大歓迎です。どのサークルに入るか迷っている方は、まずは一度、私たちのお話を聞いてみませんか？",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "02_YUMo17"
+    },
+    {
+      "participant_id": "26_070",
+      "group_name": "劇団青いバラ",
+      "booth_description": "ミュージカルサークル劇団青いバラです！　2026年度のサークル紹介では、大教室にて新入生との歓談を行います！　皆さんぜひお越しください！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "05_pPrH13"
+    },
+    {
+      "participant_id": "26_071",
+      "group_name": "剣道部",
+      "booth_description": "こんにちは、剣道部です。私たちは月、水、木、土曜日に南大沢キャンパスで活動しています。新入部員を大募集です！経験者、初心者、マネージャー、どなたでも大歓迎です！気になる方はぜひ見学にお越しください！",
+      "booth_id": [
+        "_1-240"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_072",
+      "group_name": "古典ギター部",
+      "booth_description": "古典ギター部です！ 私たちは週３回の活動で、ギター合奏を行っています。アットホームな雰囲気で、ギターを始めたい人も、音楽経験ない人も大歓迎です。新歓コンサートとブースでお待ちしてます！",
+      "booth_id": [
+        "_7-101"
+      ],
+      "circle_match_id": "02_wVrQ22"
+    },
+    {
+      "participant_id": "26_073",
+      "group_name": "硬式庭球部",
+      "booth_description": "部員が活動内容や年間スケジュール、部費を含む活動にかかるおおよその費用などを親身に説明します。部活の他にも大学生活や履修のことなど、可能な範囲で精一杯答えます。",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_074",
+      "group_name": "硬式野球部",
+      "booth_description": "私たちは火・水・金曜日・土曜日に、南大沢キャンパス野球場で活動しています。現在新大学野球連盟の2部に所属しており、一部昇格を目標としています。 弊部には指導者がおらず、学生のみで日々活動しています。",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_075",
+      "group_name": "三曲会",
+      "booth_description": "三曲会で演奏している、お箏・三味線・尺八という3種類の楽器を実際に触りながら体験していただけます。 体験スペースでは、普段の活動や学校生活について質問することもできますのでお気軽にお越しください！",
+      "booth_id": [
+        "_1-105"
+      ],
+      "circle_match_id": "02_gskj75"
+    },
+    {
+      "participant_id": "26_076",
+      "group_name": "山岳部",
+      "booth_description": "こんにちは！山岳部です！当日は活動紹介に加え、実際に山で使用する本格的な登山装備を展示します！山登りについてのいろいろな疑問にも部員がお答えします！！初心者も経験者も、ぜひ来てください！！",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": "01_xIFK79"
+    },
+    {
+      "participant_id": "26_077",
+      "group_name": "児童文化研究会",
+      "booth_description": "こんにちは！じゃりけんこと児童文化研究会です。私達は人形劇を中心に、子ども達と触れ合いながら活動しています。子どもと触れ合いたい方や、大学生活で素敵な仲間を見つけたい方におすすめです！",
+      "booth_id": [
+        "_1-104"
+      ],
+      "circle_match_id": "02_vpgI25"
+    },
+    {
+      "participant_id": "26_078",
+      "group_name": "写真部",
+      "booth_description": "写真部の活動について知ってもらったり、実際に部員が撮った写真を紹介します！写真部に関する質問もそれ以外も受け付けます！気軽に来てください！お待ちしてます～！",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "02_FrhJ77"
+    },
+    {
+      "participant_id": "26_079",
+      "group_name": "社会問題探究サークル　aiddy",
+      "booth_description": "aiddyでは社会問題をジブンゴトとして考えることを目的に、防災施設見学やデフリンピックの観戦、ボランティア活動や廃校を活用した合宿などを自分達で計画して楽しく活動しています。入サーお待ちしています！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "02_hAAl70"
+    },
+    {
+      "participant_id": "26_080",
+      "group_name": "手話サークル ゆびの葉",
+      "booth_description": "こんにちは！手話サークルゆびの葉は週に一度オンラインで集まり手話を覚えながら楽しく活動しています！ブースでサークルについての説明や簡単な手話のレクチャーをしているのでぜひお立ち寄りください！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "05_Tmej9"
+    },
+    {
+      "participant_id": "26_081",
+      "group_name": "準硬式野球部",
+      "booth_description": "楽しみつつ真剣に行う部活それが準硬式野球部です！よろしくお願いします！",
+      "booth_id": [
+        "out-tent-3"
+      ],
+      "circle_match_id": "01_zEjZ80"
+    },
+    {
+      "participant_id": "26_082",
+      "group_name": "女子バレーボール部",
+      "booth_description": "こんにちは！女子バレーボール部です。少しでもバレーボールに興味がある女子の皆さん、練習などについてはもちろん、大学のことなんでもお菓子を食べながらお話しませんか！？お待ちしてます！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_083",
+      "group_name": "将棋部",
+      "booth_description": "将棋部は毎週月曜、金曜に集まって皆で将棋を指しています。もしどのような雰囲気か気になる方がいらっしゃいましたら、是非サークル紹介に来てみてください！",
+      "booth_id": [
+        "_7-215"
+      ],
+      "circle_match_id": "02_kCeH30"
+    },
+    {
+      "participant_id": "26_084",
+      "group_name": "少林寺拳法部",
+      "booth_description": "新しいこと初めて始めたい方、少林寺拳法やってみませんか？活動日は月・水・土です！バイトなど個人の予定に合わせて練習に参加できます！現在部員は１８人、初心者がほとんどです！是非体験にお越しください！",
+      "booth_id": [
+        "_1-240"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_085",
+      "group_name": "人力飛行機研究会 MaPPL",
+      "booth_description": "ちょっとした作業体験や、実際に鳥人間コンテストに出場した機体の部品展示を行っています。部員への相談も大歓迎です！是非、お話ししましょう！！少しでもモノづくりに興味がある方は、お気軽にお越しください～！",
+      "booth_id": [
+        "_1-107"
+      ],
+      "circle_match_id": "02_SJEn28"
+    },
+    {
+      "participant_id": "26_086",
+      "group_name": "吹奏楽団",
+      "booth_description": "こんにちは！東京都立大学吹奏楽団(TMUWO)です！ 年二回の演奏会ほか、様々な行事に向けて楽しく活動しています！今回は皆さんの入学をお祝いするために用意した楽曲を演奏致します！ぜひお楽しみください♪",
+      "booth_id": [
+        "out-soranome",
+        "out-hall-big"
+      ],
+      "circle_match_id": "02_smwz44"
+    },
+    {
+      "participant_id": "26_087",
+      "group_name": "推理小説研究会",
+      "booth_description": "活動内容の簡単な紹介と部誌の配布を行います｡",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_088",
+      "group_name": "水泳部",
+      "booth_description": "水泳部・水球部は新入生に向けた紹介、勧誘を目的としたビラ配りを行なっています。また、新入生の履修や新生活などについての相談を受け付けています。",
+      "booth_id": [
+        "out-tent-4"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_089",
+      "group_name": "世界民謡研究会",
+      "booth_description": "世界民謡研究会というコピーバンドサークルです！初心者、経験者ともに大歓迎！ぜひ遊びにきてください",
+      "booth_id": [
+        "gaku-shisaku"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_090",
+      "group_name": "星の広場の会",
+      "booth_description": "こんにちは星の広場の会です。☆略称は星ひろ!!☆サークル紹介では今年のベストショット集、星を見た場所、星ひろの日々の楽しみ等々、たくさん新入生とお話します!!肩肘張らずにゆるゆるとブースへどうぞ!!",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "03_jolH63"
+    },
+    {
+      "participant_id": "26_091",
+      "group_name": "生協学生委員会 つむぎ",
+      "booth_description": "こんにちは！東京都立大学生協学生委員会、通称TMUGI「つむぎ」です！私たちは皆さんのよりよい大学生活を目指し、生協の下で入学準備説明会や懇親会など様々な企画を行っています。ぜひ新歓にお越しください！",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "05_sIpW3"
+    },
+    {
+      "participant_id": "26_092",
+      "group_name": "漕艇部",
+      "booth_description": "都立大漕艇部員は全員初心者から始める部員がほとんどで、皆切磋琢磨して練習していま。サークル紹介では、ボート競技や練習日程について説明します。履修申請の相談なども受け付けてます、ぜひ遊びに来てください！",
+      "booth_id": [
+        "out-tent-1"
+      ],
+      "circle_match_id": "01_VZQN69"
+    },
+    {
+      "participant_id": "26_093",
+      "group_name": "大学祭実行委員会",
+      "booth_description": "大学祭実行委員会、通称めぽです！５つの局に分かれて楽しく安全な大学祭を作るために尽力しています。大学祭も遊びも楽しめる1年生大募集中！めぽの相談だけでなく、履修相談、雑談待ってます！！",
+      "booth_id": [
+        "_1-310"
+      ],
+      "circle_match_id": "05_PTyJ51"
+    },
+    {
+      "participant_id": "26_094",
+      "group_name": "卓球部",
+      "booth_description": "体育会卓球部です。サークル紹介では、主に新入生の皆さんとの懇談を行います。卓球経験者も未経験者も大歓迎です！少しでも興味のある方はぜひ参加してみてください。たくさんの参加お待ちしてます！",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": "01_NpAS39"
+    },
+    {
+      "participant_id": "26_095",
+      "group_name": "男子チアリーディング部MAXONS",
+      "booth_description": "こんにちは！僕ら男子だけで構成されたチアリーディング部MAXONSです。男子ならではの力強さと迫力、一体感あふれる演技で、観る人すべてを魅了します。ぜひ観に来てください！",
+      "booth_id": [
+        "out-tent-7",
+        "out-soranome",
+        "out-hall-big"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_096",
+      "group_name": "男子バスケットボール部",
+      "booth_description": "こんにちは！男子バスケットボール部です！僕たちは、週に4回（月、水、木、土）活動しています！少しでもバスケに興味がある人はぜひ体験に来てください！初心者さんも大歓迎です！マネージャーも大募集！",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_097",
+      "group_name": "男子バレーボール部",
+      "booth_description": "こんにちは！男子バレーボール部です。私達は昨年度目標であった4部昇格を達成し、現在は3部昇格を目標に練習に励んでいます！！BBQや合宿などイベントも沢山あります！興味がある方はぜひ来てみてください！！",
+      "booth_id": [
+        "_1-230"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_098",
+      "group_name": "男女混成チアリーディングサークルLuminous",
+      "booth_description": "私たちLuminousは男女混成でチアリーディングをしています。男子の迫力と女子の可愛らしいチアをぜひ楽しんでください。また、今年創設したサークルでもあります。新たなチームを一緒に作り上げませんか？",
+      "booth_id": [
+        "out-tent-5",
+        "out-soranome",
+        "out-hall-big"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_099",
+      "group_name": "地理学研究会",
+      "booth_description": "地理学研究会では、2025年度に行った活動の紹介とともに、新歓で行う巡検(まち歩き)の予定をご紹介します！地理の観点から、まちのまだ見ぬ魅力を、我々と一緒に見つけていきませんか？",
+      "booth_id": [
+        "_1-209"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_100",
+      "group_name": "茶道研究会",
+      "booth_description": "私たちは裏千家茶道を通じてお茶の文化に親しむサークルで、 性別問わず様々な学部の学生が所属しています。茶道経験者の方も未経験の方も大歓迎です！見学、体験お待ちしております！",
+      "booth_id": [
+        "_7-211",
+        "_7-212"
+      ],
+      "circle_match_id": "02_Gayr29"
+    },
+    {
+      "participant_id": "26_101",
+      "group_name": "鳥人間部T-MIT",
+      "booth_description": "鳥人間コンテストで飛ぶ予定の機体の1/8模型を展示します！夏に琵琶湖を飛ぶ『実機』の圧倒的なスケール感をぜひあなたの目で確かめてください！機体制作や鳥人間コンテストについての質問もお待ちしてます！",
+      "booth_id": [
+        "_1-203"
+      ],
+      "circle_match_id": "04_CPgS76"
+    },
+    {
+      "participant_id": "26_102",
+      "group_name": "鉄道研究会",
+      "booth_description": "鉄道研究会では、プラレールやNゲージなど鉄道模型の展示で皆様をお待ちしております！新歓を含めた様々な旅行や内外問わず模型の運転会などを行っております。都立大の鉄道好き、集まれ！",
+      "booth_id": [
+        "_1-204"
+      ],
+      "circle_match_id": "02_PjlL67"
+    },
+    {
+      "participant_id": "26_103",
+      "group_name": "都立大　軟式野球サークル　RaD",
+      "booth_description": "こんにちは！都立大軟式野球サークルRaDです。我々は現在、諏訪北公園野球場で週に1回活動をしています。経験者も未経験者も関係なく楽しく野球をしています。興味をもった方はぜひ来てみてください！",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_104",
+      "group_name": "都立大KPOPカバーダンスサークル Lyla",
+      "booth_description": "KPOPカバーダンスサークルLylaです！新歓公演では、誰もが一度は聞いたことがあるような有名曲を披露します！ぜひ見に来てください！！",
+      "booth_id": [
+        "_1-210",
+        "out-soranome",
+        "out-hall-big"
+      ],
+      "circle_match_id": "05_VUKg50"
+    },
+    {
+      "participant_id": "26_105",
+      "group_name": "都立大子どもまつり実行委員会",
+      "booth_description": "私たちが主催している「都立大子どもまつり」や地域のボランティア活動について紹介します。イベント運営に興味のある方や子どもたちと関わりたい方、ぜひお越しください！お会いできるのを楽しみにしています！",
+      "booth_id": [
+        "_1-207"
+      ],
+      "circle_match_id": "05_Qvns78"
+    },
+    {
+      "participant_id": "26_106",
+      "group_name": "都立不死街",
+      "booth_description": "都立不死街ではフロムソフトウェア作品のプレイ体験とグッズの展示を行います。篝火で待っています！！",
+      "booth_id": [
+        "_7-221"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_107",
+      "group_name": "東京都立大学お笑いサークル傾喜者",
+      "booth_description": "東京都立大学唯一のお笑いサークルです！週一回の部会や定期ライブ、学祭でのネタ披露や大会出場が主な活動内容です。合宿やm-1の観戦などイベントも行っています。お笑いに興味がある方どなたでも大歓迎です！！",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "05_HHvG49"
+    },
+    {
+      "participant_id": "26_108",
+      "group_name": "東京都立大学バルーンアートサークル   ツイラバ",
+      "booth_description": "こんにちは🎈私達はバルーンアートをやっている【ツイラバ】です！まだまだ新米サークルで活動は小規模ですが、新入生の皆さんとバルーンアートを楽しくできたらなと思っています！ぜひお立ち寄りください☺️",
+      "booth_id": [
+        "_1-220"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_109",
+      "group_name": "東京都立大学航空部",
+      "booth_description": "パソコンとプロジェクターを使いグライダーのシュミレーターでグライダーの操縦体験をしてもらう",
+      "booth_id": [
+        "_1-302"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_110",
+      "group_name": "東京都立大学書道部",
+      "booth_description": "書道部は週2回、途中参加・退出自由で活動しています。部員は約20名で、未経験から始めた部員も多く、互いに教え合い楽しく上達できます！兼部しながら自分のペースで練習できるのも魅力です！見学のみも大歓迎！",
+      "booth_id": [
+        "_1-220"
+      ],
+      "circle_match_id": "02_AaRs86"
+    },
+    {
+      "participant_id": "26_111",
+      "group_name": "東日本きずなプロジェクト",
+      "booth_description": "サークルの年間スケジュールや活動内容をまとめたチラシを配布したり、実際にメンバーから活動内容などについて質問できます！",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_112",
+      "group_name": "東方都立璋",
+      "booth_description": "東方project同好会です！知ってる方も、知らない方も、是非お越しください。",
+      "booth_id": [
+        "_7-223"
+      ],
+      "circle_match_id": "05_GwLL74"
+    },
+    {
+      "participant_id": "26_113",
+      "group_name": "八雲FC",
+      "booth_description": "南大沢キャンパスで活動するサッカーサークルです！サッカーに興味ある子！ぜひ1度お話聞きに来てください✨プレーヤーもマネージャーも大募集してます！",
+      "booth_id": [
+        "_1-210"
+      ],
+      "circle_match_id": "05_yKWU36"
+    },
+    {
+      "participant_id": "26_114",
+      "group_name": "美術部",
+      "booth_description": "美術部は作品制作を中心に空いている時間に自由に活動します🖌️ 学内展示や大学祭に参加。資材使い放題で、ラクガキからデッサン、水彩、油彩、彫刻、陶芸、3Dプリンターまで！初心者も先輩が丁寧にサポート",
+      "booth_id": [
+        "_1-301"
+      ],
+      "circle_match_id": "02_JDoY8"
+    },
+    {
+      "participant_id": "26_115",
+      "group_name": "百人一首サークル",
+      "booth_description": "こんにちは！東京都立大学百人一首サークルです！百人一首サークルでは百人一首を使った競技かるたの体験や実演を行なっております。美しい競技かるたの世界をのぞいてみませんか？ぜひお越しください！",
+      "booth_id": [
+        "_7-213"
+      ],
+      "circle_match_id": "05_zKrc59"
+    },
+    {
+      "participant_id": "26_116",
+      "group_name": "文藝部",
+      "booth_description": "文藝部は小説を読んだり書いたりするサークルです。短編誌「青衿」や長編誌「ゆえ」を年数回発行し、読書会や短詩会も行います。本好きや創作したい人、大歓迎です！作品への思いを共有してみませんか。",
+      "booth_id": [
+        "_1-120"
+      ],
+      "circle_match_id": "03_cAyD37"
+    },
+    {
+      "participant_id": "26_117",
+      "group_name": "陸上競技部",
+      "booth_description": "活動内容や1年間の流れについて説明します！履修相談や学校生活のことなど気になることは相談に乗ります！気軽に参加してください！",
+      "booth_id": [
+        "_1-205"
+      ],
+      "circle_match_id": ""
+    },
+    {
+      "participant_id": "26_118",
+      "group_name": "料理サークルCaesar",
+      "booth_description": "料理サークルCaesarは活動紹介を行います！普段の活動やイベント、年間活動、サークルの雰囲気を紹介。質問や相談も歓迎です！興味がある人は気軽に来てください！",
+      "booth_id": [
+        "_1-110"
+      ],
+      "circle_match_id": "05_STuL14"
+    }
+  ],
+  "booths": [
+    {
+      "booth_id": "_1-207",
+      "booth_name": "【1号館】207教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-101",
+      "booth_name": "【7号館】101教室（スタジオ）",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-hq",
+      "booth_name": "【本部】講堂",
+      "style": "Available"
+    },
+    {
+      "booth_id": "gaku-danwa",
+      "booth_name": "【学生ホール】談話室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "gaku-shisaku",
+      "booth_name": "【学生ホール】資料作成室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "gaku-seikyo",
+      "booth_name": "生協広場",
+      "style": "TimeShifted"
+    },
+    {
+      "booth_id": "out-tent-9",
+      "booth_name": "【インフォメ】テント9",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-8",
+      "booth_name": "【インフォメ】テント8",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-7",
+      "booth_name": "【インフォメ】テント7",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-6",
+      "booth_name": "【インフォメ】テント6",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-5",
+      "booth_name": "【インフォメ】テント5",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-4",
+      "booth_name": "【インフォメ】テント4",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-3",
+      "booth_name": "【インフォメ】テント3",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-2",
+      "booth_name": "【インフォメ】テント2",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-tent-1",
+      "booth_name": "【インフォメ】テント1",
+      "style": "Available"
+    },
+    {
+      "booth_id": "out-soranome",
+      "booth_name": "空の目門",
+      "style": "TimeShifted"
+    },
+    {
+      "booth_id": "out-hall-big",
+      "booth_name": "講堂大ホール",
+      "style": "TimeShifted"
+    },
+    {
+      "booth_id": "out-hall-small",
+      "booth_name": "講堂小ホール",
+      "style": "Gray-Out"
+    },
+    {
+      "booth_id": "_7-230",
+      "booth_name": "【7号館】230教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-229",
+      "booth_name": "【7号館】229教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-228",
+      "booth_name": "【7号館】228教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-227",
+      "booth_name": "【7号館】227教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-226",
+      "booth_name": "【7号館】226教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-225",
+      "booth_name": "【7号館】225教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-224",
+      "booth_name": "【7号館】224教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-223",
+      "booth_name": "【7号館】223教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-222",
+      "booth_name": "【7号館】222教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-221",
+      "booth_name": "【7号館】221教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-218",
+      "booth_name": "【7号館】218教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-216",
+      "booth_name": "【7号館】216教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-215",
+      "booth_name": "【7号館】215教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-213",
+      "booth_name": "【7号館】213教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-212",
+      "booth_name": "【7号館】212教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-211",
+      "booth_name": "【7号館】211教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-106",
+      "booth_name": "【7号館】106教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_7-104",
+      "booth_name": "【7号館】104教室",
+      "style": "Gray-Out"
+    },
+    {
+      "booth_id": "_7-103",
+      "booth_name": "【7号館】103教室",
+      "style": "Gray-Out"
+    },
+    {
+      "booth_id": "_1-309",
+      "booth_name": "【1号館】309教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-310",
+      "booth_name": "【1号館】310教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-302",
+      "booth_name": "【1号館】302教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-301",
+      "booth_name": "【1号館】301教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-303",
+      "booth_name": "【1号館】303教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-304",
+      "booth_name": "【1号館】304教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-308",
+      "booth_name": "【1号館】308教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-208",
+      "booth_name": "【1号館】208教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-206",
+      "booth_name": "【1号館】206教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-209",
+      "booth_name": "【1号館】209教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-210",
+      "booth_name": "【1号館】210教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-202",
+      "booth_name": "【1号館】202教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-201",
+      "booth_name": "【1号館】201教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-203",
+      "booth_name": "【1号館】203教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-204",
+      "booth_name": "【1号館】204教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-205",
+      "booth_name": "【1号館】205教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-220",
+      "booth_name": "【1号館】220教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-240",
+      "booth_name": "【1号館】240教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-230",
+      "booth_name": "【1号館】230教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-101",
+      "booth_name": "【1号館】101教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-102",
+      "booth_name": "【1号館】102教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-103",
+      "booth_name": "【1号館】103教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-104",
+      "booth_name": "【1号館】104教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-105",
+      "booth_name": "【1号館】105教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-107",
+      "booth_name": "【1号館】107教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-109",
+      "booth_name": "【1号館】109教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-110",
+      "booth_name": "【1号館】110教室",
+      "style": "Available"
+    },
+    {
+      "booth_id": "_1-120",
+      "booth_name": "【1号館】120教室",
+      "style": "Available"
+    }
+  ],
+  "time_slots": [
+    {
+      "booth_id": "out-soranome",
+      "condition": "晴天時",
+      "time_shifts": [
+        {
+          "start_time": "11:00",
+          "participant_id": [
+            "26_065"
+          ]
+        },
+        {
+          "start_time": "11:20",
+          "participant_id": [
+            "26_098"
+          ]
+        },
+        {
+          "start_time": "11:35",
+          "participant_id": [
+            "26_095",
+            "26_061"
+          ]
+        },
+        {
+          "start_time": "12:10",
+          "participant_id": [
+            "26_066"
+          ]
+        },
+        {
+          "start_time": "12:40",
+          "participant_id": [
+            "26_065"
+          ]
+        },
+        {
+          "start_time": "13:00",
+          "participant_id": [
+            "26_098"
+          ]
+        },
+        {
+          "start_time": "13:15",
+          "participant_id": [
+            "26_095",
+            "26_061"
+          ]
+        },
+        {
+          "start_time": "13:50",
+          "participant_id": [
+            "26_086"
+          ]
+        },
+        {
+          "start_time": "15:10",
+          "participant_id": [
+            "26_104"
+          ]
+        }
+      ]
+    },
+    {
+      "booth_id": "gaku-seikyo",
+      "condition": "晴天時",
+      "time_shifts": [
+        {
+          "start_time": "11:00",
+          "participant_id": [
+            "26_045"
+          ]
+        },
+        {
+          "start_time": "12:30",
+          "participant_id": [
+            "26_046",
+            "26_068"
+          ]
+        }
+      ]
+    },
+    {
+      "booth_id": "out-hall-big",
+      "condition": "晴天時",
+      "time_shifts": [
+        {
+          "start_time": "11:00",
+          "participant_id": [
+            "26_063"
+          ]
+        }
+      ]
+    },
+    {
+      "booth_id": "out-hall-big",
+      "condition": "雨天時",
+      "time_shifts": [
+        {
+          "start_time": "11:00",
+          "participant_id": [
+            "26_045"
+          ]
+        },
+        {
+          "start_time": "11:20",
+          "participant_id": [
+            "26_068",
+            "26_046"
+          ]
+        },
+        {
+          "start_time": "12:30",
+          "participant_id": [
+            "26_063"
+          ]
+        },
+        {
+          "start_time": "13:10",
+          "participant_id": [
+            "26_066"
+          ]
+        },
+        {
+          "start_time": "13:25",
+          "participant_id": [
+            "26_065"
+          ]
+        },
+        {
+          "start_time": "13:50",
+          "participant_id": [
+            "26_098"
+          ]
+        },
+        {
+          "start_time": "14:00",
+          "participant_id": [
+            "26_095",
+            "26_061"
+          ]
+        },
+        {
+          "start_time": "14:30",
+          "participant_id": [
+            "26_086"
+          ]
+        },
+        {
+          "start_time": "15:25",
+          "participant_id": [
+            "26_104"
+          ]
+        }
+      ]
+    }
+  ]
+}
