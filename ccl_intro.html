@@ -190,12 +190,81 @@
                         開催時間に南大沢キャンパスに足を運ぶだけです。申請などは不要で入退場も自由です。
                     </p>
 
-                    <h3 id="map">サークル紹介参加団体案内図</h3>
-                        <!-- map modules
-                        ================================================== -->
-                        <script type="module" src="./mapplic.js"></script>
-                        <link rel="stylesheet" href="./mapplic.css">
-                    <mapplic-map data-json="assets/maps/circle_intro/map_ccl_intro.json?0403001">
+                                        <style>
+                        .index-circle_match-wrapper {
+                            position: relative;
+                            width: 100%;
+                            display: flex;
+                            flex-wrap: wrap;
+                            align-items: center;
+                            overflow: hidden;
+                            gap: 2rem;
+                            margin: 2rem 0;
+                            padding:0 2rem;
+                            background-color: #f9f9f9;
+                            border-radius: 20px;
+                        }
+                        .index-circle_match-wrapper .bg_image {
+                            position: absolute;
+                            top: 0;
+                            left: 0;
+                            width: 100%;
+                            height: 100%;
+                            object-fit: cover;
+                            margin: 0;
+                            z-index: 1;
+                            opacity: 0.2;
+                        }
+                        .index-circle_match-content {
+                            position: relative;
+                            width: 100%;
+                            z-index: 50;
+                            display: flex;
+                            flex-direction: column;
+                            gap: 3rem;
+                            justify-content: space-between;
+                        }
+                        .index-circle_match-content .box-upper {
+                            margin-top: 2rem;
+                            display: flex;
+                            width: 100%;
+                            flex-direction: column;
+                            justify-content: space-between;
+                            align-items: center;
+                        }
+
+                        .index-circle_match-content .box-upper h2{
+                            margin-top: 1rem;
+                        }
+
+                        .index-circle_match-content .box-lower{
+                            display: flex;
+                            flex-direction: column;
+                            align-items: end;
+                        }
+
+                        .index-circle_match-content .box-lower img{
+                            margin: 0;
+                            
+                        }
+                    </style>
+                    <div class="index-circle_match-wrapper">
+                        <img class="bg_image" src="./images/about.jpg" alt="">
+                        <div class="index-circle_match-content">
+                            <div class="box-upper">
+                                <div>
+                                    <h2>サークル紹介 Webパンフレット</h2>
+                                    <p>本日開催のサークル紹介の出展情報を掲載しています！</p>
+                                </div>
+                                <div>
+                                    <a href="./circle_intro/">使ってみる</a>
+                                </div>
+                            </div>
+                            <div class="box-lower">
+                                <img src="./images/circle_intro_mock.webp" alt="">
+                            </div>
+                        </div>
+                    </div>
                 </article> <!-- end column large-full entry-->
 
                     

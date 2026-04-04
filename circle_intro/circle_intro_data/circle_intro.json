@@ -281,7 +281,8 @@
       "group_name": "ジャグリングサークルTeam\"Lamp\"",
       "booth_description": "こんにちは！ジャグリングサークルTeam\"Lamp\"です！サークル紹介ではジャグリングの体験会を行います。未経験者大歓迎！部員のほとんどが大学からジャグリングを始めました！「一芸、得たくない？」",
       "booth_id": [
-        "_1-309"
+        "_1-309",
+        "_7-104"
       ],
       "circle_match_id": "02_RZMN12"
     },
@@ -1259,7 +1260,7 @@
     {
       "booth_id": "_7-104",
       "booth_name": "【7号館】104教室",
-      "style": "Gray-Out"
+      "style": "Available"
     },
     {
       "booth_id": "_7-103",
